@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T03:36:34.924Z",
+  "updatedAt": "2026-09-23T03:40:26.972Z",
   "packs": [
     {
       "packId": "backgroudbev1",
@@ -270,8 +270,8 @@
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkedocv4-v1.0.4.webp"
       ],
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/thietkedocv4-1.0.5.snpack",
-      "size": 2269544,
-      "sha256": "41fb6565642007b9a9dbbb9ea832ceecb7d31bda8c7e23acafa1f82d489b4591",
+      "size": 2269543,
+      "sha256": "f155d4373c0057bb7bac0b65c69a5f0f5b5fb051b3be371ff1f309b962600040",
       "appMinVersion": "0.1.0",
       "encryption": {
         "containerVersion": 1,
@@ -296,8 +296,8 @@
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietketrangdoiv3-v1.0.2.webp"
       ],
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/thietketrangdoiv3-1.0.3.snpack",
-      "size": 6923799,
-      "sha256": "6991615084ea9abb642f43c2bcf0dcce77757694f527a538db6bce2009de0bbf",
+      "size": 6923781,
+      "sha256": "6b6c09b3e75cc23a45b0ae49291eed128ca946e3e881ff73ec9dc5a9d67ee1e4",
       "appMinVersion": "0.1.0",
       "encryption": {
         "containerVersion": 1,
