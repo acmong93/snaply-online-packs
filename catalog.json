@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-17T04:38:40.314Z",
+  "updatedAt": "2026-09-23T03:36:34.924Z",
   "packs": [
     {
       "packId": "backgroudbev1",
@@ -260,7 +260,7 @@
     {
       "packId": "thietkedocv4",
       "name": "Thiết kế mẫu dọc Flash Album v3",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "tier": "vip",
       "description": "Thiết kế mẫu dọc Flash Album v3",
       "category": "design",
@@ -269,9 +269,9 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkedocv4-v1.0.4.webp"
       ],
-      "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/thietkedocv4-1.0.4.snpack",
-      "size": 2269506,
-      "sha256": "3f24511f1131d7148fcaa571ca3d2e270f836b22cd3de4d38b482ba273149883",
+      "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/thietkedocv4-1.0.5.snpack",
+      "size": 2269544,
+      "sha256": "41fb6565642007b9a9dbbb9ea832ceecb7d31bda8c7e23acafa1f82d489b4591",
       "appMinVersion": "0.1.0",
       "encryption": {
         "containerVersion": 1,
@@ -286,7 +286,7 @@
     {
       "packId": "thietketrangdoiv3",
       "name": "Thiết kế trang đôi Flash Album new",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "tier": "vip",
       "description": "Thiết kế trang đôi Flash Album new",
       "category": "design",
@@ -295,9 +295,9 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietketrangdoiv3-v1.0.2.webp"
       ],
-      "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/thietketrangdoiv3-1.0.2.snpack",
-      "size": 6923756,
-      "sha256": "ba83740a60c7107c66cf9e281902512a4586c0ba95db40558a452de3fe3f7be1",
+      "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/thietketrangdoiv3-1.0.3.snpack",
+      "size": 6923799,
+      "sha256": "6991615084ea9abb642f43c2bcf0dcce77757694f527a538db6bce2009de0bbf",
       "appMinVersion": "0.1.0",
       "encryption": {
         "containerVersion": 1,
