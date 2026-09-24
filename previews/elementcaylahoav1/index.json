@@ -1,0 +1,288 @@
+{
+ "packId": "elementcaylahoav1",
+ "version": "1.0.1",
+ "name": "elementcaylahoav1",
+ "generatedAt": "2026-09-24T12:55:21.170Z",
+ "concept": "c05-2t10-cp2",
+ "items": [
+  {
+   "templateId": "elementcaylahoav1::e56fb934-ab2d-4d6e-bd31-31466fd91b58",
+   "name": "2e5b0227aa34495e8744b30146b1fb78",
+   "photoCount": null,
+   "file": "e56fb934-ab2d-4d6e-bd31-31466fd91b58.webp",
+   "w": 480,
+   "h": 483,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::affff728-1fe7-4a03-9b30-8300b47531b1",
+   "name": "8548df8029bc783cddb6faee930d07fd",
+   "photoCount": null,
+   "file": "affff728-1fe7-4a03-9b30-8300b47531b1.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::a12c586d-3b6a-4993-8c12-b318559b633e",
+   "name": "a4c5428fa9019335bf610bf2ea8d4de9",
+   "photoCount": null,
+   "file": "a12c586d-3b6a-4993-8c12-b318559b633e.webp",
+   "w": 480,
+   "h": 637,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::2a7dfa07-7553-4a93-9d6e-52756de25f1f",
+   "name": "f352ac346588e20152f3a564083bbc86",
+   "photoCount": null,
+   "file": "2a7dfa07-7553-4a93-9d6e-52756de25f1f.webp",
+   "w": 480,
+   "h": 854,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::87886fa5-63e1-434e-a7ea-14b47e62296c",
+   "name": "huaban-672a0882463",
+   "photoCount": null,
+   "file": "87886fa5-63e1-434e-a7ea-14b47e62296c.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::ad03f431-f6ab-4f5e-a693-eaa3d78864f2",
+   "name": "huaban-66264858a74",
+   "photoCount": null,
+   "file": "ad03f431-f6ab-4f5e-a693-eaa3d78864f2.webp",
+   "w": 400,
+   "h": 579,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::97381199-78d1-4847-98e0-e1adfaf650ec",
+   "name": "huaban-3680925668",
+   "photoCount": null,
+   "file": "97381199-78d1-4847-98e0-e1adfaf650ec.webp",
+   "w": 480,
+   "h": 701,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::23b2c69f-0326-4e9c-b2b7-ef361c39d029",
+   "name": "huaban-3754179509",
+   "photoCount": null,
+   "file": "23b2c69f-0326-4e9c-b2b7-ef361c39d029.webp",
+   "w": 480,
+   "h": 514,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::011abaaf-33e2-4238-b7c6-7c8ad7028348",
+   "name": "huaban-3760895920",
+   "photoCount": null,
+   "file": "011abaaf-33e2-4238-b7c6-7c8ad7028348.webp",
+   "w": 480,
+   "h": 725,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::7885eee8-e4b5-47db-9f86-d755484f0e9e",
+   "name": "huaban-3761145888",
+   "photoCount": null,
+   "file": "7885eee8-e4b5-47db-9f86-d755484f0e9e.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::e0c58139-22d3-4019-b5aa-2aa63753d9f8",
+   "name": "huaban-4199490038",
+   "photoCount": null,
+   "file": "e0c58139-22d3-4019-b5aa-2aa63753d9f8.webp",
+   "w": 480,
+   "h": 800,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::93e079ea-f15e-4a46-be2c-4d7c38c052df",
+   "name": "huaban-4566182683",
+   "photoCount": null,
+   "file": "93e079ea-f15e-4a46-be2c-4d7c38c052df.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::b51ed459-6fa8-4a59-84f0-c985a783304a",
+   "name": "huaban-5057340138",
+   "photoCount": null,
+   "file": "b51ed459-6fa8-4a59-84f0-c985a783304a.webp",
+   "w": 480,
+   "h": 752,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::570fa744-a853-4aa3-aee6-ba5b19da6438",
+   "name": "huaban-5925439105",
+   "photoCount": null,
+   "file": "570fa744-a853-4aa3-aee6-ba5b19da6438.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::6727e08b-865f-4317-bddc-8b4a11c267ec",
+   "name": "huaban-6046490612",
+   "photoCount": null,
+   "file": "6727e08b-865f-4317-bddc-8b4a11c267ec.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::2508cd93-ff2a-4184-9de3-dc3340e08627",
+   "name": "huaban-6079600780",
+   "photoCount": null,
+   "file": "2508cd93-ff2a-4184-9de3-dc3340e08627.webp",
+   "w": 480,
+   "h": 445,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::82397267-fa41-41e3-b26f-17c622953e0e",
+   "name": "huaban-6079639999",
+   "photoCount": null,
+   "file": "82397267-fa41-41e3-b26f-17c622953e0e.webp",
+   "w": 480,
+   "h": 739,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::5dfea0ed-0428-4818-8dfa-5d98e266d1ad",
+   "name": "huaban-6088562723",
+   "photoCount": null,
+   "file": "5dfea0ed-0428-4818-8dfa-5d98e266d1ad.webp",
+   "w": 480,
+   "h": 416,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::a85319c5-5e62-4780-a9ea-2fbe38f76a89",
+   "name": "huaban-6166815840",
+   "photoCount": null,
+   "file": "a85319c5-5e62-4780-a9ea-2fbe38f76a89.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::88f1cf82-f2d2-4514-9034-50daf60aabb5",
+   "name": "huaban-6211737562",
+   "photoCount": null,
+   "file": "88f1cf82-f2d2-4514-9034-50daf60aabb5.webp",
+   "w": 480,
+   "h": 1417,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::5e58cedb-f627-45d9-8dbe-1cd172561aa3",
+   "name": "huaban-6213273637",
+   "photoCount": null,
+   "file": "5e58cedb-f627-45d9-8dbe-1cd172561aa3.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::38cbeb07-5139-471c-88ad-31c10aafb592",
+   "name": "huaban-6288360175",
+   "photoCount": null,
+   "file": "38cbeb07-5139-471c-88ad-31c10aafb592.webp",
+   "w": 480,
+   "h": 736,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::e00693e8-f91b-4a38-a5d0-f2be2da95e1d",
+   "name": "huaban-6375628770",
+   "photoCount": null,
+   "file": "e00693e8-f91b-4a38-a5d0-f2be2da95e1d.webp",
+   "w": 480,
+   "h": 963,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::26a6943f-ee60-4ca4-a97e-d08ab9d61024",
+   "name": "huaban-6375629194",
+   "photoCount": null,
+   "file": "26a6943f-ee60-4ca4-a97e-d08ab9d61024.webp",
+   "w": 480,
+   "h": 884,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::f62967a2-e631-4962-ab68-815a0e84849f",
+   "name": "huaban-6514848862",
+   "photoCount": null,
+   "file": "f62967a2-e631-4962-ab68-815a0e84849f.webp",
+   "w": 198,
+   "h": 239,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::042c0c63-b688-4f1f-9542-fa7b8887c3de",
+   "name": "huaban-6587979322",
+   "photoCount": null,
+   "file": "042c0c63-b688-4f1f-9542-fa7b8887c3de.webp",
+   "w": 480,
+   "h": 886,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::c63345db-7e11-403a-a381-62b74d5d9fa9",
+   "name": "huaban-6626485874",
+   "photoCount": null,
+   "file": "c63345db-7e11-403a-a381-62b74d5d9fa9.webp",
+   "w": 400,
+   "h": 579,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::2e67d1b5-0f5b-4143-b1a7-5c3035c6f424",
+   "name": "huaban-6720882463",
+   "photoCount": null,
+   "file": "2e67d1b5-0f5b-4143-b1a7-5c3035c6f424.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::a298ab42-ef4d-4fe9-b5a6-471505ef22b2",
+   "name": "huaban-6734764405",
+   "photoCount": null,
+   "file": "a298ab42-ef4d-4fe9-b5a6-471505ef22b2.webp",
+   "w": 480,
+   "h": 530,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::685f4c2c-e4f2-4489-8113-c7b89e5a8dd3",
+   "name": "huaban-6951825190",
+   "photoCount": null,
+   "file": "685f4c2c-e4f2-4489-8113-c7b89e5a8dd3.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementcaylahoav1::7c3a935a-0c32-4bdf-badb-b151fcf56c5b",
+   "name": "tải xuốnga",
+   "photoCount": null,
+   "file": "7c3a935a-0c32-4bdf-badb-b151fcf56c5b.webp",
+   "w": 480,
+   "h": 864,
+   "kind": "element"
+  }
+ ]
+}

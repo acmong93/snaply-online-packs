@@ -1,0 +1,540 @@
+{
+ "packId": "typokorea",
+ "version": "1.0.1",
+ "name": "Typo Korea",
+ "generatedAt": "2026-09-24T13:12:42.800Z",
+ "concept": "c11-thang-hoang-full",
+ "items": [
+  {
+   "templateId": "typokorea::7a5ee1e6-e8a3-41ab-a271-c67c94a8dda3",
+   "name": "10a",
+   "photoCount": null,
+   "file": "7a5ee1e6-e8a3-41ab-a271-c67c94a8dda3.webp",
+   "w": 480,
+   "h": 288,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::3a0d9184-4172-464e-ba60-3aa02f6a82aa",
+   "name": "11a",
+   "photoCount": null,
+   "file": "3a0d9184-4172-464e-ba60-3aa02f6a82aa.webp",
+   "w": 480,
+   "h": 276,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::3a3534ad-79e9-437b-850e-1b49a886ce17",
+   "name": "9a",
+   "photoCount": null,
+   "file": "3a3534ad-79e9-437b-850e-1b49a886ce17.webp",
+   "w": 480,
+   "h": 400,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::3d359574-6111-4758-a909-53526ceb1404",
+   "name": "8a",
+   "photoCount": null,
+   "file": "3d359574-6111-4758-a909-53526ceb1404.webp",
+   "w": 480,
+   "h": 400,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::387fc7f7-dbf4-4d19-aa64-71ba2d752770",
+   "name": "7a",
+   "photoCount": null,
+   "file": "387fc7f7-dbf4-4d19-aa64-71ba2d752770.webp",
+   "w": 480,
+   "h": 400,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::3ac7e2b4-5ad5-4fe6-a142-2312b2c66f5f",
+   "name": "12a",
+   "photoCount": null,
+   "file": "3ac7e2b4-5ad5-4fe6-a142-2312b2c66f5f.webp",
+   "w": 480,
+   "h": 400,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::eada762a-3b84-4de1-bd50-a02b95dcff94",
+   "name": "15",
+   "photoCount": null,
+   "file": "eada762a-3b84-4de1-bd50-a02b95dcff94.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::7ba4449d-f9e0-40d2-bf46-69cc536f1849",
+   "name": "19",
+   "photoCount": null,
+   "file": "7ba4449d-f9e0-40d2-bf46-69cc536f1849.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::a070802c-1628-43b1-9e63-ad4168c52592",
+   "name": "20k",
+   "photoCount": null,
+   "file": "a070802c-1628-43b1-9e63-ad4168c52592.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::712cd13b-5701-49ee-ac71-231d4b52df30",
+   "name": "21k",
+   "photoCount": null,
+   "file": "712cd13b-5701-49ee-ac71-231d4b52df30.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::b9f5f1f8-435f-4749-b318-27adc741da5b",
+   "name": "22",
+   "photoCount": null,
+   "file": "b9f5f1f8-435f-4749-b318-27adc741da5b.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::3b741e4d-ec7f-4f6d-9529-c3d6bc9e5240",
+   "name": "han quoc 1",
+   "photoCount": null,
+   "file": "3b741e4d-ec7f-4f6d-9529-c3d6bc9e5240.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::64570fd6-1a0c-41bd-8365-85c7e9d7d4c8",
+   "name": "han quoc 2",
+   "photoCount": null,
+   "file": "64570fd6-1a0c-41bd-8365-85c7e9d7d4c8.webp",
+   "w": 480,
+   "h": 577,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::185339d1-9467-44b1-b878-2820ffeb1620",
+   "name": "24k",
+   "photoCount": null,
+   "file": "185339d1-9467-44b1-b878-2820ffeb1620.webp",
+   "w": 480,
+   "h": 333,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::277a6ec6-74bc-4418-8f76-03060eb4033e",
+   "name": "25k",
+   "photoCount": null,
+   "file": "277a6ec6-74bc-4418-8f76-03060eb4033e.webp",
+   "w": 480,
+   "h": 333,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::0c5424c2-a6ac-457c-9308-799f931060f0",
+   "name": "han quoc 7",
+   "photoCount": null,
+   "file": "0c5424c2-a6ac-457c-9308-799f931060f0.webp",
+   "w": 480,
+   "h": 534,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::ec0ec450-802f-403d-b9e0-28fc32dc2d0c",
+   "name": "han quoc 3",
+   "photoCount": null,
+   "file": "ec0ec450-802f-403d-b9e0-28fc32dc2d0c.webp",
+   "w": 480,
+   "h": 585,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::5ba62d3e-120e-4a56-b219-2ce4cb01a58b",
+   "name": "han quoc 6",
+   "photoCount": null,
+   "file": "5ba62d3e-120e-4a56-b219-2ce4cb01a58b.webp",
+   "w": 480,
+   "h": 495,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::92be0f5d-9660-46db-beff-e445f07bd0cc",
+   "name": "k16",
+   "photoCount": null,
+   "file": "92be0f5d-9660-46db-beff-e445f07bd0cc.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::37857cf4-1d0c-4c79-a1bb-aeff6c5d5c0e",
+   "name": "k17",
+   "photoCount": null,
+   "file": "37857cf4-1d0c-4c79-a1bb-aeff6c5d5c0e.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::b4ab742d-85cb-4b19-a37f-18ebd6d01e99",
+   "name": "ko18",
+   "photoCount": null,
+   "file": "b4ab742d-85cb-4b19-a37f-18ebd6d01e99.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::647f1824-5e20-432f-84af-38624e77634a",
+   "name": "kore 10",
+   "photoCount": null,
+   "file": "647f1824-5e20-432f-84af-38624e77634a.webp",
+   "w": 480,
+   "h": 333,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::210ebd35-59fb-4b18-ad25-5f50891f289c",
+   "name": "kore8",
+   "photoCount": null,
+   "file": "210ebd35-59fb-4b18-ad25-5f50891f289c.webp",
+   "w": 480,
+   "h": 333,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::103372a6-5c1a-47d2-988d-a6dd7ae684e9",
+   "name": "kore9",
+   "photoCount": null,
+   "file": "103372a6-5c1a-47d2-988d-a6dd7ae684e9.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::321c9f10-4724-451d-97d3-ad6046b7eb76",
+   "name": "han quoc5",
+   "photoCount": null,
+   "file": "321c9f10-4724-451d-97d3-ad6046b7eb76.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::525c666d-9838-4da1-a828-7365ada73908",
+   "name": "KOREA1",
+   "photoCount": null,
+   "file": "525c666d-9838-4da1-a828-7365ada73908.webp",
+   "w": 480,
+   "h": 376,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::30b5db36-efe2-47ba-8423-d06b38319015",
+   "name": "KOREA2",
+   "photoCount": null,
+   "file": "30b5db36-efe2-47ba-8423-d06b38319015.webp",
+   "w": 480,
+   "h": 362,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::41b00319-b9b8-4e56-b735-7b63e4462ecc",
+   "name": "KOREA3",
+   "photoCount": null,
+   "file": "41b00319-b9b8-4e56-b735-7b63e4462ecc.webp",
+   "w": 480,
+   "h": 362,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::56d36ae4-31c7-49db-b792-e37e6128df61",
+   "name": "KOREA4",
+   "photoCount": null,
+   "file": "56d36ae4-31c7-49db-b792-e37e6128df61.webp",
+   "w": 480,
+   "h": 362,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::3af17d8a-9135-4e7f-bbe4-2b8281cae347",
+   "name": "hanc uqoc 4",
+   "photoCount": null,
+   "file": "3af17d8a-9135-4e7f-bbe4-2b8281cae347.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::139d159c-e9b7-4db6-8ffe-5dc72947303d",
+   "name": "KOREA11",
+   "photoCount": null,
+   "file": "139d159c-e9b7-4db6-8ffe-5dc72947303d.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::19cf0ea5-9535-43d2-b7d0-29474b467aaa",
+   "name": "KOREA12",
+   "photoCount": null,
+   "file": "19cf0ea5-9535-43d2-b7d0-29474b467aaa.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::8722b44a-7037-42be-97a7-b5feaefc65d4",
+   "name": "KOREA5",
+   "photoCount": null,
+   "file": "8722b44a-7037-42be-97a7-b5feaefc65d4.webp",
+   "w": 480,
+   "h": 362,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::3088439e-9ed4-41aa-b20e-39532eae59b0",
+   "name": "korea13",
+   "photoCount": null,
+   "file": "3088439e-9ed4-41aa-b20e-39532eae59b0.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::d7de8b0e-1aec-4b17-8db4-938906cfafa0",
+   "name": "KOREA",
+   "photoCount": null,
+   "file": "d7de8b0e-1aec-4b17-8db4-938906cfafa0.webp",
+   "w": 480,
+   "h": 333,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::63f76ea1-487d-4cf5-812c-aef81c22f928",
+   "name": "KOREA14",
+   "photoCount": null,
+   "file": "63f76ea1-487d-4cf5-812c-aef81c22f928.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::ffb8adcf-30c1-464c-9e0d-a18753b529ac",
+   "name": "TYPO WEDDING (34)",
+   "photoCount": null,
+   "file": "ffb8adcf-30c1-464c-9e0d-a18753b529ac.webp",
+   "w": 480,
+   "h": 609,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::014c73c7-a462-4547-bbf4-2c3a4047d4b3",
+   "name": "TYPO WEDDING (21)",
+   "photoCount": null,
+   "file": "014c73c7-a462-4547-bbf4-2c3a4047d4b3.webp",
+   "w": 480,
+   "h": 711,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::4374b4e4-b805-44f7-9309-4df8c8b504ac",
+   "name": "TTP 5",
+   "photoCount": null,
+   "file": "4374b4e4-b805-44f7-9309-4df8c8b504ac.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::1ee5518e-cf1e-4f36-ad19-28dc60030c1f",
+   "name": "TTP 6",
+   "photoCount": null,
+   "file": "1ee5518e-cf1e-4f36-ad19-28dc60030c1f.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::de7e7858-f202-4078-bb28-9ec719281ddf",
+   "name": "TYPO WEDDING 2",
+   "photoCount": null,
+   "file": "de7e7858-f202-4078-bb28-9ec719281ddf.webp",
+   "w": 480,
+   "h": 416,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::844a6541-0fad-404d-8a9a-095527d235f5",
+   "name": "TYPO WEDDING 5",
+   "photoCount": null,
+   "file": "844a6541-0fad-404d-8a9a-095527d235f5.webp",
+   "w": 480,
+   "h": 407,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::fbb00b9f-11ab-45d3-8a69-ea45616df70e",
+   "name": "TYPO WEDDING (38)",
+   "photoCount": null,
+   "file": "fbb00b9f-11ab-45d3-8a69-ea45616df70e.webp",
+   "w": 480,
+   "h": 492,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::09b196b0-aa18-46b0-9e6b-70941db8248b",
+   "name": "TYPO WEDDING 3",
+   "photoCount": null,
+   "file": "09b196b0-aa18-46b0-9e6b-70941db8248b.webp",
+   "w": 480,
+   "h": 546,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::4b05fe22-6476-4a5c-bd9b-4b9d36d3f0fc",
+   "name": "TYPO WEDDING 8",
+   "photoCount": null,
+   "file": "4b05fe22-6476-4a5c-bd9b-4b9d36d3f0fc.webp",
+   "w": 480,
+   "h": 290,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::c7387f98-95aa-4909-b004-e5cc703ca9ff",
+   "name": "TYPO WEDDING 7",
+   "photoCount": null,
+   "file": "c7387f98-95aa-4909-b004-e5cc703ca9ff.webp",
+   "w": 480,
+   "h": 499,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::1a3f1954-907a-49fc-9fa2-9efe9646c59a",
+   "name": "v141",
+   "photoCount": null,
+   "file": "1a3f1954-907a-49fc-9fa2-9efe9646c59a.webp",
+   "w": 480,
+   "h": 172,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::32a174a6-eb62-45e8-b469-12698c170351",
+   "name": "TYPO WEDDING 9",
+   "photoCount": null,
+   "file": "32a174a6-eb62-45e8-b469-12698c170351.webp",
+   "w": 480,
+   "h": 340,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::68827d6e-eb30-4902-8e52-3e11e33f8e87",
+   "name": "v144",
+   "photoCount": null,
+   "file": "68827d6e-eb30-4902-8e52-3e11e33f8e87.webp",
+   "w": 480,
+   "h": 53,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::97d39fee-01b2-4215-83dd-764a64a59f0b",
+   "name": "v145",
+   "photoCount": null,
+   "file": "97d39fee-01b2-4215-83dd-764a64a59f0b.webp",
+   "w": 480,
+   "h": 95,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::36b8d01a-4862-4cde-84f0-05ed07c2415e",
+   "name": "v142",
+   "photoCount": null,
+   "file": "36b8d01a-4862-4cde-84f0-05ed07c2415e.webp",
+   "w": 480,
+   "h": 93,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::8b7ad8e9-288f-432c-b5c0-9b03a7beb12a",
+   "name": "v143",
+   "photoCount": null,
+   "file": "8b7ad8e9-288f-432c-b5c0-9b03a7beb12a.webp",
+   "w": 480,
+   "h": 183,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::5a269bac-62ea-4465-8a0c-f05a3deb7953",
+   "name": "v147",
+   "photoCount": null,
+   "file": "5a269bac-62ea-4465-8a0c-f05a3deb7953.webp",
+   "w": 480,
+   "h": 237,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::86665d28-2b22-4f97-88dc-eefa1bf3ba10",
+   "name": "v148",
+   "photoCount": null,
+   "file": "86665d28-2b22-4f97-88dc-eefa1bf3ba10.webp",
+   "w": 480,
+   "h": 253,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::1fc3ba36-9631-4ede-8751-b00f32609c07",
+   "name": "v149",
+   "photoCount": null,
+   "file": "1fc3ba36-9631-4ede-8751-b00f32609c07.webp",
+   "w": 480,
+   "h": 118,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::a6a8c4e4-cb9e-4895-afc6-2d6058d05a9d",
+   "name": "v1410",
+   "photoCount": null,
+   "file": "a6a8c4e4-cb9e-4895-afc6-2d6058d05a9d.webp",
+   "w": 480,
+   "h": 115,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::77a7a441-1a94-4540-9a84-7ae6636af857",
+   "name": "v1411",
+   "photoCount": null,
+   "file": "77a7a441-1a94-4540-9a84-7ae6636af857.webp",
+   "w": 480,
+   "h": 78,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::9f322043-014f-4648-b1d1-c38b6eef39f6",
+   "name": "v1412",
+   "photoCount": null,
+   "file": "9f322043-014f-4648-b1d1-c38b6eef39f6.webp",
+   "w": 480,
+   "h": 155,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typokorea::f58b8298-8800-45fc-9c39-8fda82f04483",
+   "name": "Vv1413",
+   "photoCount": null,
+   "file": "f58b8298-8800-45fc-9c39-8fda82f04483.webp",
+   "w": 480,
+   "h": 115,
+   "kind": "typo"
+  }
+ ]
+}

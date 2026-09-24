@@ -1,0 +1,71 @@
+{
+ "packId": "elementtonghopv1",
+ "version": "1.0.1",
+ "name": "element tong hop v1",
+ "generatedAt": "2026-09-24T13:13:24.359Z",
+ "items": [
+  {
+   "templateId": "elementtonghopv1::c70065df-c784-4b68-894f-d4955d84b39a",
+   "name": "20_giay_va_sap_do",
+   "photoCount": null,
+   "file": "c70065df-c784-4b68-894f-d4955d84b39a.webp",
+   "w": 306,
+   "h": 257,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementtonghopv1::825de805-02be-4cc0-a513-9a683f6927b1",
+   "name": "huaban-505730759a9",
+   "photoCount": null,
+   "file": "825de805-02be-4cc0-a513-9a683f6927b1.webp",
+   "w": 480,
+   "h": 270,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementtonghopv1::19267910-ab94-43f0-997f-e28c127480da",
+   "name": "huaban-3753695729",
+   "photoCount": null,
+   "file": "19267910-ab94-43f0-997f-e28c127480da.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementtonghopv1::8b146aca-5205-4728-818b-4c381e4399d9",
+   "name": "huaban-3753701434",
+   "photoCount": null,
+   "file": "8b146aca-5205-4728-818b-4c381e4399d9.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementtonghopv1::c3999e30-24a2-4dd7-9a87-bcbd8747b2ad",
+   "name": "huaban-5057307599",
+   "photoCount": null,
+   "file": "c3999e30-24a2-4dd7-9a87-bcbd8747b2ad.webp",
+   "w": 480,
+   "h": 270,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementtonghopv1::29ce2372-193f-4ae3-bedc-a5990e5ccbf4",
+   "name": "huaban-5991231734",
+   "photoCount": null,
+   "file": "29ce2372-193f-4ae3-bedc-a5990e5ccbf4.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementtonghopv1::6eb8edcf-9acd-4a15-bb47-693cfcbee314",
+   "name": "huaban-6499461700",
+   "photoCount": null,
+   "file": "6eb8edcf-9acd-4a15-bb47-693cfcbee314.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "element"
+  }
+ ]
+}

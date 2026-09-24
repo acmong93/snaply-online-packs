@@ -1,0 +1,126 @@
+{
+ "packId": "elementkhuydongdauv1",
+ "version": "1.0.1",
+ "name": "element khuy đóng dấu v1",
+ "generatedAt": "2026-09-24T12:55:21.704Z",
+ "concept": "c06-2t10-cp1",
+ "items": [
+  {
+   "templateId": "elementkhuydongdauv1::6baa9c8c-98f3-44dc-a09e-87e09741dc9d",
+   "name": "6cc2924ca05055e18b96b91c77008357",
+   "photoCount": null,
+   "file": "6baa9c8c-98f3-44dc-a09e-87e09741dc9d.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementkhuydongdauv1::12b45e57-8c8d-49da-af18-4587d1b5868c",
+   "name": "194edd5b6f1c73f1b90ed6e40ae46078",
+   "photoCount": null,
+   "file": "12b45e57-8c8d-49da-af18-4587d1b5868c.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementkhuydongdauv1::db128bfa-4e95-42b3-a402-cb7459eb00bd",
+   "name": "a4990b292ffe9e5582f5a197a47b8db3",
+   "photoCount": null,
+   "file": "db128bfa-4e95-42b3-a402-cb7459eb00bd.webp",
+   "w": 480,
+   "h": 534,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementkhuydongdauv1::d672683f-d493-4e3e-ab26-1e092e8edcac",
+   "name": "ac1e660d59498caa805799c5181bbd9b",
+   "photoCount": null,
+   "file": "d672683f-d493-4e3e-ab26-1e092e8edcac.webp",
+   "w": 480,
+   "h": 475,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementkhuydongdauv1::3813ea08-a77a-4811-b431-f75da5df54e8",
+   "name": "da81c0fb191d4915bac2dd40389e8a43",
+   "photoCount": null,
+   "file": "3813ea08-a77a-4811-b431-f75da5df54e8.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementkhuydongdauv1::1dc55efa-80c2-48e8-ae61-31301713b785",
+   "name": "huaban-2232950408",
+   "photoCount": null,
+   "file": "1dc55efa-80c2-48e8-ae61-31301713b785.webp",
+   "w": 480,
+   "h": 454,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementkhuydongdauv1::4433026b-921a-420b-a863-1e5f0e954c5a",
+   "name": "huaban-5316322179",
+   "photoCount": null,
+   "file": "4433026b-921a-420b-a863-1e5f0e954c5a.webp",
+   "w": 438,
+   "h": 421,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementkhuydongdauv1::e6a66993-6175-4921-b18b-da6fd70cfdaa",
+   "name": "huaban-5522268353",
+   "photoCount": null,
+   "file": "e6a66993-6175-4921-b18b-da6fd70cfdaa.webp",
+   "w": 480,
+   "h": 374,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementkhuydongdauv1::e1e8fcdb-3503-4f16-8773-6e512267ece7",
+   "name": "huaban-6382004022",
+   "photoCount": null,
+   "file": "e1e8fcdb-3503-4f16-8773-6e512267ece7.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementkhuydongdauv1::269508cf-f7fe-4d36-9649-81892b63aafc",
+   "name": "huaban-6758828045",
+   "photoCount": null,
+   "file": "269508cf-f7fe-4d36-9649-81892b63aafc.webp",
+   "w": 480,
+   "h": 484,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementkhuydongdauv1::3d1aae09-481e-44f3-bc1a-2a19c7e1a106",
+   "name": "huaban-7010262644",
+   "photoCount": null,
+   "file": "3d1aae09-481e-44f3-bc1a-2a19c7e1a106.webp",
+   "w": 480,
+   "h": 450,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementkhuydongdauv1::3aec8c01-645c-43cc-89d3-6eca448fe045",
+   "name": "huaban-7038797352",
+   "photoCount": null,
+   "file": "3aec8c01-645c-43cc-89d3-6eca448fe045.webp",
+   "w": 480,
+   "h": 421,
+   "kind": "element"
+  },
+  {
+   "templateId": "elementkhuydongdauv1::901736af-febc-4930-ad60-338500c700c7",
+   "name": "tải xuống",
+   "photoCount": null,
+   "file": "901736af-febc-4930-ad60-338500c700c7.webp",
+   "w": 480,
+   "h": 427,
+   "kind": "element"
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "packId": "typov1korea",
+ "version": "1.0.0",
+ "name": "typov1korea",
+ "generatedAt": "2026-09-24T13:13:33.899Z",
+ "items": [
+  {
+   "templateId": "typov1korea::31545bef-b497-4b00-bc16-06dd121b672f",
+   "name": "15",
+   "photoCount": null,
+   "file": "31545bef-b497-4b00-bc16-06dd121b672f.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::0de0a124-a224-4df3-ad5c-f8080e0c9a97",
+   "name": "19",
+   "photoCount": null,
+   "file": "0de0a124-a224-4df3-ad5c-f8080e0c9a97.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::477894e1-4d17-49a8-b3fc-e9ad12e3a45e",
+   "name": "20k",
+   "photoCount": null,
+   "file": "477894e1-4d17-49a8-b3fc-e9ad12e3a45e.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::68b68ee5-e826-4b6e-9070-be750862d45a",
+   "name": "21k",
+   "photoCount": null,
+   "file": "68b68ee5-e826-4b6e-9070-be750862d45a.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::794cd50f-8033-42e5-b56b-670491b1cc7d",
+   "name": "22",
+   "photoCount": null,
+   "file": "794cd50f-8033-42e5-b56b-670491b1cc7d.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::5d3dc864-0413-489b-a429-767efcab1efa",
+   "name": "24k",
+   "photoCount": null,
+   "file": "5d3dc864-0413-489b-a429-767efcab1efa.webp",
+   "w": 480,
+   "h": 333,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::9bd549fa-be9c-45ab-aaea-446f102f8304",
+   "name": "25k",
+   "photoCount": null,
+   "file": "9bd549fa-be9c-45ab-aaea-446f102f8304.webp",
+   "w": 480,
+   "h": 333,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::da657b95-773c-47fb-8a4d-88ab1c3fc480",
+   "name": "k16",
+   "photoCount": null,
+   "file": "da657b95-773c-47fb-8a4d-88ab1c3fc480.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::90eb977a-210f-4fa5-9241-9646e057a27a",
+   "name": "k17",
+   "photoCount": null,
+   "file": "90eb977a-210f-4fa5-9241-9646e057a27a.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::5788ba16-af8f-4e36-9b58-33ffc7095a8c",
+   "name": "ko18",
+   "photoCount": null,
+   "file": "5788ba16-af8f-4e36-9b58-33ffc7095a8c.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::b4dba11d-8809-40f6-8af6-6e8e7c5d5ec7",
+   "name": "kore 10",
+   "photoCount": null,
+   "file": "b4dba11d-8809-40f6-8af6-6e8e7c5d5ec7.webp",
+   "w": 480,
+   "h": 333,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::2ec48e0e-7147-41be-aeaa-ff05af1ce5bb",
+   "name": "kore8",
+   "photoCount": null,
+   "file": "2ec48e0e-7147-41be-aeaa-ff05af1ce5bb.webp",
+   "w": 480,
+   "h": 333,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::568acd3b-d49d-451f-b70a-04629eae13a5",
+   "name": "kore9",
+   "photoCount": null,
+   "file": "568acd3b-d49d-451f-b70a-04629eae13a5.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::60759b8c-6130-4746-ae9d-0ded48afc2aa",
+   "name": "KOREA11",
+   "photoCount": null,
+   "file": "60759b8c-6130-4746-ae9d-0ded48afc2aa.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::aeffbc17-f2e1-4a9c-95ae-9d0968718b04",
+   "name": "KOREA12",
+   "photoCount": null,
+   "file": "aeffbc17-f2e1-4a9c-95ae-9d0968718b04.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::4e3e98cb-a976-4482-bc3f-593d08377860",
+   "name": "korea13",
+   "photoCount": null,
+   "file": "4e3e98cb-a976-4482-bc3f-593d08377860.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov1korea::cfdab276-3c27-4400-91a9-580cc9b57616",
+   "name": "KOREA14",
+   "photoCount": null,
+   "file": "cfdab276-3c27-4400-91a9-580cc9b57616.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  }
+ ]
+}

@@ -1,0 +1,206 @@
+{
+ "packId": "typov3fashion2",
+ "version": "1.0.0",
+ "name": "typov3fashion2",
+ "generatedAt": "2026-09-24T13:13:43.602Z",
+ "items": [
+  {
+   "templateId": "typov3fashion2::2de2478e-fec2-446e-a7d0-baa656ff6a93",
+   "name": "f29",
+   "photoCount": null,
+   "file": "2de2478e-fec2-446e-a7d0-baa656ff6a93.webp",
+   "w": 480,
+   "h": 180,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::faa2a3de-4428-4a7f-a612-0da80935b78b",
+   "name": "f30",
+   "photoCount": null,
+   "file": "faa2a3de-4428-4a7f-a612-0da80935b78b.webp",
+   "w": 480,
+   "h": 221,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::9b711471-f81f-415e-b41d-c8308d233777",
+   "name": "f31",
+   "photoCount": null,
+   "file": "9b711471-f81f-415e-b41d-c8308d233777.webp",
+   "w": 480,
+   "h": 261,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::a48f21f3-2877-4bde-8088-64214c822a07",
+   "name": "f32",
+   "photoCount": null,
+   "file": "a48f21f3-2877-4bde-8088-64214c822a07.webp",
+   "w": 480,
+   "h": 323,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::e81ad0b5-267f-4345-be7a-2fe0deb4d173",
+   "name": "f33",
+   "photoCount": null,
+   "file": "e81ad0b5-267f-4345-be7a-2fe0deb4d173.webp",
+   "w": 480,
+   "h": 442,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::3c2ba023-cb70-4ae7-a207-05a8f6fe4581",
+   "name": "f34",
+   "photoCount": null,
+   "file": "3c2ba023-cb70-4ae7-a207-05a8f6fe4581.webp",
+   "w": 480,
+   "h": 557,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::26ec7728-a5ca-4588-9c25-26380c976c98",
+   "name": "f35",
+   "photoCount": null,
+   "file": "26ec7728-a5ca-4588-9c25-26380c976c98.webp",
+   "w": 480,
+   "h": 496,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::3441c5d2-085d-4b75-bb44-7fb59b328468",
+   "name": "f36",
+   "photoCount": null,
+   "file": "3441c5d2-085d-4b75-bb44-7fb59b328468.webp",
+   "w": 480,
+   "h": 469,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::5714368c-7d91-4ea7-98eb-4d7bea606694",
+   "name": "f37",
+   "photoCount": null,
+   "file": "5714368c-7d91-4ea7-98eb-4d7bea606694.webp",
+   "w": 480,
+   "h": 408,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::f0224bce-2f9e-4361-b7f2-e66244edf6bf",
+   "name": "f38",
+   "photoCount": null,
+   "file": "f0224bce-2f9e-4361-b7f2-e66244edf6bf.webp",
+   "w": 480,
+   "h": 434,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::fb6649a1-e04c-435a-801c-230de9c383ca",
+   "name": "f39",
+   "photoCount": null,
+   "file": "fb6649a1-e04c-435a-801c-230de9c383ca.webp",
+   "w": 480,
+   "h": 376,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::691b4408-dd09-4616-81f3-c7bbf3b9572c",
+   "name": "f40",
+   "photoCount": null,
+   "file": "691b4408-dd09-4616-81f3-c7bbf3b9572c.webp",
+   "w": 480,
+   "h": 296,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::2e3ab7cb-abe5-4edf-8b2a-453df3a5dfa0",
+   "name": "f41",
+   "photoCount": null,
+   "file": "2e3ab7cb-abe5-4edf-8b2a-453df3a5dfa0.webp",
+   "w": 480,
+   "h": 411,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::88b93920-7121-405f-8cfb-b7f13a81e4f4",
+   "name": "f42",
+   "photoCount": null,
+   "file": "88b93920-7121-405f-8cfb-b7f13a81e4f4.webp",
+   "w": 480,
+   "h": 478,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::fae37764-5158-4ae3-a88c-69a305af73e0",
+   "name": "f43",
+   "photoCount": null,
+   "file": "fae37764-5158-4ae3-a88c-69a305af73e0.webp",
+   "w": 480,
+   "h": 530,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::93205cf0-1a44-4a9f-b8b9-c4c9ae38a837",
+   "name": "f44",
+   "photoCount": null,
+   "file": "93205cf0-1a44-4a9f-b8b9-c4c9ae38a837.webp",
+   "w": 480,
+   "h": 542,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::e20e40cc-3fad-49a9-ae12-1e4205312db5",
+   "name": "f45",
+   "photoCount": null,
+   "file": "e20e40cc-3fad-49a9-ae12-1e4205312db5.webp",
+   "w": 480,
+   "h": 470,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::e9a6fa7b-ef87-4d3b-930d-f025b64146fb",
+   "name": "f46",
+   "photoCount": null,
+   "file": "e9a6fa7b-ef87-4d3b-930d-f025b64146fb.webp",
+   "w": 480,
+   "h": 255,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::00072a74-5e89-45fa-b7b3-00420d9aacbc",
+   "name": "f47",
+   "photoCount": null,
+   "file": "00072a74-5e89-45fa-b7b3-00420d9aacbc.webp",
+   "w": 480,
+   "h": 211,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::b2a4350b-4602-45ea-a8e4-b5df3cc70014",
+   "name": "f48",
+   "photoCount": null,
+   "file": "b2a4350b-4602-45ea-a8e4-b5df3cc70014.webp",
+   "w": 480,
+   "h": 361,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::142cc06a-b4e1-4971-bf02-c5ea4c614072",
+   "name": "f50",
+   "photoCount": null,
+   "file": "142cc06a-b4e1-4971-bf02-c5ea4c614072.webp",
+   "w": 480,
+   "h": 373,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov3fashion2::01ba54dc-71f5-4d22-802f-f26769b6a5db",
+   "name": "f52",
+   "photoCount": null,
+   "file": "01ba54dc-71f5-4d22-802f-f26769b6a5db.webp",
+   "w": 480,
+   "h": 551,
+   "kind": "typo"
+  }
+ ]
+}

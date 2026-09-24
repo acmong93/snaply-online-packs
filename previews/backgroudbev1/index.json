@@ -1,0 +1,81 @@
+{
+ "packId": "backgroudbev1",
+ "version": "1.0.1",
+ "name": "backgroudbev1",
+ "generatedAt": "2026-09-24T12:54:36.719Z",
+ "concept": "c01-tong",
+ "items": [
+  {
+   "templateId": "backgroudbev1::99757917-cf42-4428-b4b3-db53c711978b",
+   "name": "bgtongbe (1)",
+   "photoCount": null,
+   "file": "99757917-cf42-4428-b4b3-db53c711978b.webp",
+   "w": 480,
+   "h": 1040,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudbev1::9277fa5d-bbab-4bfe-a464-e8d474650756",
+   "name": "bgtongbe (1)",
+   "photoCount": null,
+   "file": "9277fa5d-bbab-4bfe-a464-e8d474650756.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudbev1::95109f15-6124-4a90-add1-efef33883e4c",
+   "name": "bgtongbe (2)",
+   "photoCount": null,
+   "file": "95109f15-6124-4a90-add1-efef33883e4c.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudbev1::c9d94973-5a9d-4b1d-9841-584ecf06ebf1",
+   "name": "bgtongbe (2)",
+   "photoCount": null,
+   "file": "c9d94973-5a9d-4b1d-9841-584ecf06ebf1.webp",
+   "w": 480,
+   "h": 1080,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudbev1::e12c05e8-c292-4d06-8228-cbc538dd734b",
+   "name": "bgtongbe (3)",
+   "photoCount": null,
+   "file": "e12c05e8-c292-4d06-8228-cbc538dd734b.webp",
+   "w": 480,
+   "h": 1040,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudbev1::fca0f1af-131e-43b3-8170-75e354458241",
+   "name": "bgtongbe (4)",
+   "photoCount": null,
+   "file": "fca0f1af-131e-43b3-8170-75e354458241.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudbev1::93a5d754-790d-4567-b7a2-3b45d5431d96",
+   "name": "bgtongxanh (14)",
+   "photoCount": null,
+   "file": "93a5d754-790d-4567-b7a2-3b45d5431d96.webp",
+   "w": 480,
+   "h": 639,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudbev1::4a642889-d9e8-4d00-9aa9-50a45c2c5106",
+   "name": "bgtongxanh (16)",
+   "photoCount": null,
+   "file": "4a642889-d9e8-4d00-9aa9-50a45c2c5106.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  }
+ ]
+}

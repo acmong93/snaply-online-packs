@@ -1,0 +1,6930 @@
+{
+ "packId": "thietketrangdoiv3",
+ "version": "1.0.3",
+ "name": "Thiết kế trang đôi Snaply new",
+ "generatedAt": "2026-09-24T13:23:53.365Z",
+ "concept": "c03-cp7",
+ "items": [
+  {
+   "templateId": "thietketrangdoiv3::0155268a-713b-447b-95e4-6a8da4bcda66",
+   "name": "doi_198",
+   "photoCount": 2,
+   "file": "0155268a-713b-447b-95e4-6a8da4bcda66.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::02285a80-dea8-4597-80bc-15e7cff76850",
+   "name": "doi_166",
+   "photoCount": 2,
+   "file": "02285a80-dea8-4597-80bc-15e7cff76850.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::02aebac6-330e-4ef6-a635-30ba1d9b4043",
+   "name": "doi_31",
+   "photoCount": 4,
+   "file": "02aebac6-330e-4ef6-a635-30ba1d9b4043.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::02de3446-00c2-4230-b21f-28bd72a17ac0",
+   "name": "doi_256",
+   "photoCount": 3,
+   "file": "02de3446-00c2-4230-b21f-28bd72a17ac0.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0326ef56-f2ad-43a9-80c2-0ce5b05cbf92",
+   "name": "doi_189",
+   "photoCount": 4,
+   "file": "0326ef56-f2ad-43a9-80c2-0ce5b05cbf92.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::036bd92d-f421-4da1-804f-30b60c2cba1a",
+   "name": "doi_334",
+   "photoCount": 2,
+   "file": "036bd92d-f421-4da1-804f-30b60c2cba1a.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::03793180-4e82-465f-86a3-43bde06adddd",
+   "name": "doi_201",
+   "photoCount": 3,
+   "file": "03793180-4e82-465f-86a3-43bde06adddd.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::043e6eda-8d82-4a9a-85fb-8bbec8c4ac68",
+   "name": "doi_262",
+   "photoCount": 4,
+   "file": "043e6eda-8d82-4a9a-85fb-8bbec8c4ac68.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::04b21394-bf25-49b6-8dc8-c647a9182c7c",
+   "name": "doi_220",
+   "photoCount": 4,
+   "file": "04b21394-bf25-49b6-8dc8-c647a9182c7c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::06d423fa-968b-423e-ba22-9a02ff318298",
+   "name": "doi_72",
+   "photoCount": 7,
+   "file": "06d423fa-968b-423e-ba22-9a02ff318298.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0729c43b-0cb8-43b5-ae71-2be9318ccffe",
+   "name": "doi_51",
+   "photoCount": 2,
+   "file": "0729c43b-0cb8-43b5-ae71-2be9318ccffe.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::07eb4975-286a-41d3-9705-8417e0c5ba64",
+   "name": "Doii_10",
+   "photoCount": 3,
+   "file": "07eb4975-286a-41d3-9705-8417e0c5ba64.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::07f37ccf-2ea2-44ec-990f-36be560ec235",
+   "name": "Doii_8",
+   "photoCount": 3,
+   "file": "07f37ccf-2ea2-44ec-990f-36be560ec235.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0870b100-a854-4b7f-8c1f-0325beca1adf",
+   "name": "doi_357",
+   "photoCount": 4,
+   "file": "0870b100-a854-4b7f-8c1f-0325beca1adf.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::08ce6103-09cd-4fb2-ab8b-ffad55fb409f",
+   "name": "doi_26",
+   "photoCount": 3,
+   "file": "08ce6103-09cd-4fb2-ab8b-ffad55fb409f.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::08db9cba-d1ab-42ff-9d3b-d4f342fbf476",
+   "name": "doi_131",
+   "photoCount": 2,
+   "file": "08db9cba-d1ab-42ff-9d3b-d4f342fbf476.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0914b549-b001-470a-ac07-f56fbece9678",
+   "name": "doi_174",
+   "photoCount": 3,
+   "file": "0914b549-b001-470a-ac07-f56fbece9678.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0a1e84aa-654f-47b9-a499-a681ac4c9444",
+   "name": "Doii_16",
+   "photoCount": 3,
+   "file": "0a1e84aa-654f-47b9-a499-a681ac4c9444.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0af13498-e2b8-4b3f-92c9-1e1a029f43d5",
+   "name": "doi_37",
+   "photoCount": 3,
+   "file": "0af13498-e2b8-4b3f-92c9-1e1a029f43d5.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0b1965f7-3c31-4161-8056-95450a732362",
+   "name": "doi_111",
+   "photoCount": 3,
+   "file": "0b1965f7-3c31-4161-8056-95450a732362.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0b705d56-97c3-4544-b7cd-04917fabf0ee",
+   "name": "doi_254",
+   "photoCount": 9,
+   "file": "0b705d56-97c3-4544-b7cd-04917fabf0ee.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0ba0a815-4de2-429e-a19b-a56266af90c7",
+   "name": "doi_328",
+   "photoCount": 6,
+   "file": "0ba0a815-4de2-429e-a19b-a56266af90c7.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0bbbc76e-f387-4cbb-bde8-e3dcdfd83a4b",
+   "name": "doi_222",
+   "photoCount": 2,
+   "file": "0bbbc76e-f387-4cbb-bde8-e3dcdfd83a4b.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0c388af4-b45c-4f36-974d-0b0230ee1c7d",
+   "name": "doi_170",
+   "photoCount": 5,
+   "file": "0c388af4-b45c-4f36-974d-0b0230ee1c7d.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0c9b50b9-6faf-4bea-8444-c05e4c69f531",
+   "name": "doi_130",
+   "photoCount": 1,
+   "file": "0c9b50b9-6faf-4bea-8444-c05e4c69f531.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0d7e27a8-c9d1-4b3c-b3fc-bb64561188fb",
+   "name": "doi_159",
+   "photoCount": 3,
+   "file": "0d7e27a8-c9d1-4b3c-b3fc-bb64561188fb.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0e1a63a3-f549-4882-8549-fcb59f5f5ff0",
+   "name": "doi_91",
+   "photoCount": 2,
+   "file": "0e1a63a3-f549-4882-8549-fcb59f5f5ff0.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0eadd587-c619-44c0-8319-c4837e585850",
+   "name": "doi_2",
+   "photoCount": 4,
+   "file": "0eadd587-c619-44c0-8319-c4837e585850.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0f1f3cd3-6709-456a-a1e5-ccba044c45b2",
+   "name": "doi_218",
+   "photoCount": 2,
+   "file": "0f1f3cd3-6709-456a-a1e5-ccba044c45b2.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::103bd1fb-8757-4361-a499-77f8564cc5cb",
+   "name": "doi_97",
+   "photoCount": 2,
+   "file": "103bd1fb-8757-4361-a499-77f8564cc5cb.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::103de52c-1900-4d08-9c6c-8dd2522cf574",
+   "name": "doi_274",
+   "photoCount": 2,
+   "file": "103de52c-1900-4d08-9c6c-8dd2522cf574.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::11fcaade-bcac-4046-a4fe-f3364c299c14",
+   "name": "doi_148",
+   "photoCount": 5,
+   "file": "11fcaade-bcac-4046-a4fe-f3364c299c14.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::1284dcbe-a8df-49df-9680-74e2621487ac",
+   "name": "doi_227",
+   "photoCount": 2,
+   "file": "1284dcbe-a8df-49df-9680-74e2621487ac.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::13f867fc-c79f-42a4-b928-486b01344435",
+   "name": "doi_104",
+   "photoCount": 3,
+   "file": "13f867fc-c79f-42a4-b928-486b01344435.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::142e0c0a-57bf-472a-8734-df515aebe770",
+   "name": "doi_141",
+   "photoCount": 5,
+   "file": "142e0c0a-57bf-472a-8734-df515aebe770.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::1432c9c1-c365-4359-8814-323bd966de2b",
+   "name": "doi_6",
+   "photoCount": 2,
+   "file": "1432c9c1-c365-4359-8814-323bd966de2b.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::148e6708-a94e-4328-8564-ddeb06a75074",
+   "name": "doi_12",
+   "photoCount": 3,
+   "file": "148e6708-a94e-4328-8564-ddeb06a75074.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::15a57ba6-71da-483a-9f7d-c896038769e6",
+   "name": "doi_125",
+   "photoCount": 2,
+   "file": "15a57ba6-71da-483a-9f7d-c896038769e6.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::164bfb24-d76b-4979-9eff-12f2b2b5c708",
+   "name": "doi_287",
+   "photoCount": 8,
+   "file": "164bfb24-d76b-4979-9eff-12f2b2b5c708.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::16fc8b1c-0f96-4d3c-895d-d2fa5b560a85",
+   "name": "doi_355",
+   "photoCount": 5,
+   "file": "16fc8b1c-0f96-4d3c-895d-d2fa5b560a85.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::17c2b322-68ae-4011-b99f-10c4cb56fee6",
+   "name": "doi_191",
+   "photoCount": 2,
+   "file": "17c2b322-68ae-4011-b99f-10c4cb56fee6.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::1810818c-39d9-44df-a8a4-f08455ad1906",
+   "name": "doi_80",
+   "photoCount": 2,
+   "file": "1810818c-39d9-44df-a8a4-f08455ad1906.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::18324979-1906-46cc-9bef-4dca64753c57",
+   "name": "doi_63",
+   "photoCount": 4,
+   "file": "18324979-1906-46cc-9bef-4dca64753c57.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::18740368-d8b4-410d-9b6b-c780ed69f202",
+   "name": "doi_303",
+   "photoCount": 2,
+   "file": "18740368-d8b4-410d-9b6b-c780ed69f202.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::18ba3870-e329-417a-8a25-f403c465277b",
+   "name": "doi_298",
+   "photoCount": 3,
+   "file": "18ba3870-e329-417a-8a25-f403c465277b.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::18ef1ffb-26be-461e-919e-9d4cb9311097",
+   "name": "Doii_18",
+   "photoCount": 3,
+   "file": "18ef1ffb-26be-461e-919e-9d4cb9311097.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::19c5f6a4-7498-42fe-828f-21c00cd34c0d",
+   "name": "doi_157",
+   "photoCount": 3,
+   "file": "19c5f6a4-7498-42fe-828f-21c00cd34c0d.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::1bc9e66a-a54a-4d82-88ca-66ebca26cbb4",
+   "name": "Doii_5",
+   "photoCount": 8,
+   "file": "1bc9e66a-a54a-4d82-88ca-66ebca26cbb4.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::1bfc9a62-680a-4d55-a4ee-42672c7c8e47",
+   "name": "doi_103",
+   "photoCount": 3,
+   "file": "1bfc9a62-680a-4d55-a4ee-42672c7c8e47.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::1d68a563-3142-47d3-a47e-c298c943a914",
+   "name": "doi_122",
+   "photoCount": 3,
+   "file": "1d68a563-3142-47d3-a47e-c298c943a914.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::1ecb4b35-72fd-464c-aced-288759c002df",
+   "name": "doi_340",
+   "photoCount": 2,
+   "file": "1ecb4b35-72fd-464c-aced-288759c002df.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::1ed1360b-65fb-43c9-9483-dbc4b2283cef",
+   "name": "doi_302",
+   "photoCount": 2,
+   "file": "1ed1360b-65fb-43c9-9483-dbc4b2283cef.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::1ff06e0e-e297-48d4-9345-ef9a4bce5109",
+   "name": "doi_192",
+   "photoCount": 2,
+   "file": "1ff06e0e-e297-48d4-9345-ef9a4bce5109.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::205a08b2-fed6-4d57-887c-5a5938406a9c",
+   "name": "doi_236",
+   "photoCount": 4,
+   "file": "205a08b2-fed6-4d57-887c-5a5938406a9c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::205cf8ac-b2e4-491d-8ccf-aee0bb38e38e",
+   "name": "doi_260",
+   "photoCount": 4,
+   "file": "205cf8ac-b2e4-491d-8ccf-aee0bb38e38e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::220a99c9-7c4d-4507-a358-2acfd1221005",
+   "name": "doi_85",
+   "photoCount": 6,
+   "file": "220a99c9-7c4d-4507-a358-2acfd1221005.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::234273d7-2456-4e01-a56c-dceac3e9c2e7",
+   "name": "doi_182",
+   "photoCount": 2,
+   "file": "234273d7-2456-4e01-a56c-dceac3e9c2e7.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::23be5188-6d2d-4b30-81b8-b9bf06a6e502",
+   "name": "Doii_2",
+   "photoCount": 3,
+   "file": "23be5188-6d2d-4b30-81b8-b9bf06a6e502.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::247c3b8a-3225-4951-b65f-b4e75a86148b",
+   "name": "doi_66",
+   "photoCount": 4,
+   "file": "247c3b8a-3225-4951-b65f-b4e75a86148b.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2499d1a7-0de9-4e02-8f18-2b6c59a5cc38",
+   "name": "doi_326",
+   "photoCount": 2,
+   "file": "2499d1a7-0de9-4e02-8f18-2b6c59a5cc38.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::27967433-908b-4eb4-b29e-a90d8c16ceb3",
+   "name": "doi_232",
+   "photoCount": 2,
+   "file": "27967433-908b-4eb4-b29e-a90d8c16ceb3.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::27e91f00-0d68-4a08-8509-9273429e7924",
+   "name": "doi_179",
+   "photoCount": 3,
+   "file": "27e91f00-0d68-4a08-8509-9273429e7924.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2950ea58-06ad-4417-931e-9be84bc36cce",
+   "name": "Doii_11",
+   "photoCount": 3,
+   "file": "2950ea58-06ad-4417-931e-9be84bc36cce.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2ab1eee0-3dd0-426c-95a5-e5eb327946f2",
+   "name": "doi_250",
+   "photoCount": 4,
+   "file": "2ab1eee0-3dd0-426c-95a5-e5eb327946f2.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2ae66dfe-b0c1-46d0-892b-52d7ef0bdaa3",
+   "name": "doi_172",
+   "photoCount": 2,
+   "file": "2ae66dfe-b0c1-46d0-892b-52d7ef0bdaa3.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2bfa6da6-988f-4007-8956-963c7cd91461",
+   "name": "doi_339",
+   "photoCount": 2,
+   "file": "2bfa6da6-988f-4007-8956-963c7cd91461.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2c0a9dd3-0cda-41dc-aa97-32f31b4b2349",
+   "name": "doi_234",
+   "photoCount": 2,
+   "file": "2c0a9dd3-0cda-41dc-aa97-32f31b4b2349.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2ecff0a2-fd89-4872-a37c-0e79635dc3e3",
+   "name": "doi_248",
+   "photoCount": 2,
+   "file": "2ecff0a2-fd89-4872-a37c-0e79635dc3e3.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::30332f6a-bfe5-4c45-b8d3-0a1a7f838f8d",
+   "name": "doi_283",
+   "photoCount": 5,
+   "file": "30332f6a-bfe5-4c45-b8d3-0a1a7f838f8d.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::32426b8f-82fc-4ea4-ba0b-93dab4419ba8",
+   "name": "doi_7",
+   "photoCount": 4,
+   "file": "32426b8f-82fc-4ea4-ba0b-93dab4419ba8.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::339fde33-c665-4458-9583-e8497d26d183",
+   "name": "doi_316",
+   "photoCount": 3,
+   "file": "339fde33-c665-4458-9583-e8497d26d183.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::33cd9d06-6cf3-491e-bfc0-4f91bc01ee32",
+   "name": "doi_44",
+   "photoCount": 6,
+   "file": "33cd9d06-6cf3-491e-bfc0-4f91bc01ee32.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::34955f4f-640a-4f73-970c-d880c2d9258f",
+   "name": "doi_15",
+   "photoCount": 3,
+   "file": "34955f4f-640a-4f73-970c-d880c2d9258f.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3541f06b-16a2-4b55-b0b4-574de431970c",
+   "name": "doi_57",
+   "photoCount": 3,
+   "file": "3541f06b-16a2-4b55-b0b4-574de431970c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::35e68f71-9c02-4460-a407-9ab1a9d92859",
+   "name": "doi_300",
+   "photoCount": 2,
+   "file": "35e68f71-9c02-4460-a407-9ab1a9d92859.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3695aed6-fc8f-4e6a-ae69-2a3973466858",
+   "name": "doi_310",
+   "photoCount": 1,
+   "file": "3695aed6-fc8f-4e6a-ae69-2a3973466858.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3736e00f-a51a-46de-9b7e-32168face015",
+   "name": "doi_22",
+   "photoCount": 5,
+   "file": "3736e00f-a51a-46de-9b7e-32168face015.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::373a6547-e062-4894-aaa8-2b7f9c268b1a",
+   "name": "doi_301",
+   "photoCount": 3,
+   "file": "373a6547-e062-4894-aaa8-2b7f9c268b1a.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::37bc8e65-f094-459a-b6d5-408aa94d485e",
+   "name": "doi_354",
+   "photoCount": 3,
+   "file": "37bc8e65-f094-459a-b6d5-408aa94d485e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::380c6bd2-403a-40b9-b5af-4d04b9579822",
+   "name": "doi_318",
+   "photoCount": 3,
+   "file": "380c6bd2-403a-40b9-b5af-4d04b9579822.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::385241b7-cb8a-4788-9fe7-b419d4afce24",
+   "name": "doi_119",
+   "photoCount": 1,
+   "file": "385241b7-cb8a-4788-9fe7-b419d4afce24.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::38c88323-1614-4a9b-a1ca-7ae35bfbe770",
+   "name": "Doii_15",
+   "photoCount": 7,
+   "file": "38c88323-1614-4a9b-a1ca-7ae35bfbe770.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::39314f10-f6c0-4812-86a3-2a7b8ee70d03",
+   "name": "doi_224",
+   "photoCount": 1,
+   "file": "39314f10-f6c0-4812-86a3-2a7b8ee70d03.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3aa11374-f4e5-4a4e-9395-4939ca38d10e",
+   "name": "doi_99",
+   "photoCount": 4,
+   "file": "3aa11374-f4e5-4a4e-9395-4939ca38d10e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3aacd582-842c-4a01-b828-7a9ce6642d23",
+   "name": "doi_228",
+   "photoCount": 7,
+   "file": "3aacd582-842c-4a01-b828-7a9ce6642d23.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3afb2cd6-d66d-4a70-aaef-ddde7d9098ba",
+   "name": "doi_153",
+   "photoCount": 4,
+   "file": "3afb2cd6-d66d-4a70-aaef-ddde7d9098ba.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3b8256c5-a5dc-43c2-ba51-66e8827a4083",
+   "name": "doi_128",
+   "photoCount": 2,
+   "file": "3b8256c5-a5dc-43c2-ba51-66e8827a4083.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3e50a11a-b645-4fee-82c9-7a8a4698f7df",
+   "name": "doi_363",
+   "photoCount": 2,
+   "file": "3e50a11a-b645-4fee-82c9-7a8a4698f7df.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3e8bf7ae-32cf-4619-a012-4cbdb7d65743",
+   "name": "doi_89",
+   "photoCount": 5,
+   "file": "3e8bf7ae-32cf-4619-a012-4cbdb7d65743.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3f74645b-ed9a-404d-82f1-9f985313f0b6",
+   "name": "doi_205",
+   "photoCount": 5,
+   "file": "3f74645b-ed9a-404d-82f1-9f985313f0b6.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3fac3e21-f0af-401b-bd14-f1037e6c3ec6",
+   "name": "doi_29",
+   "photoCount": 3,
+   "file": "3fac3e21-f0af-401b-bd14-f1037e6c3ec6.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4007cb78-eb64-465f-9e23-996186b5937e",
+   "name": "doi_329",
+   "photoCount": 4,
+   "file": "4007cb78-eb64-465f-9e23-996186b5937e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::40b04a20-443f-49c2-b87f-eb913f9a1651",
+   "name": "Doii_4",
+   "photoCount": 2,
+   "file": "40b04a20-443f-49c2-b87f-eb913f9a1651.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::40cffbfb-7e1f-4208-8231-7ff10a2a75da",
+   "name": "doi_92",
+   "photoCount": 5,
+   "file": "40cffbfb-7e1f-4208-8231-7ff10a2a75da.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4276142f-3eb9-48fa-a473-25b5e8f96930",
+   "name": "Doii_9",
+   "photoCount": 4,
+   "file": "4276142f-3eb9-48fa-a473-25b5e8f96930.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::42db8d80-87b2-40b4-84f6-1d21c6d484eb",
+   "name": "doi_308",
+   "photoCount": 3,
+   "file": "42db8d80-87b2-40b4-84f6-1d21c6d484eb.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::43175165-100b-4901-b331-a25fbc6b01c3",
+   "name": "doi_320",
+   "photoCount": 3,
+   "file": "43175165-100b-4901-b331-a25fbc6b01c3.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::44d7c5e2-2f65-451c-9fb9-ead9de20b5b1",
+   "name": "doi_168",
+   "photoCount": 1,
+   "file": "44d7c5e2-2f65-451c-9fb9-ead9de20b5b1.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4655959c-101c-4ef9-9c2b-dfb81784473b",
+   "name": "doi_226",
+   "photoCount": 5,
+   "file": "4655959c-101c-4ef9-9c2b-dfb81784473b.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::46e12ea8-d372-48f6-ac61-be727d83c8ab",
+   "name": "doi_353",
+   "photoCount": 3,
+   "file": "46e12ea8-d372-48f6-ac61-be727d83c8ab.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::46eab969-424a-4b7b-b222-cb9f9ce0e471",
+   "name": "doi_173",
+   "photoCount": 5,
+   "file": "46eab969-424a-4b7b-b222-cb9f9ce0e471.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::484e8911-79ef-40e7-937a-202d9fe3176b",
+   "name": "doi_181",
+   "photoCount": 2,
+   "file": "484e8911-79ef-40e7-937a-202d9fe3176b.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::48a41b6e-12f6-412a-8959-b28456266f15",
+   "name": "doi_284",
+   "photoCount": 4,
+   "file": "48a41b6e-12f6-412a-8959-b28456266f15.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::48fdeb5f-480b-4e5b-87ab-e49295277f1a",
+   "name": "doi_247",
+   "photoCount": 2,
+   "file": "48fdeb5f-480b-4e5b-87ab-e49295277f1a.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4a72c3e0-df3d-4f3f-b163-4352aef0c2fb",
+   "name": "doi_58",
+   "photoCount": 2,
+   "file": "4a72c3e0-df3d-4f3f-b163-4352aef0c2fb.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4acfb750-2c4d-42c3-a151-094e9bb3f858",
+   "name": "doi_50",
+   "photoCount": 3,
+   "file": "4acfb750-2c4d-42c3-a151-094e9bb3f858.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4b0d4d6b-bbd1-4c4a-964b-9aa027068bb9",
+   "name": "doi_59",
+   "photoCount": 4,
+   "file": "4b0d4d6b-bbd1-4c4a-964b-9aa027068bb9.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4b25979f-15c0-4185-996e-d130966cdfa5",
+   "name": "doi_180",
+   "photoCount": 3,
+   "file": "4b25979f-15c0-4185-996e-d130966cdfa5.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4b3bc9d6-da24-49a3-b09c-935b718f8606",
+   "name": "doi_40",
+   "photoCount": 3,
+   "file": "4b3bc9d6-da24-49a3-b09c-935b718f8606.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4bca14b7-ea31-4918-8492-0fd64cf69c12",
+   "name": "doi_124",
+   "photoCount": 4,
+   "file": "4bca14b7-ea31-4918-8492-0fd64cf69c12.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4bfdaf7a-4fe0-443a-9c10-7f23125c615a",
+   "name": "doi_270",
+   "photoCount": 3,
+   "file": "4bfdaf7a-4fe0-443a-9c10-7f23125c615a.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4c60ab17-fc74-4639-a0ca-2f1b81eccab2",
+   "name": "doi_84",
+   "photoCount": 4,
+   "file": "4c60ab17-fc74-4639-a0ca-2f1b81eccab2.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4c681953-297c-4cd0-9931-35230f38fe08",
+   "name": "doi_42",
+   "photoCount": 3,
+   "file": "4c681953-297c-4cd0-9931-35230f38fe08.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4c999730-ab09-43bf-a3c0-9d14f362373c",
+   "name": "doi_337",
+   "photoCount": 4,
+   "file": "4c999730-ab09-43bf-a3c0-9d14f362373c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::50764926-99b5-46de-aa6f-b4d9ee0a98b4",
+   "name": "doi_79",
+   "photoCount": 2,
+   "file": "50764926-99b5-46de-aa6f-b4d9ee0a98b4.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::513ae676-c4f5-40f0-9cf8-e16478801600",
+   "name": "doi_313",
+   "photoCount": 4,
+   "file": "513ae676-c4f5-40f0-9cf8-e16478801600.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::51b645b2-0613-48ab-a39e-188de7bac57c",
+   "name": "doi_52",
+   "photoCount": 4,
+   "file": "51b645b2-0613-48ab-a39e-188de7bac57c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::51b86a66-d07c-4026-9d34-2ebbc10a4e09",
+   "name": "doi_145",
+   "photoCount": 3,
+   "file": "51b86a66-d07c-4026-9d34-2ebbc10a4e09.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::51d2e810-4e6a-4b24-9bfa-9af2beeb9dbc",
+   "name": "Doii_1",
+   "photoCount": 4,
+   "file": "51d2e810-4e6a-4b24-9bfa-9af2beeb9dbc.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5228b79c-f15d-4509-9cef-350e91372791",
+   "name": "doi_116",
+   "photoCount": 4,
+   "file": "5228b79c-f15d-4509-9cef-350e91372791.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::52d946d7-404a-41fc-83e4-b17b8da8d20e",
+   "name": "doi_276",
+   "photoCount": 3,
+   "file": "52d946d7-404a-41fc-83e4-b17b8da8d20e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::52dc7c66-ecac-4d9c-a95f-fed0a5b19c9a",
+   "name": "doi_19",
+   "photoCount": 4,
+   "file": "52dc7c66-ecac-4d9c-a95f-fed0a5b19c9a.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5330175f-b740-4a73-8e66-1678d2fde1ca",
+   "name": "doi_333",
+   "photoCount": 2,
+   "file": "5330175f-b740-4a73-8e66-1678d2fde1ca.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5368eecc-6b5f-445a-86b5-e99f2f8aba8e",
+   "name": "doi_137",
+   "photoCount": 1,
+   "file": "5368eecc-6b5f-445a-86b5-e99f2f8aba8e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::53f9f123-f20c-4c11-a823-de5c989aa4f0",
+   "name": "doi_171",
+   "photoCount": 3,
+   "file": "53f9f123-f20c-4c11-a823-de5c989aa4f0.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::542e761b-149b-4637-ae6a-21761a0c643a",
+   "name": "doi_156",
+   "photoCount": 3,
+   "file": "542e761b-149b-4637-ae6a-21761a0c643a.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::544d5c33-f419-4b20-855e-8970d59d1691",
+   "name": "doi_349",
+   "photoCount": 2,
+   "file": "544d5c33-f419-4b20-855e-8970d59d1691.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::54925620-1d4d-4994-ac4e-ba3e63e23eba",
+   "name": "doi_183",
+   "photoCount": 3,
+   "file": "54925620-1d4d-4994-ac4e-ba3e63e23eba.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::553018c0-c02d-4c7e-baeb-96a13836594e",
+   "name": "Doii_6",
+   "photoCount": 4,
+   "file": "553018c0-c02d-4c7e-baeb-96a13836594e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::563cab68-63a6-4cfe-a815-e7a75e87724f",
+   "name": "doi_117",
+   "photoCount": 2,
+   "file": "563cab68-63a6-4cfe-a815-e7a75e87724f.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::57aed5a3-1688-4b0c-8e5b-cd8ef6d26178",
+   "name": "doi_24",
+   "photoCount": 4,
+   "file": "57aed5a3-1688-4b0c-8e5b-cd8ef6d26178.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::590e5db2-5fdf-4b21-83e4-098c7c158ac3",
+   "name": "doi_165",
+   "photoCount": 2,
+   "file": "590e5db2-5fdf-4b21-83e4-098c7c158ac3.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5979d847-57c9-4d4a-9935-6fdea544c796",
+   "name": "doi_278",
+   "photoCount": 3,
+   "file": "5979d847-57c9-4d4a-9935-6fdea544c796.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5a1432b1-8a3a-4449-81e5-042b09fdaf26",
+   "name": "doi_280",
+   "photoCount": 2,
+   "file": "5a1432b1-8a3a-4449-81e5-042b09fdaf26.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5a50d7cb-680d-4aff-930c-b0c14839caee",
+   "name": "doi_82",
+   "photoCount": 5,
+   "file": "5a50d7cb-680d-4aff-930c-b0c14839caee.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5cde1989-bb3a-46e3-9241-bdc047c2f954",
+   "name": "Doii_17",
+   "photoCount": 7,
+   "file": "5cde1989-bb3a-46e3-9241-bdc047c2f954.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5e7631b3-a3bc-4e05-81a3-78b0059b6130",
+   "name": "doi_299",
+   "photoCount": 3,
+   "file": "5e7631b3-a3bc-4e05-81a3-78b0059b6130.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5e86d51d-f302-457f-8f2e-fad0b2621249",
+   "name": "doi_197",
+   "photoCount": 4,
+   "file": "5e86d51d-f302-457f-8f2e-fad0b2621249.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5ec21ace-0cd2-46d2-97aa-f54cd6bd5ce6",
+   "name": "doi_288",
+   "photoCount": 1,
+   "file": "5ec21ace-0cd2-46d2-97aa-f54cd6bd5ce6.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5f3973d1-e18b-40a0-89b5-8f09dd53b78f",
+   "name": "doi_360",
+   "photoCount": 5,
+   "file": "5f3973d1-e18b-40a0-89b5-8f09dd53b78f.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5f70355c-732b-4962-bd01-0c0d73d20c5e",
+   "name": "doi_64",
+   "photoCount": 2,
+   "file": "5f70355c-732b-4962-bd01-0c0d73d20c5e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::605bbdbb-d22c-44bd-8f4f-344650bd7ef6",
+   "name": "doi_134",
+   "photoCount": 2,
+   "file": "605bbdbb-d22c-44bd-8f4f-344650bd7ef6.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::62e4ec28-bb0a-4a9b-9b2e-81236254ae40",
+   "name": "doi_214",
+   "photoCount": 2,
+   "file": "62e4ec28-bb0a-4a9b-9b2e-81236254ae40.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::631e7c7a-e061-41d5-a30a-ca1311ca865f",
+   "name": "doi_314",
+   "photoCount": 2,
+   "file": "631e7c7a-e061-41d5-a30a-ca1311ca865f.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::641dcb80-2dc2-488d-ad2f-4fb114f231a8",
+   "name": "doi_30",
+   "photoCount": 3,
+   "file": "641dcb80-2dc2-488d-ad2f-4fb114f231a8.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::65459c41-d417-46fd-954a-db12e20b0e5f",
+   "name": "doi_330",
+   "photoCount": 3,
+   "file": "65459c41-d417-46fd-954a-db12e20b0e5f.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::667220ae-5dda-4c40-8069-25d3b9a66923",
+   "name": "doi_135",
+   "photoCount": 2,
+   "file": "667220ae-5dda-4c40-8069-25d3b9a66923.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::667c7a23-51d3-4fc0-9e88-1c280eb0aa8b",
+   "name": "doi_362",
+   "photoCount": 3,
+   "file": "667c7a23-51d3-4fc0-9e88-1c280eb0aa8b.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::66dfa215-3991-4ecc-9446-a2bbfef8991c",
+   "name": "doi_199",
+   "photoCount": 2,
+   "file": "66dfa215-3991-4ecc-9446-a2bbfef8991c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::66e12539-7997-4cec-ad46-ac4ece400b1c",
+   "name": "doi_223",
+   "photoCount": 2,
+   "file": "66e12539-7997-4cec-ad46-ac4ece400b1c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::67408c26-077c-49b1-bb5b-b4f7704ab138",
+   "name": "doi_96",
+   "photoCount": 3,
+   "file": "67408c26-077c-49b1-bb5b-b4f7704ab138.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::68132875-675f-47ba-a92a-8f45291fea65",
+   "name": "doi_209",
+   "photoCount": 2,
+   "file": "68132875-675f-47ba-a92a-8f45291fea65.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::682c8bbb-5039-473f-abbf-e8bb5bacfd27",
+   "name": "doi_264",
+   "photoCount": 5,
+   "file": "682c8bbb-5039-473f-abbf-e8bb5bacfd27.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::687ab62d-fd44-415b-8cae-7446708a565c",
+   "name": "doi_219",
+   "photoCount": 3,
+   "file": "687ab62d-fd44-415b-8cae-7446708a565c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::688bd82a-d912-4b23-930c-9170a31818e6",
+   "name": "doi_253",
+   "photoCount": 4,
+   "file": "688bd82a-d912-4b23-930c-9170a31818e6.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::68f39fbf-51b2-4e69-a7dc-7f22773c32f6",
+   "name": "doi_53",
+   "photoCount": 9,
+   "file": "68f39fbf-51b2-4e69-a7dc-7f22773c32f6.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::692aa3ce-ec17-4658-9f42-10ec0de453e7",
+   "name": "doi_242",
+   "photoCount": 4,
+   "file": "692aa3ce-ec17-4658-9f42-10ec0de453e7.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::69a4d333-763c-4c12-961a-78df1509ec3e",
+   "name": "doi_73",
+   "photoCount": 3,
+   "file": "69a4d333-763c-4c12-961a-78df1509ec3e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::69ba38e3-4e11-48ae-abe1-fd8a4ec9422d",
+   "name": "doi_286",
+   "photoCount": 2,
+   "file": "69ba38e3-4e11-48ae-abe1-fd8a4ec9422d.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::69cfced7-9a7e-478d-816d-cff69667dfc5",
+   "name": "doi_100",
+   "photoCount": 2,
+   "file": "69cfced7-9a7e-478d-816d-cff69667dfc5.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6ef60d38-75fd-4616-9bae-2b53ea16a2c0",
+   "name": "doi_294",
+   "photoCount": 3,
+   "file": "6ef60d38-75fd-4616-9bae-2b53ea16a2c0.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6f451a19-b332-457a-9675-39dc6dea5b18",
+   "name": "doi_282",
+   "photoCount": 2,
+   "file": "6f451a19-b332-457a-9675-39dc6dea5b18.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6f9af0db-23c3-4ff5-8300-7e013bde5dfb",
+   "name": "doi_293",
+   "photoCount": 3,
+   "file": "6f9af0db-23c3-4ff5-8300-7e013bde5dfb.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6fb1f06c-ce67-4384-8c40-e917a9c7cc68",
+   "name": "doi_46",
+   "photoCount": 3,
+   "file": "6fb1f06c-ce67-4384-8c40-e917a9c7cc68.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::70a95657-49d2-4ac3-826d-1696fb7d3967",
+   "name": "doi_305",
+   "photoCount": 6,
+   "file": "70a95657-49d2-4ac3-826d-1696fb7d3967.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::70b5691e-4aba-4a4a-9b04-258e4390aa23",
+   "name": "doi_364",
+   "photoCount": 2,
+   "file": "70b5691e-4aba-4a4a-9b04-258e4390aa23.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::71568b21-6ea9-49f5-9651-4e01aa67f028",
+   "name": "doi_39",
+   "photoCount": 6,
+   "file": "71568b21-6ea9-49f5-9651-4e01aa67f028.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::715b9788-2b78-4440-9574-c231ea84a868",
+   "name": "doi_112",
+   "photoCount": 6,
+   "file": "715b9788-2b78-4440-9574-c231ea84a868.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::72aed39b-1341-4e4a-9aaf-8740c37041f8",
+   "name": "doi_188",
+   "photoCount": 3,
+   "file": "72aed39b-1341-4e4a-9aaf-8740c37041f8.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7333f5a0-8074-4dc7-ba79-532b038e7387",
+   "name": "doi_158",
+   "photoCount": 4,
+   "file": "7333f5a0-8074-4dc7-ba79-532b038e7387.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::73843f7e-0747-4226-a15b-ace83b65e579",
+   "name": "doi_178",
+   "photoCount": 5,
+   "file": "73843f7e-0747-4226-a15b-ace83b65e579.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::748d4ef4-5b71-49ce-94c2-3583226777fd",
+   "name": "doi_154",
+   "photoCount": 3,
+   "file": "748d4ef4-5b71-49ce-94c2-3583226777fd.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::74b39093-08ff-4da6-84d6-a659440da1a1",
+   "name": "doi_335",
+   "photoCount": 1,
+   "file": "74b39093-08ff-4da6-84d6-a659440da1a1.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7664c763-c4ad-4149-96cb-8c0dda29ecf9",
+   "name": "doi_206",
+   "photoCount": 11,
+   "file": "7664c763-c4ad-4149-96cb-8c0dda29ecf9.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::76fde072-5b73-4ca1-bdab-96d53c42fbe6",
+   "name": "doi_208",
+   "photoCount": 3,
+   "file": "76fde072-5b73-4ca1-bdab-96d53c42fbe6.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::784e0920-6e8f-4c67-86a2-464a6895e854",
+   "name": "doi_290",
+   "photoCount": 6,
+   "file": "784e0920-6e8f-4c67-86a2-464a6895e854.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::78dc80a0-5f05-415e-8545-f0a6e7467141",
+   "name": "doi_38",
+   "photoCount": 1,
+   "file": "78dc80a0-5f05-415e-8545-f0a6e7467141.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::78fa38e4-7aaf-4fc7-a2fb-95ec1eccf118",
+   "name": "doi_146",
+   "photoCount": 4,
+   "file": "78fa38e4-7aaf-4fc7-a2fb-95ec1eccf118.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::790be531-c160-4848-9dd9-89ee1472879d",
+   "name": "doi_5",
+   "photoCount": 3,
+   "file": "790be531-c160-4848-9dd9-89ee1472879d.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::795645df-0736-4a26-92e4-2bf62b7282ce",
+   "name": "doi_133",
+   "photoCount": 3,
+   "file": "795645df-0736-4a26-92e4-2bf62b7282ce.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::79b3f67f-6c86-4a80-a2e7-e2e3b705d27e",
+   "name": "doi_268",
+   "photoCount": 2,
+   "file": "79b3f67f-6c86-4a80-a2e7-e2e3b705d27e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7a1bd140-d300-492b-a824-a0dee0615db7",
+   "name": "doi_279",
+   "photoCount": 2,
+   "file": "7a1bd140-d300-492b-a824-a0dee0615db7.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7b42d9c3-d7d9-439e-9ca4-a7e836e5aaba",
+   "name": "doi_87",
+   "photoCount": 4,
+   "file": "7b42d9c3-d7d9-439e-9ca4-a7e836e5aaba.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7b88d265-fdd1-4a04-bf44-72d5e4b2cb7d",
+   "name": "doi_132",
+   "photoCount": 3,
+   "file": "7b88d265-fdd1-4a04-bf44-72d5e4b2cb7d.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7c5c39f6-0093-4f74-bee7-72d314f46b9b",
+   "name": "doi_281",
+   "photoCount": 2,
+   "file": "7c5c39f6-0093-4f74-bee7-72d314f46b9b.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7c65d6c4-c50c-4913-8ab3-1f462261d8ab",
+   "name": "doi_244",
+   "photoCount": 2,
+   "file": "7c65d6c4-c50c-4913-8ab3-1f462261d8ab.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7d0ea574-c3f0-4f60-835d-2640c7fb25b7",
+   "name": "doi_3",
+   "photoCount": 3,
+   "file": "7d0ea574-c3f0-4f60-835d-2640c7fb25b7.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7dac8346-1574-4f84-976c-56b4ac76c9c8",
+   "name": "doi_74",
+   "photoCount": 3,
+   "file": "7dac8346-1574-4f84-976c-56b4ac76c9c8.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8087de68-6b50-4fa3-9f96-7e6bb00c2d91",
+   "name": "doi_231",
+   "photoCount": 2,
+   "file": "8087de68-6b50-4fa3-9f96-7e6bb00c2d91.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::81300e1a-47d1-46ed-8f70-d3ed2129ad87",
+   "name": "doi_138",
+   "photoCount": 6,
+   "file": "81300e1a-47d1-46ed-8f70-d3ed2129ad87.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::817ff2d0-083a-4dda-b658-da9ee5834915",
+   "name": "doi_203",
+   "photoCount": 3,
+   "file": "817ff2d0-083a-4dda-b658-da9ee5834915.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::81c101a6-69f2-40cb-a60f-c5e1537a225c",
+   "name": "doi_215",
+   "photoCount": 3,
+   "file": "81c101a6-69f2-40cb-a60f-c5e1537a225c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::82e67f97-6abf-45cb-83de-59b95e45f16c",
+   "name": "doi_54",
+   "photoCount": 3,
+   "file": "82e67f97-6abf-45cb-83de-59b95e45f16c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8392927d-7099-45a6-ba8c-3902867b2a2c",
+   "name": "doi_269",
+   "photoCount": 2,
+   "file": "8392927d-7099-45a6-ba8c-3902867b2a2c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::84a92b72-d493-4091-a641-73bccdefd501",
+   "name": "doi_144",
+   "photoCount": 2,
+   "file": "84a92b72-d493-4091-a641-73bccdefd501.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::84dabd66-c924-42e4-b438-8dbda4cefb23",
+   "name": "doi_185",
+   "photoCount": 3,
+   "file": "84dabd66-c924-42e4-b438-8dbda4cefb23.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::85492024-771d-4981-bf55-b80dc52b8a25",
+   "name": "doi_309",
+   "photoCount": 4,
+   "file": "85492024-771d-4981-bf55-b80dc52b8a25.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::85aef615-16e7-41e3-a947-00a8d5944a94",
+   "name": "doi_23",
+   "photoCount": 9,
+   "file": "85aef615-16e7-41e3-a947-00a8d5944a94.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::86620893-30ed-42db-8d0a-27c78925b9f2",
+   "name": "doi_56",
+   "photoCount": 3,
+   "file": "86620893-30ed-42db-8d0a-27c78925b9f2.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::86d8f90f-067e-42e5-b2a6-404b96796ea4",
+   "name": "doi_196",
+   "photoCount": 3,
+   "file": "86d8f90f-067e-42e5-b2a6-404b96796ea4.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8788d02f-044e-4a8a-bd87-81890b27eb45",
+   "name": "doi_114",
+   "photoCount": 2,
+   "file": "8788d02f-044e-4a8a-bd87-81890b27eb45.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::87b191d5-1b06-43ba-9ae8-baff34c1fc54",
+   "name": "doi_267",
+   "photoCount": 2,
+   "file": "87b191d5-1b06-43ba-9ae8-baff34c1fc54.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::88036ab9-94c7-4a2e-bac7-1d8b76b3bdc5",
+   "name": "doi_109",
+   "photoCount": 3,
+   "file": "88036ab9-94c7-4a2e-bac7-1d8b76b3bdc5.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::88344d65-1103-4b13-9d29-e55239cb4a7a",
+   "name": "doi_351",
+   "photoCount": 6,
+   "file": "88344d65-1103-4b13-9d29-e55239cb4a7a.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::886df502-7b73-47c5-97aa-d14ae59c37f6",
+   "name": "doi_20",
+   "photoCount": 6,
+   "file": "886df502-7b73-47c5-97aa-d14ae59c37f6.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::89c03471-2701-4b9c-b5ed-de3c54aea824",
+   "name": "doi_190",
+   "photoCount": 2,
+   "file": "89c03471-2701-4b9c-b5ed-de3c54aea824.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8a88e3da-a3c3-4dbc-8706-549fb3fe1681",
+   "name": "doi_150",
+   "photoCount": 3,
+   "file": "8a88e3da-a3c3-4dbc-8706-549fb3fe1681.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8b2d321b-8ad6-450e-afaf-8f1d62840bbc",
+   "name": "doi_70",
+   "photoCount": 3,
+   "file": "8b2d321b-8ad6-450e-afaf-8f1d62840bbc.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8b424919-e3d9-41d4-a579-9c422b13ddbd",
+   "name": "doi_152",
+   "photoCount": 2,
+   "file": "8b424919-e3d9-41d4-a579-9c422b13ddbd.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8b6c62ab-cc4a-46cf-b500-63a117308f95",
+   "name": "doi_36",
+   "photoCount": 2,
+   "file": "8b6c62ab-cc4a-46cf-b500-63a117308f95.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8c9efdd7-b87a-4572-9bb1-7a3354277dfb",
+   "name": "doi_123",
+   "photoCount": 2,
+   "file": "8c9efdd7-b87a-4572-9bb1-7a3354277dfb.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8d0d5221-418d-409e-9242-1abf88c099e8",
+   "name": "doi_323",
+   "photoCount": 3,
+   "file": "8d0d5221-418d-409e-9242-1abf88c099e8.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8d105561-fd2a-4982-8fcd-4c5201467a76",
+   "name": "doi_177",
+   "photoCount": 2,
+   "file": "8d105561-fd2a-4982-8fcd-4c5201467a76.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8d90e92d-e757-408b-9353-5adfcf3a8d31",
+   "name": "doi_21",
+   "photoCount": 1,
+   "file": "8d90e92d-e757-408b-9353-5adfcf3a8d31.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8e0c08e2-aeb5-4052-8e77-17ea5772db11",
+   "name": "doi_45",
+   "photoCount": 3,
+   "file": "8e0c08e2-aeb5-4052-8e77-17ea5772db11.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8f02327b-651c-45dc-8913-c7bc0c4eb281",
+   "name": "doi_304",
+   "photoCount": 4,
+   "file": "8f02327b-651c-45dc-8913-c7bc0c4eb281.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8f48df03-2cc7-4655-99c1-e3c962423eeb",
+   "name": "Doii_3",
+   "photoCount": 3,
+   "file": "8f48df03-2cc7-4655-99c1-e3c962423eeb.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9098d17b-9d98-4a49-8fa2-fcfbc3cf58a9",
+   "name": "doi_200",
+   "photoCount": 2,
+   "file": "9098d17b-9d98-4a49-8fa2-fcfbc3cf58a9.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::90f23b40-4b2b-4f58-964a-8500b04a1cdc",
+   "name": "doi_211",
+   "photoCount": 4,
+   "file": "90f23b40-4b2b-4f58-964a-8500b04a1cdc.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::911b8571-1c84-4189-9720-9779228e333c",
+   "name": "doi_9",
+   "photoCount": 4,
+   "file": "911b8571-1c84-4189-9720-9779228e333c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::922db083-d2d9-4453-82a1-8f57a2c61648",
+   "name": "doi_16",
+   "photoCount": 2,
+   "file": "922db083-d2d9-4453-82a1-8f57a2c61648.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::929082d1-31da-4438-a6ab-8fbd02b2d710",
+   "name": "doi_365",
+   "photoCount": 1,
+   "file": "929082d1-31da-4438-a6ab-8fbd02b2d710.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9307646e-9f18-47c9-beb5-6f8e930a6873",
+   "name": "doi_255",
+   "photoCount": 6,
+   "file": "9307646e-9f18-47c9-beb5-6f8e930a6873.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::948c025f-a963-4562-9b48-1474b4bc0d8c",
+   "name": "doi_68",
+   "photoCount": 3,
+   "file": "948c025f-a963-4562-9b48-1474b4bc0d8c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::94eb62b9-d78a-48c5-80f6-a0a3e3df8b79",
+   "name": "doi_193",
+   "photoCount": 2,
+   "file": "94eb62b9-d78a-48c5-80f6-a0a3e3df8b79.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::94ec6dcc-8af9-4039-90e2-23b995503973",
+   "name": "doi_32",
+   "photoCount": 2,
+   "file": "94ec6dcc-8af9-4039-90e2-23b995503973.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::952997ce-3105-4335-afa6-227a965eace4",
+   "name": "doi_359",
+   "photoCount": 3,
+   "file": "952997ce-3105-4335-afa6-227a965eace4.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9648517e-49ad-48c5-9bea-46b62448b2d3",
+   "name": "doi_113",
+   "photoCount": 4,
+   "file": "9648517e-49ad-48c5-9bea-46b62448b2d3.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::96c6d693-3216-44ff-83a3-4895dcc8c50c",
+   "name": "doi_161",
+   "photoCount": 4,
+   "file": "96c6d693-3216-44ff-83a3-4895dcc8c50c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::96edf349-5b57-4b4f-a932-2b59368c0f4d",
+   "name": "doi_77",
+   "photoCount": 4,
+   "file": "96edf349-5b57-4b4f-a932-2b59368c0f4d.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9861f9e7-2aa4-4e10-a644-20b8786af1f1",
+   "name": "doi_221",
+   "photoCount": 5,
+   "file": "9861f9e7-2aa4-4e10-a644-20b8786af1f1.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::991701f2-635e-4b64-9926-1df8118c6e70",
+   "name": "doi_266",
+   "photoCount": 1,
+   "file": "991701f2-635e-4b64-9926-1df8118c6e70.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9971a4aa-b303-46c9-93af-fca12ddf1712",
+   "name": "doi_17",
+   "photoCount": 8,
+   "file": "9971a4aa-b303-46c9-93af-fca12ddf1712.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9a11a4a1-35e0-48d0-a70e-c2993aa3cdeb",
+   "name": "doi_258",
+   "photoCount": 3,
+   "file": "9a11a4a1-35e0-48d0-a70e-c2993aa3cdeb.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9a6dc9b3-9d66-4a6c-8f4d-58bb8afc812e",
+   "name": "doi_61",
+   "photoCount": 3,
+   "file": "9a6dc9b3-9d66-4a6c-8f4d-58bb8afc812e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9d3a4097-f106-4ccd-8557-5a82eb8e1cda",
+   "name": "doi_245",
+   "photoCount": 2,
+   "file": "9d3a4097-f106-4ccd-8557-5a82eb8e1cda.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9d42211a-609a-4afc-b709-2467024cf2b1",
+   "name": "doi_94",
+   "photoCount": 3,
+   "file": "9d42211a-609a-4afc-b709-2467024cf2b1.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9e51f6f9-79e6-471b-ade9-53906b8a31e5",
+   "name": "doi_225",
+   "photoCount": 2,
+   "file": "9e51f6f9-79e6-471b-ade9-53906b8a31e5.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9e903ec5-cce4-4aa1-b361-c0152805a0fc",
+   "name": "doi_261",
+   "photoCount": 2,
+   "file": "9e903ec5-cce4-4aa1-b361-c0152805a0fc.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9e941fb3-ea30-4eb2-8f25-2ddbe8334ae6",
+   "name": "doi_210",
+   "photoCount": 3,
+   "file": "9e941fb3-ea30-4eb2-8f25-2ddbe8334ae6.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a10c2b2e-0af8-49a5-aaa4-b854faae1f60",
+   "name": "doi_41",
+   "photoCount": 2,
+   "file": "a10c2b2e-0af8-49a5-aaa4-b854faae1f60.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a1b74d90-75e3-4bcf-adac-1f402ab337d0",
+   "name": "doi_216",
+   "photoCount": 3,
+   "file": "a1b74d90-75e3-4bcf-adac-1f402ab337d0.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a283d9ec-1eb1-4a55-acff-4e04ff0ef21c",
+   "name": "doi_213",
+   "photoCount": 5,
+   "file": "a283d9ec-1eb1-4a55-acff-4e04ff0ef21c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a3949a8e-7457-4684-ab0d-4634b3fa95fc",
+   "name": "doi_105",
+   "photoCount": 3,
+   "file": "a3949a8e-7457-4684-ab0d-4634b3fa95fc.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a3a29983-bdd7-4780-abe1-9859cc7d0d47",
+   "name": "doi_90",
+   "photoCount": 2,
+   "file": "a3a29983-bdd7-4780-abe1-9859cc7d0d47.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a3b4daa2-55bc-4201-8dad-6ce3ca6dd65b",
+   "name": "doi_307",
+   "photoCount": 3,
+   "file": "a3b4daa2-55bc-4201-8dad-6ce3ca6dd65b.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a43ec085-984c-46a4-93d1-1a177e8cb661",
+   "name": "doi_295",
+   "photoCount": 3,
+   "file": "a43ec085-984c-46a4-93d1-1a177e8cb661.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a462d974-f6af-420b-8a63-236d886b3e1b",
+   "name": "doi_230",
+   "photoCount": 2,
+   "file": "a462d974-f6af-420b-8a63-236d886b3e1b.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a4b147c5-82c8-49ec-894e-497dc2cb8f42",
+   "name": "doi_151",
+   "photoCount": 2,
+   "file": "a4b147c5-82c8-49ec-894e-497dc2cb8f42.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a5f14a4d-e473-45d9-a491-3e159671323f",
+   "name": "doi_143",
+   "photoCount": 4,
+   "file": "a5f14a4d-e473-45d9-a491-3e159671323f.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a6ec499a-8c1e-4112-a927-19d2f60da951",
+   "name": "doi_98",
+   "photoCount": 3,
+   "file": "a6ec499a-8c1e-4112-a927-19d2f60da951.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a702f0aa-7f4f-44db-a2a4-38344d963cff",
+   "name": "doi_243",
+   "photoCount": 3,
+   "file": "a702f0aa-7f4f-44db-a2a4-38344d963cff.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a76357c7-25a2-4df0-bf5b-e2aab85ceff1",
+   "name": "doi_67",
+   "photoCount": 2,
+   "file": "a76357c7-25a2-4df0-bf5b-e2aab85ceff1.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a77c82ce-17d4-4e56-a400-543d9f8565d6",
+   "name": "Doii_14",
+   "photoCount": 5,
+   "file": "a77c82ce-17d4-4e56-a400-543d9f8565d6.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a7a7a034-4c17-4845-8ed8-5f3374ba4e9e",
+   "name": "doi_8",
+   "photoCount": 3,
+   "file": "a7a7a034-4c17-4845-8ed8-5f3374ba4e9e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a7d6069a-071d-4422-abae-39dfdefc12ec",
+   "name": "doi_34",
+   "photoCount": 3,
+   "file": "a7d6069a-071d-4422-abae-39dfdefc12ec.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a7e3ee13-cfb8-433f-98d9-a21808121a28",
+   "name": "doi_65",
+   "photoCount": 3,
+   "file": "a7e3ee13-cfb8-433f-98d9-a21808121a28.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a8505e57-0c7c-4696-a2db-068eb078f7d5",
+   "name": "doi_93",
+   "photoCount": 3,
+   "file": "a8505e57-0c7c-4696-a2db-068eb078f7d5.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a93204d5-5b7e-48da-a92f-b013ed43b8d7",
+   "name": "doi_347",
+   "photoCount": 3,
+   "file": "a93204d5-5b7e-48da-a92f-b013ed43b8d7.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::aa0dba44-5c1d-49a0-97c3-b1ff5de06ae2",
+   "name": "doi_194",
+   "photoCount": 3,
+   "file": "aa0dba44-5c1d-49a0-97c3-b1ff5de06ae2.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::aaa4dde5-6710-4363-b5e0-237572a72426",
+   "name": "doi_33",
+   "photoCount": 4,
+   "file": "aaa4dde5-6710-4363-b5e0-237572a72426.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::aafeb4a4-bfdd-4e1c-9652-61498914a198",
+   "name": "doi_60",
+   "photoCount": 5,
+   "file": "aafeb4a4-bfdd-4e1c-9652-61498914a198.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ab6d92e1-38ff-46b8-84c8-7ee20c36d316",
+   "name": "doi_324",
+   "photoCount": 6,
+   "file": "ab6d92e1-38ff-46b8-84c8-7ee20c36d316.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ac961892-681a-41fa-962b-e44c59a9eb0d",
+   "name": "doi_342",
+   "photoCount": 3,
+   "file": "ac961892-681a-41fa-962b-e44c59a9eb0d.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ad0ed778-3c22-4f33-ab57-67d0dd91e546",
+   "name": "doi_296",
+   "photoCount": 3,
+   "file": "ad0ed778-3c22-4f33-ab57-67d0dd91e546.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ad44f8b9-ba10-41cc-a026-d5f31b8dd346",
+   "name": "doi_272",
+   "photoCount": 2,
+   "file": "ad44f8b9-ba10-41cc-a026-d5f31b8dd346.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ae40bee4-3f3b-48ab-ad6f-10bc2ab15de8",
+   "name": "doi_217",
+   "photoCount": 4,
+   "file": "ae40bee4-3f3b-48ab-ad6f-10bc2ab15de8.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::af87ef22-f889-4269-99bf-72c4e1f26a59",
+   "name": "doi_321",
+   "photoCount": 1,
+   "file": "af87ef22-f889-4269-99bf-72c4e1f26a59.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::af906248-ae6c-498a-a8ed-1e8f188a7885",
+   "name": "doi_110",
+   "photoCount": 2,
+   "file": "af906248-ae6c-498a-a8ed-1e8f188a7885.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::afbd23ce-38d2-4900-8a1b-a10ac448753c",
+   "name": "doi_62",
+   "photoCount": 3,
+   "file": "afbd23ce-38d2-4900-8a1b-a10ac448753c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::afcedf78-e416-467e-b3ba-f908da7bf829",
+   "name": "doi_204",
+   "photoCount": 3,
+   "file": "afcedf78-e416-467e-b3ba-f908da7bf829.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b07d05e1-d973-42af-a69b-40b2d0d85ccd",
+   "name": "doi_285",
+   "photoCount": 2,
+   "file": "b07d05e1-d973-42af-a69b-40b2d0d85ccd.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b1499342-3a02-4d06-874f-54773393703a",
+   "name": "doi_86",
+   "photoCount": 4,
+   "file": "b1499342-3a02-4d06-874f-54773393703a.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b1f7027d-6927-40c0-9570-d6516df2efe2",
+   "name": "doi_163",
+   "photoCount": 2,
+   "file": "b1f7027d-6927-40c0-9570-d6516df2efe2.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b1f89952-179e-439b-90db-ef46caff7307",
+   "name": "doi_336",
+   "photoCount": 4,
+   "file": "b1f89952-179e-439b-90db-ef46caff7307.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b236090a-2e39-4a7b-920e-23245c2c5fb1",
+   "name": "doi_169",
+   "photoCount": 2,
+   "file": "b236090a-2e39-4a7b-920e-23245c2c5fb1.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b24df794-8ecb-43a9-99c1-5fd3c743d03c",
+   "name": "doi_292",
+   "photoCount": 2,
+   "file": "b24df794-8ecb-43a9-99c1-5fd3c743d03c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b31d6984-887e-47b4-9e9b-68ae9d2ef951",
+   "name": "doi_187",
+   "photoCount": 3,
+   "file": "b31d6984-887e-47b4-9e9b-68ae9d2ef951.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b3fe5918-9cea-44e8-b2b8-2f4f9328d107",
+   "name": "doi_107",
+   "photoCount": 3,
+   "file": "b3fe5918-9cea-44e8-b2b8-2f4f9328d107.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b4051c66-1e57-449a-a4bf-987ebb62377e",
+   "name": "doi_241",
+   "photoCount": 4,
+   "file": "b4051c66-1e57-449a-a4bf-987ebb62377e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b4598268-912d-49df-946c-caeadca73362",
+   "name": "doi_176",
+   "photoCount": 3,
+   "file": "b4598268-912d-49df-946c-caeadca73362.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b5b9ab4d-62eb-4808-9d21-fde7d7d3b121",
+   "name": "doi_14",
+   "photoCount": 4,
+   "file": "b5b9ab4d-62eb-4808-9d21-fde7d7d3b121.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b5c8da01-f5a2-4df7-8dff-747253053a07",
+   "name": "doi_311",
+   "photoCount": 5,
+   "file": "b5c8da01-f5a2-4df7-8dff-747253053a07.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b665f5f0-68b9-47ea-ad36-3f664f1502f0",
+   "name": "doi_81",
+   "photoCount": 6,
+   "file": "b665f5f0-68b9-47ea-ad36-3f664f1502f0.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b71ed277-756e-408e-9c2b-fc4bbcacd42e",
+   "name": "doi_76",
+   "photoCount": 5,
+   "file": "b71ed277-756e-408e-9c2b-fc4bbcacd42e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b774aea5-040a-4fd8-b615-aec20cb05e05",
+   "name": "doi_265",
+   "photoCount": 4,
+   "file": "b774aea5-040a-4fd8-b615-aec20cb05e05.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b7d56123-b8ad-475e-bd99-cef51848fc4b",
+   "name": "doi_129",
+   "photoCount": 3,
+   "file": "b7d56123-b8ad-475e-bd99-cef51848fc4b.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b8c97e78-8d27-4a3d-88d7-c6c1b26a2263",
+   "name": "doi_88",
+   "photoCount": 4,
+   "file": "b8c97e78-8d27-4a3d-88d7-c6c1b26a2263.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b8c99a61-1c40-4446-9182-2281ee0019a4",
+   "name": "doi_118",
+   "photoCount": 3,
+   "file": "b8c99a61-1c40-4446-9182-2281ee0019a4.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b9d5164a-1edc-4ede-a3c7-a303c6909112",
+   "name": "doi_252",
+   "photoCount": 2,
+   "file": "b9d5164a-1edc-4ede-a3c7-a303c6909112.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b9da309b-2c51-4c03-852e-033090e06e18",
+   "name": "doi_212",
+   "photoCount": 3,
+   "file": "b9da309b-2c51-4c03-852e-033090e06e18.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ba10b1db-972d-4eca-9f04-96e8dad40064",
+   "name": "doi_344",
+   "photoCount": 4,
+   "file": "ba10b1db-972d-4eca-9f04-96e8dad40064.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ba251fa9-3f38-410c-90ba-6bdbf0aa9bf1",
+   "name": "doi_312",
+   "photoCount": 3,
+   "file": "ba251fa9-3f38-410c-90ba-6bdbf0aa9bf1.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::bad344db-941b-44ad-beb1-e413bb19a13d",
+   "name": "doi_13",
+   "photoCount": 3,
+   "file": "bad344db-941b-44ad-beb1-e413bb19a13d.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::bbd07f11-cf7f-4113-b461-8747cae7f698",
+   "name": "doi_240",
+   "photoCount": 2,
+   "file": "bbd07f11-cf7f-4113-b461-8747cae7f698.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::beb22003-2871-43b3-b45a-c9d3e304a1fe",
+   "name": "doi_106",
+   "photoCount": 2,
+   "file": "beb22003-2871-43b3-b45a-c9d3e304a1fe.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::bf0c6cf3-bf6d-4c7c-950e-acdc6ffecc42",
+   "name": "doi_341",
+   "photoCount": 2,
+   "file": "bf0c6cf3-bf6d-4c7c-950e-acdc6ffecc42.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c048ab83-97e0-4fae-9124-020719a11274",
+   "name": "doi_11",
+   "photoCount": 4,
+   "file": "c048ab83-97e0-4fae-9124-020719a11274.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c1fe7ce8-1af8-4de4-825f-31495ce10789",
+   "name": "doi_4",
+   "photoCount": 4,
+   "file": "c1fe7ce8-1af8-4de4-825f-31495ce10789.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c22cf2cf-071e-469c-b960-2700e9559820",
+   "name": "doi_1",
+   "photoCount": 3,
+   "file": "c22cf2cf-071e-469c-b960-2700e9559820.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c2a1a592-0530-47c8-9e8d-54620973e38f",
+   "name": "doi_331",
+   "photoCount": 1,
+   "file": "c2a1a592-0530-47c8-9e8d-54620973e38f.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c2c92ba3-aafe-4eb3-aa15-42035bc68d8f",
+   "name": "doi_263",
+   "photoCount": 3,
+   "file": "c2c92ba3-aafe-4eb3-aa15-42035bc68d8f.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c440ee98-549a-46c5-b5d3-f448ebf87279",
+   "name": "Doii_13",
+   "photoCount": 10,
+   "file": "c440ee98-549a-46c5-b5d3-f448ebf87279.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c47c0562-fe6f-4589-bc62-faf8c253befb",
+   "name": "doi_238",
+   "photoCount": 3,
+   "file": "c47c0562-fe6f-4589-bc62-faf8c253befb.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c7184dcb-8618-4853-9319-53b8d4eae59f",
+   "name": "doi_361",
+   "photoCount": 5,
+   "file": "c7184dcb-8618-4853-9319-53b8d4eae59f.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c7beebec-2849-422c-a27b-c1878b2bf709",
+   "name": "doi_139",
+   "photoCount": 2,
+   "file": "c7beebec-2849-422c-a27b-c1878b2bf709.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c7d15d60-4ffe-4f8b-bc69-d7c3052eae1c",
+   "name": "doi_317",
+   "photoCount": 4,
+   "file": "c7d15d60-4ffe-4f8b-bc69-d7c3052eae1c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c805dd39-dc4c-40a0-b9ba-d724e6bc3ffd",
+   "name": "Doii_12",
+   "photoCount": 4,
+   "file": "c805dd39-dc4c-40a0-b9ba-d724e6bc3ffd.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c8415261-bdae-4373-b612-55c1f812ece8",
+   "name": "doi_167",
+   "photoCount": 2,
+   "file": "c8415261-bdae-4373-b612-55c1f812ece8.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c95f9633-bd1b-4a36-8b48-95cfdace89d7",
+   "name": "doi_149",
+   "photoCount": 3,
+   "file": "c95f9633-bd1b-4a36-8b48-95cfdace89d7.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ca383ba8-a701-412c-9bcf-21de40b9369b",
+   "name": "doi_251",
+   "photoCount": 2,
+   "file": "ca383ba8-a701-412c-9bcf-21de40b9369b.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::cb38e94c-29a5-4e7d-a23f-0b23b6d85571",
+   "name": "doi_319",
+   "photoCount": 3,
+   "file": "cb38e94c-29a5-4e7d-a23f-0b23b6d85571.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::cc4e20bf-d17d-4bd0-aac6-b5a592d7a981",
+   "name": "doi_127",
+   "photoCount": 3,
+   "file": "cc4e20bf-d17d-4bd0-aac6-b5a592d7a981.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::cc7c6136-2ff3-41ab-ac75-0208f312fefb",
+   "name": "doi_101",
+   "photoCount": 4,
+   "file": "cc7c6136-2ff3-41ab-ac75-0208f312fefb.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::cd2cd98e-d01b-4f00-bf07-3fb52bc62d6c",
+   "name": "doi_136",
+   "photoCount": 3,
+   "file": "cd2cd98e-d01b-4f00-bf07-3fb52bc62d6c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::cd32451b-d783-4b08-a132-acce6cc2e8c5",
+   "name": "doi_315",
+   "photoCount": 1,
+   "file": "cd32451b-d783-4b08-a132-acce6cc2e8c5.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::cd3d618e-1c16-4878-ac79-2660de83e579",
+   "name": "doi_348",
+   "photoCount": 5,
+   "file": "cd3d618e-1c16-4878-ac79-2660de83e579.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::cda227b1-b3b4-4eba-96d7-72a0458ce0e2",
+   "name": "doi_343",
+   "photoCount": 2,
+   "file": "cda227b1-b3b4-4eba-96d7-72a0458ce0e2.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::cf02e737-5a54-488f-91a4-5ed2d9d6d671",
+   "name": "doi_239",
+   "photoCount": 3,
+   "file": "cf02e737-5a54-488f-91a4-5ed2d9d6d671.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::cf4787ed-4ced-410d-8603-c6e158f83e0b",
+   "name": "doi_115",
+   "photoCount": 3,
+   "file": "cf4787ed-4ced-410d-8603-c6e158f83e0b.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d04bc173-ae4c-44aa-97cf-fef8641c7cdf",
+   "name": "doi_338",
+   "photoCount": 5,
+   "file": "d04bc173-ae4c-44aa-97cf-fef8641c7cdf.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d09b0769-82fa-4e8a-9a94-a900eb19d977",
+   "name": "doi_237",
+   "photoCount": 2,
+   "file": "d09b0769-82fa-4e8a-9a94-a900eb19d977.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d1d1d4d0-7756-482a-9aa7-161e2a11c77a",
+   "name": "doi_186",
+   "photoCount": 3,
+   "file": "d1d1d4d0-7756-482a-9aa7-161e2a11c77a.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d1f1a682-35f3-4806-a59a-3395572a7dd5",
+   "name": "doi_160",
+   "photoCount": 2,
+   "file": "d1f1a682-35f3-4806-a59a-3395572a7dd5.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d21c58eb-5b87-48f4-b5a3-5b55867f0e3b",
+   "name": "doi_120",
+   "photoCount": 2,
+   "file": "d21c58eb-5b87-48f4-b5a3-5b55867f0e3b.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d2996121-6a6f-456e-b46d-a16b9fdbcd25",
+   "name": "doi_55",
+   "photoCount": 6,
+   "file": "d2996121-6a6f-456e-b46d-a16b9fdbcd25.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d3c1c2d7-71ed-44de-bdb7-84725decbf5d",
+   "name": "doi_121",
+   "photoCount": 2,
+   "file": "d3c1c2d7-71ed-44de-bdb7-84725decbf5d.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d476175e-3cc3-432a-9406-18f40e7424b6",
+   "name": "doi_356",
+   "photoCount": 2,
+   "file": "d476175e-3cc3-432a-9406-18f40e7424b6.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d4cc0f6c-ae7d-4b83-9a87-9dcce98cdc7a",
+   "name": "doi_43",
+   "photoCount": 4,
+   "file": "d4cc0f6c-ae7d-4b83-9a87-9dcce98cdc7a.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d4fa1b0a-91ee-4f93-9660-e0acd79bb38d",
+   "name": "doi_164",
+   "photoCount": 3,
+   "file": "d4fa1b0a-91ee-4f93-9660-e0acd79bb38d.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d5431d01-dc6c-4be9-a5f8-cecde85c0c41",
+   "name": "doi_126",
+   "photoCount": 3,
+   "file": "d5431d01-dc6c-4be9-a5f8-cecde85c0c41.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d6b6df0e-4b69-452f-bf9e-cc195c791e0f",
+   "name": "doi_147",
+   "photoCount": 3,
+   "file": "d6b6df0e-4b69-452f-bf9e-cc195c791e0f.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d73f840c-e449-4bd9-98ac-7e0d99b8ae03",
+   "name": "doi_47",
+   "photoCount": 3,
+   "file": "d73f840c-e449-4bd9-98ac-7e0d99b8ae03.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d96d8a8f-354c-400c-8d11-3a90617fa361",
+   "name": "doi_49",
+   "photoCount": 1,
+   "file": "d96d8a8f-354c-400c-8d11-3a90617fa361.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d9a16362-f0b3-4438-beaf-675db3e9e350",
+   "name": "doi_297",
+   "photoCount": 2,
+   "file": "d9a16362-f0b3-4438-beaf-675db3e9e350.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::dabd10b7-df1f-4369-900d-f77e4c4dfdfe",
+   "name": "doi_83",
+   "photoCount": 1,
+   "file": "dabd10b7-df1f-4369-900d-f77e4c4dfdfe.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::dac37145-2b57-4011-a999-43a1c9dd8688",
+   "name": "Doii_19",
+   "photoCount": 5,
+   "file": "dac37145-2b57-4011-a999-43a1c9dd8688.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::db6f344b-a88a-4f46-a490-d0d002cb449e",
+   "name": "doi_325",
+   "photoCount": 6,
+   "file": "db6f344b-a88a-4f46-a490-d0d002cb449e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::db8e040e-9d28-4212-8137-5b56e0647b67",
+   "name": "doi_246",
+   "photoCount": 2,
+   "file": "db8e040e-9d28-4212-8137-5b56e0647b67.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::dc1b0952-3738-4de5-b406-3f79cf2ac129",
+   "name": "doi_10",
+   "photoCount": 4,
+   "file": "dc1b0952-3738-4de5-b406-3f79cf2ac129.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::dcbd6214-6753-4746-998b-00b5976d3a6d",
+   "name": "doi_18",
+   "photoCount": 2,
+   "file": "dcbd6214-6753-4746-998b-00b5976d3a6d.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::de7ba35b-5073-4d6f-871f-7a704aad96f9",
+   "name": "doi_78",
+   "photoCount": 2,
+   "file": "de7ba35b-5073-4d6f-871f-7a704aad96f9.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::de8f5e47-c783-4e4f-8664-013b40b53001",
+   "name": "doi_277",
+   "photoCount": 4,
+   "file": "de8f5e47-c783-4e4f-8664-013b40b53001.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::dfe3b3d7-ec16-4de8-abf9-f148154e5225",
+   "name": "doi_162",
+   "photoCount": 2,
+   "file": "dfe3b3d7-ec16-4de8-abf9-f148154e5225.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e036dcc5-a5c9-41a5-a729-98a984b30308",
+   "name": "doi_350",
+   "photoCount": 3,
+   "file": "e036dcc5-a5c9-41a5-a729-98a984b30308.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e06f5a4e-03db-4f4b-a017-179956fd1662",
+   "name": "doi_108",
+   "photoCount": 2,
+   "file": "e06f5a4e-03db-4f4b-a017-179956fd1662.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e0de1407-1d63-4188-ad29-313344d42f06",
+   "name": "doi_291",
+   "photoCount": 4,
+   "file": "e0de1407-1d63-4188-ad29-313344d42f06.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e130c192-816d-4747-b887-0030da31906b",
+   "name": "doi_102",
+   "photoCount": 2,
+   "file": "e130c192-816d-4747-b887-0030da31906b.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e138f1e6-0071-4e49-b6ae-0e6e827416e5",
+   "name": "doi_175",
+   "photoCount": 4,
+   "file": "e138f1e6-0071-4e49-b6ae-0e6e827416e5.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e1dc9994-d938-4f1c-804b-901a9e727427",
+   "name": "doi_275",
+   "photoCount": 3,
+   "file": "e1dc9994-d938-4f1c-804b-901a9e727427.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e3447367-dd98-4000-bf1c-92b746e8a589",
+   "name": "doi_207",
+   "photoCount": 2,
+   "file": "e3447367-dd98-4000-bf1c-92b746e8a589.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e4133345-04b7-4e16-93a3-42cc82233a00",
+   "name": "doi_184",
+   "photoCount": 3,
+   "file": "e4133345-04b7-4e16-93a3-42cc82233a00.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e537379b-38e3-45a4-9ce7-f850d028042c",
+   "name": "doi_25",
+   "photoCount": 2,
+   "file": "e537379b-38e3-45a4-9ce7-f850d028042c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e56fd855-b163-4bf4-b492-47c24c37a0f2",
+   "name": "doi_235",
+   "photoCount": 4,
+   "file": "e56fd855-b163-4bf4-b492-47c24c37a0f2.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e5d3bab8-bfda-4212-96fa-80d9b3c9c197",
+   "name": "doi_273",
+   "photoCount": 2,
+   "file": "e5d3bab8-bfda-4212-96fa-80d9b3c9c197.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e68425b5-b624-4f30-b5e8-38b78d45484c",
+   "name": "doi_249",
+   "photoCount": 4,
+   "file": "e68425b5-b624-4f30-b5e8-38b78d45484c.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e6bc7ea5-eca4-406e-8e34-f5c3e0605e17",
+   "name": "doi_289",
+   "photoCount": 6,
+   "file": "e6bc7ea5-eca4-406e-8e34-f5c3e0605e17.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e70a2e37-1768-4bbc-870f-c0f6541eb6b4",
+   "name": "doi_95",
+   "photoCount": 3,
+   "file": "e70a2e37-1768-4bbc-870f-c0f6541eb6b4.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e81791e5-7f50-4265-bddd-a88d4d5e8662",
+   "name": "doi_142",
+   "photoCount": 5,
+   "file": "e81791e5-7f50-4265-bddd-a88d4d5e8662.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ea8c0bcd-91c5-45df-b979-543d4be1aaf5",
+   "name": "doi_155",
+   "photoCount": 3,
+   "file": "ea8c0bcd-91c5-45df-b979-543d4be1aaf5.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::eaebd897-c3f7-4ae6-8808-c19855d3ab70",
+   "name": "doi_48",
+   "photoCount": 3,
+   "file": "eaebd897-c3f7-4ae6-8808-c19855d3ab70.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ec277d5a-1842-40c6-bfa9-73083694b3e6",
+   "name": "doi_195",
+   "photoCount": 3,
+   "file": "ec277d5a-1842-40c6-bfa9-73083694b3e6.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ec32983b-2f36-43ee-a8dc-f39ba76bf9eb",
+   "name": "doi_233",
+   "photoCount": 4,
+   "file": "ec32983b-2f36-43ee-a8dc-f39ba76bf9eb.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::edfa3c21-0ff1-4dbc-9186-fbf57683d988",
+   "name": "doi_69",
+   "photoCount": 2,
+   "file": "edfa3c21-0ff1-4dbc-9186-fbf57683d988.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ee537bc5-ca89-41b1-88ab-a6f6bac2181f",
+   "name": "doi_352",
+   "photoCount": 3,
+   "file": "ee537bc5-ca89-41b1-88ab-a6f6bac2181f.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::efa6c1c1-a285-42d9-947f-967ff679bdde",
+   "name": "doi_345",
+   "photoCount": 2,
+   "file": "efa6c1c1-a285-42d9-947f-967ff679bdde.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::efe6c444-bf8a-4a80-8789-63aa39538910",
+   "name": "doi_306",
+   "photoCount": 3,
+   "file": "efe6c444-bf8a-4a80-8789-63aa39538910.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f0840266-0527-4f6b-9d11-8f865eb0d5ca",
+   "name": "doi_346",
+   "photoCount": 4,
+   "file": "f0840266-0527-4f6b-9d11-8f865eb0d5ca.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f089e32b-9c6f-4c93-9fe0-600bbbb2987e",
+   "name": "doi_257",
+   "photoCount": 2,
+   "file": "f089e32b-9c6f-4c93-9fe0-600bbbb2987e.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f30bb3e8-9e5f-49ce-8a46-905a60e8b7c8",
+   "name": "doi_259",
+   "photoCount": 3,
+   "file": "f30bb3e8-9e5f-49ce-8a46-905a60e8b7c8.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f3807265-717b-4484-a148-bb8daa406662",
+   "name": "doi_75",
+   "photoCount": 4,
+   "file": "f3807265-717b-4484-a148-bb8daa406662.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f410fe48-4a62-49e4-ba6e-6deed7172504",
+   "name": "doi_327",
+   "photoCount": 2,
+   "file": "f410fe48-4a62-49e4-ba6e-6deed7172504.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f4fb1909-f92f-4553-9bcb-f5b4f265a0b1",
+   "name": "Doii_7",
+   "photoCount": 4,
+   "file": "f4fb1909-f92f-4553-9bcb-f5b4f265a0b1.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f5b8e86e-d296-4618-adb8-b003d041b487",
+   "name": "doi_322",
+   "photoCount": 2,
+   "file": "f5b8e86e-d296-4618-adb8-b003d041b487.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f71ddd7c-edea-4794-810b-0840a8737398",
+   "name": "doi_35",
+   "photoCount": 3,
+   "file": "f71ddd7c-edea-4794-810b-0840a8737398.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f8ecbf60-ca5c-49a1-87d7-47c1586d9f94",
+   "name": "doi_28",
+   "photoCount": 7,
+   "file": "f8ecbf60-ca5c-49a1-87d7-47c1586d9f94.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f9404ec0-9ad1-4dcf-a357-cf03a2bc6921",
+   "name": "doi_271",
+   "photoCount": 3,
+   "file": "f9404ec0-9ad1-4dcf-a357-cf03a2bc6921.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f9c60810-c09d-4898-b8c5-d2697fb9b478",
+   "name": "doi_71",
+   "photoCount": 2,
+   "file": "f9c60810-c09d-4898-b8c5-d2697fb9b478.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::fc520068-1bd6-4870-a009-15b9920db999",
+   "name": "doi_358",
+   "photoCount": 2,
+   "file": "fc520068-1bd6-4870-a009-15b9920db999.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::fc562c08-6ec3-48c1-a3d5-1675c34ec599",
+   "name": "doi_27",
+   "photoCount": 3,
+   "file": "fc562c08-6ec3-48c1-a3d5-1675c34ec599.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::fd4bbcbb-2cc3-48b7-ba01-b8d345e94617",
+   "name": "doi_332",
+   "photoCount": 2,
+   "file": "fd4bbcbb-2cc3-48b7-ba01-b8d345e94617.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::fd7c83cb-279e-4a14-8c76-1847c8fa2c76",
+   "name": "doi_229",
+   "photoCount": 2,
+   "file": "fd7c83cb-279e-4a14-8c76-1847c8fa2c76.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::fe13edfd-eb91-464f-9bc2-cdf7a04edd86",
+   "name": "doi_140",
+   "photoCount": 9,
+   "file": "fe13edfd-eb91-464f-9bc2-cdf7a04edd86.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::fe72afb6-5597-493e-a0d8-8ac377cfabce",
+   "name": "doi_202",
+   "photoCount": 3,
+   "file": "fe72afb6-5597-493e-a0d8-8ac377cfabce.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietketrangdoiv3::da04f2a9-bc95-4b6f-b97c-796c0d1634dc",
+   "name": "PSD the lover",
+   "photoCount": null,
+   "file": "da04f2a9-bc95-4b6f-b97c-796c0d1634dc.webp",
+   "w": 480,
+   "h": 71,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::61888cc0-6004-4f15-9a27-18dabaf15856",
+   "name": "5a",
+   "photoCount": null,
+   "file": "61888cc0-6004-4f15-9a27-18dabaf15856.webp",
+   "w": 480,
+   "h": 392,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b7a00951-471e-4017-baa6-bf0d37fce52b",
+   "name": "PSD szg",
+   "photoCount": null,
+   "file": "b7a00951-471e-4017-baa6-bf0d37fce52b.webp",
+   "w": 326,
+   "h": 126,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5c5eb1f1-1ffa-43ea-b314-7ec5668e015c",
+   "name": "PSD Muse",
+   "photoCount": null,
+   "file": "5c5eb1f1-1ffa-43ea-b314-7ec5668e015c.webp",
+   "w": 480,
+   "h": 143,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::bb51e231-ea9a-4209-8aff-d7bfaf4c79e7",
+   "name": "PSD the wedding photobook",
+   "photoCount": null,
+   "file": "bb51e231-ea9a-4209-8aff-d7bfaf4c79e7.webp",
+   "w": 480,
+   "h": 25,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9e5ea387-0f91-4b22-8237-ccc85e9fe582",
+   "name": "PSD muse.",
+   "photoCount": null,
+   "file": "9e5ea387-0f91-4b22-8237-ccc85e9fe582.webp",
+   "w": 480,
+   "h": 91,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::df2172c0-e36f-4246-ba94-45cdea1bde36",
+   "name": "PSD Our love is like the wind. I can t see it but I can feel it.",
+   "photoCount": null,
+   "file": "df2172c0-e36f-4246-ba94-45cdea1bde36.webp",
+   "w": 480,
+   "h": 14,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6d11f003-a391-440a-bbeb-2ed6b68ad9b2",
+   "name": "PSD Our love is like the wind. I can t see it but I can feel it. cop",
+   "photoCount": null,
+   "file": "6d11f003-a391-440a-bbeb-2ed6b68ad9b2.webp",
+   "w": 480,
+   "h": 14,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::45088ea8-0890-483d-bbf3-644e4426de86",
+   "name": "PSD the wedding book",
+   "photoCount": null,
+   "file": "45088ea8-0890-483d-bbf3-644e4426de86.webp",
+   "w": 480,
+   "h": 183,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f5042153-715b-4558-a02b-7fbe3346df29",
+   "name": "PSD It was love at first sight at last sight at ever and ever sig",
+   "photoCount": null,
+   "file": "f5042153-715b-4558-a02b-7fbe3346df29.webp",
+   "w": 480,
+   "h": 173,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a9abb997-6177-4c5d-99b9-260ba22fea63",
+   "name": "PSD spring",
+   "photoCount": null,
+   "file": "a9abb997-6177-4c5d-99b9-260ba22fea63.webp",
+   "w": 480,
+   "h": 96,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c0d62178-cab1-4741-8063-291d4f561e2f",
+   "name": "PSD bride.",
+   "photoCount": null,
+   "file": "c0d62178-cab1-4741-8063-291d4f561e2f.webp",
+   "w": 170,
+   "h": 42,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b23a7258-4ed8-4f67-9bfe-0127939f4aa1",
+   "name": "PSD Fiercely",
+   "photoCount": null,
+   "file": "b23a7258-4ed8-4f67-9bfe-0127939f4aa1.webp",
+   "w": 444,
+   "h": 95,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9a797b1f-f212-4869-8a65-f02f2f0d7da1",
+   "name": "PSD inthesea",
+   "photoCount": null,
+   "file": "9a797b1f-f212-4869-8a65-f02f2f0d7da1.webp",
+   "w": 480,
+   "h": 786,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::derived_776dc768-7adb-4b6a-8eb8-76e339e4364a",
+   "name": "HT 2025 1_083 – vùng 1",
+   "photoCount": null,
+   "file": "derived_776dc768-7adb-4b6a-8eb8-76e339e4364a.webp",
+   "w": 480,
+   "h": 115,
+   "kind": "element"
+  },
+  {
+   "templateId": "thietketrangdoiv3::641a19de-e1f3-4cef-84cd-72887c8181ed",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up t",
+   "photoCount": null,
+   "file": "641a19de-e1f3-4cef-84cd-72887c8181ed.webp",
+   "w": 480,
+   "h": 814,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ae8f190d-9cfe-4a24-b8cf-98686497136a",
+   "name": "PSD treasure moments",
+   "photoCount": null,
+   "file": "ae8f190d-9cfe-4a24-b8cf-98686497136a.webp",
+   "w": 480,
+   "h": 166,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::fea6da79-5bc8-478f-9578-6299e6b38203",
+   "name": "PSD intimacy",
+   "photoCount": null,
+   "file": "fea6da79-5bc8-478f-9578-6299e6b38203.webp",
+   "w": 262,
+   "h": 69,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3fb4e6cd-948a-46ce-9c00-6d67c13be270",
+   "name": "PSD passion",
+   "photoCount": null,
+   "file": "3fb4e6cd-948a-46ce-9c00-6d67c13be270.webp",
+   "w": 248,
+   "h": 69,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::82191770-777f-4f4e-8498-e46f9abbc54b",
+   "name": "PSD by dinhthaistudio",
+   "photoCount": null,
+   "file": "82191770-777f-4f4e-8498-e46f9abbc54b.webp",
+   "w": 240,
+   "h": 29,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::06e1f805-81bd-43a7-a56c-9e48d15fe9b2",
+   "name": "PSD You re always the first and the last thing on this heart of mi",
+   "photoCount": null,
+   "file": "06e1f805-81bd-43a7-a56c-9e48d15fe9b2.webp",
+   "w": 480,
+   "h": 41,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0075afb4-05de-4d3b-9069-5b20ebeff5ae",
+   "name": "PSD New JOURNEY TOGETHER",
+   "photoCount": null,
+   "file": "0075afb4-05de-4d3b-9069-5b20ebeff5ae.webp",
+   "w": 480,
+   "h": 118,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::75b2feb6-6788-4d5b-b97e-4d4a04f0ac58",
+   "name": "PSD Two are better than one.",
+   "photoCount": null,
+   "file": "75b2feb6-6788-4d5b-b97e-4d4a04f0ac58.webp",
+   "w": 42,
+   "h": 729,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::44b30963-38de-4c58-adfb-6da158318cef",
+   "name": "PSD I saw that you were perfect and so I loved you. Then I saw th",
+   "photoCount": null,
+   "file": "44b30963-38de-4c58-adfb-6da158318cef.webp",
+   "w": 79,
+   "h": 1379,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::fd77fe54-1add-4c2f-82b2-9d805ea6916e",
+   "name": "PSD l.o.v.e.r copy 2",
+   "photoCount": null,
+   "file": "fd77fe54-1add-4c2f-82b2-9d805ea6916e.webp",
+   "w": 181,
+   "h": 940,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::aeabcb3e-9b4d-4b96-9860-512b6e9156d4",
+   "name": "PSD l.o.v.e.r copy",
+   "photoCount": null,
+   "file": "aeabcb3e-9b4d-4b96-9860-512b6e9156d4.webp",
+   "w": 42,
+   "h": 211,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9494308e-8f78-453d-9704-59538926650d",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up to",
+   "photoCount": null,
+   "file": "9494308e-8f78-453d-9704-59538926650d.webp",
+   "w": 480,
+   "h": 43,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::85fda837-b55c-4a1d-ad57-563458e9dc9c",
+   "name": "PSD Amour.",
+   "photoCount": null,
+   "file": "85fda837-b55c-4a1d-ad57-563458e9dc9c.webp",
+   "w": 480,
+   "h": 94,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ef7746b2-1c1f-441a-a003-866f599f296b",
+   "name": "PSD et l amour",
+   "photoCount": null,
+   "file": "ef7746b2-1c1f-441a-a003-866f599f296b.webp",
+   "w": 321,
+   "h": 37,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a15f8884-5706-4d20-9ff3-1b4ede3dd991",
+   "name": "PSD white",
+   "photoCount": null,
+   "file": "a15f8884-5706-4d20-9ff3-1b4ede3dd991.webp",
+   "w": 480,
+   "h": 142,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::1680d7c5-31eb-49fd-a203-b838dab400f2",
+   "name": "PSD it must be heaven",
+   "photoCount": null,
+   "file": "1680d7c5-31eb-49fd-a203-b838dab400f2.webp",
+   "w": 480,
+   "h": 163,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c683e9a9-f12b-4414-9be6-f16c70d3caa4",
+   "name": "PSD the wedding",
+   "photoCount": null,
+   "file": "c683e9a9-f12b-4414-9be6-f16c70d3caa4.webp",
+   "w": 480,
+   "h": 52,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::068c4084-a0a3-4286-9f15-3512b843869b",
+   "name": "PSD If I had to choose between breathing and loving you I would u",
+   "photoCount": null,
+   "file": "068c4084-a0a3-4286-9f15-3512b843869b.webp",
+   "w": 480,
+   "h": 131,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::31094703-7174-4d56-a59e-fc15d404ad4e",
+   "name": "savethedaea",
+   "photoCount": null,
+   "file": "31094703-7174-4d56-a59e-fc15d404ad4e.webp",
+   "w": 480,
+   "h": 152,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::bc193aa8-ca75-427e-b3eb-1daed34c6db1",
+   "name": "PSD with all your time mind and heart. I will make you underst",
+   "photoCount": null,
+   "file": "bc193aa8-ca75-427e-b3eb-1daed34c6db1.webp",
+   "w": 480,
+   "h": 25,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5ac4cc05-34a0-4d97-8fe7-20cdd1ed5b90",
+   "name": "PSD beat",
+   "photoCount": null,
+   "file": "5ac4cc05-34a0-4d97-8fe7-20cdd1ed5b90.webp",
+   "w": 167,
+   "h": 45,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::51c6a8ac-06b7-4e4e-b439-c00eb21c7a6f",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "51c6a8ac-06b7-4e4e-b439-c00eb21c7a6f.webp",
+   "w": 159,
+   "h": 45,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e8f53892-5cec-4828-bc61-36600132fb87",
+   "name": "PSD I am who I am because of you. You are every reason every hop",
+   "photoCount": null,
+   "file": "e8f53892-5cec-4828-bc61-36600132fb87.webp",
+   "w": 480,
+   "h": 119,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::94958d08-500e-417e-8d7c-ae2a9d6dc395",
+   "name": "PSD deep affection",
+   "photoCount": null,
+   "file": "94958d08-500e-417e-8d7c-ae2a9d6dc395.webp",
+   "w": 422,
+   "h": 55,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b410ffd8-a47d-47df-9968-f5e9643d31fc",
+   "name": "PSD If I had to choose between breathing and loving you I would u",
+   "photoCount": null,
+   "file": "b410ffd8-a47d-47df-9968-f5e9643d31fc.webp",
+   "w": 463,
+   "h": 125,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::fd6adc05-4d5d-48f3-8961-3a63e88da0d9",
+   "name": "PSD Dreamed",
+   "photoCount": null,
+   "file": "fd6adc05-4d5d-48f3-8961-3a63e88da0d9.webp",
+   "w": 480,
+   "h": 236,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::fe8a64fc-42fe-464e-b36f-5fb66d28d0be",
+   "name": "PSD To be your friend was all I ever wanted to be your lover was a",
+   "photoCount": null,
+   "file": "fe8a64fc-42fe-464e-b36f-5fb66d28d0be.webp",
+   "w": 480,
+   "h": 9,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3fba9c38-a09d-439e-a89b-a146f209b165",
+   "name": "PSD To be your friend was all I ever wanted to be your lover wa",
+   "photoCount": null,
+   "file": "3fba9c38-a09d-439e-a89b-a146f209b165.webp",
+   "w": 480,
+   "h": 168,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4b0577e9-9148-45dc-acd6-9cf99a8d5aea",
+   "name": "Romantic",
+   "photoCount": null,
+   "file": "4b0577e9-9148-45dc-acd6-9cf99a8d5aea.webp",
+   "w": 480,
+   "h": 218,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::aca0c577-f900-4849-8337-246fc1128d21",
+   "name": "PSD If I had to choose between breathing and loving you I would u",
+   "photoCount": null,
+   "file": "aca0c577-f900-4849-8337-246fc1128d21.webp",
+   "w": 480,
+   "h": 27,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7b03f204-1e1b-445c-a364-e0ac3e07f073",
+   "name": "PSD R",
+   "photoCount": null,
+   "file": "7b03f204-1e1b-445c-a364-e0ac3e07f073.webp",
+   "w": 223,
+   "h": 322,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7c81b306-e4df-42cf-8a6c-efb823c9e3b4",
+   "name": "PSD S",
+   "photoCount": null,
+   "file": "7c81b306-e4df-42cf-8a6c-efb823c9e3b4.webp",
+   "w": 220,
+   "h": 337,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8aecd7b0-e7e7-40af-b1c1-9529b622bb1a",
+   "name": "PSD Décembre",
+   "photoCount": null,
+   "file": "8aecd7b0-e7e7-40af-b1c1-9529b622bb1a.webp",
+   "w": 50,
+   "h": 296,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3d8db070-095b-45d1-9fb6-7b5cf6ecc0db",
+   "name": "PSD 22",
+   "photoCount": null,
+   "file": "3d8db070-095b-45d1-9fb6-7b5cf6ecc0db.webp",
+   "w": 286,
+   "h": 205,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d9c7b866-1011-46c5-8629-416cbbefa550",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "d9c7b866-1011-46c5-8629-416cbbefa550.webp",
+   "w": 308,
+   "h": 88,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ed601103-067d-4c6f-b5c3-447bae0d951f",
+   "name": "PSD forever",
+   "photoCount": null,
+   "file": "ed601103-067d-4c6f-b5c3-447bae0d951f.webp",
+   "w": 480,
+   "h": 88,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c7a37346-eb83-4e87-853a-ced245c6185e",
+   "name": "PSD one",
+   "photoCount": null,
+   "file": "c7a37346-eb83-4e87-853a-ced245c6185e.webp",
+   "w": 269,
+   "h": 88,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d8209f75-2c8e-4f04-af8a-4c196d405163",
+   "name": "PSD . Love is when you sit beside someone doing nothing yet you f",
+   "photoCount": null,
+   "file": "d8209f75-2c8e-4f04-af8a-4c196d405163.webp",
+   "w": 480,
+   "h": 168,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9b654440-ec0f-4f34-a5ff-7e55fa5a011b",
+   "name": "PSD France January 22 2022",
+   "photoCount": null,
+   "file": "9b654440-ec0f-4f34-a5ff-7e55fa5a011b.webp",
+   "w": 448,
+   "h": 41,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2330db0c-6738-4495-9a88-dea6a7db99fe",
+   "name": "PSD a photobook by dinh thai",
+   "photoCount": null,
+   "file": "2330db0c-6738-4495-9a88-dea6a7db99fe.webp",
+   "w": 113,
+   "h": 717,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b26ca32f-ac33-4980-a1d2-a91ec949156d",
+   "name": "PSD happiness of those who love beauty",
+   "photoCount": null,
+   "file": "b26ca32f-ac33-4980-a1d2-a91ec949156d.webp",
+   "w": 440,
+   "h": 14,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d2964c99-2ef4-4be2-a5cf-fa5b32b514d5",
+   "name": "PSD love story",
+   "photoCount": null,
+   "file": "d2964c99-2ef4-4be2-a5cf-fa5b32b514d5.webp",
+   "w": 400,
+   "h": 44,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::add0d5ab-9f39-48c3-bdc8-20c54c3ce9d7",
+   "name": "PSD Loving you never was an option. It was a necessity.",
+   "photoCount": null,
+   "file": "add0d5ab-9f39-48c3-bdc8-20c54c3ce9d7.webp",
+   "w": 480,
+   "h": 14,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4716688e-34bb-461c-bae9-4f50ef7cd495",
+   "name": "PSD the",
+   "photoCount": null,
+   "file": "4716688e-34bb-461c-bae9-4f50ef7cd495.webp",
+   "w": 185,
+   "h": 65,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::59ef6d96-511f-4601-ab76-6964c7254c48",
+   "name": "PSD tuấn và thảo",
+   "photoCount": null,
+   "file": "59ef6d96-511f-4601-ab76-6964c7254c48.webp",
+   "w": 480,
+   "h": 161,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::14cf9200-311a-4603-857f-c75a354c62c1",
+   "name": "PSD éternel",
+   "photoCount": null,
+   "file": "14cf9200-311a-4603-857f-c75a354c62c1.webp",
+   "w": 272,
+   "h": 1067,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e03f0042-6f61-4e94-8d1a-c36cdc77d046",
+   "name": "PSD mon histoire d amour",
+   "photoCount": null,
+   "file": "e03f0042-6f61-4e94-8d1a-c36cdc77d046.webp",
+   "w": 480,
+   "h": 37,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::1d5a0ef3-7455-48ba-be55-8394bfb8e8d8",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "1d5a0ef3-7455-48ba-be55-8394bfb8e8d8.webp",
+   "w": 148,
+   "h": 41,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f2185495-5861-4129-8334-c2c20d71fdb5",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up to",
+   "photoCount": null,
+   "file": "f2185495-5861-4129-8334-c2c20d71fdb5.webp",
+   "w": 480,
+   "h": 43,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::925ccd16-32a4-4ace-af6e-0fd1d31f491e",
+   "name": "PSD the love.",
+   "photoCount": null,
+   "file": "925ccd16-32a4-4ace-af6e-0fd1d31f491e.webp",
+   "w": 480,
+   "h": 65,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::fdb10616-d254-455c-8ace-686f9fe4226e",
+   "name": "PSD the wedding book",
+   "photoCount": null,
+   "file": "fdb10616-d254-455c-8ace-686f9fe4226e.webp",
+   "w": 480,
+   "h": 183,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4d1e270f-a537-4e48-930f-a332a19904dc",
+   "name": "PSD Loving you never was an option. It was a necessity.",
+   "photoCount": null,
+   "file": "4d1e270f-a537-4e48-930f-a332a19904dc.webp",
+   "w": 33,
+   "h": 1275,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::41abe9c6-5d54-4c34-905b-5b0804fdfb1d",
+   "name": "PSD photography",
+   "photoCount": null,
+   "file": "41abe9c6-5d54-4c34-905b-5b0804fdfb1d.webp",
+   "w": 477,
+   "h": 45,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ab794f9d-fdcf-4ac8-9064-fad45ef2994c",
+   "name": "PSD Early flowers",
+   "photoCount": null,
+   "file": "ab794f9d-fdcf-4ac8-9064-fad45ef2994c.webp",
+   "w": 480,
+   "h": 202,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::53652a8b-8fbb-4d94-b69e-318273e69a26",
+   "name": "PSD happiness of those who love beauty",
+   "photoCount": null,
+   "file": "53652a8b-8fbb-4d94-b69e-318273e69a26.webp",
+   "w": 480,
+   "h": 15,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::53bb28b6-8422-47ec-8fe6-512183feac07",
+   "name": "PSD muse",
+   "photoCount": null,
+   "file": "53bb28b6-8422-47ec-8fe6-512183feac07.webp",
+   "w": 480,
+   "h": 131,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f0e15ac3-be94-4ca4-b234-07efa4e36994",
+   "name": "PSD the love",
+   "photoCount": null,
+   "file": "f0e15ac3-be94-4ca4-b234-07efa4e36994.webp",
+   "w": 480,
+   "h": 71,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8a75e233-bae8-4007-affa-2703dfeb61b7",
+   "name": "2a",
+   "photoCount": null,
+   "file": "8a75e233-bae8-4007-affa-2703dfeb61b7.webp",
+   "w": 480,
+   "h": 141,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::36cdb6c5-5622-4868-a902-f380c6aeea4c",
+   "name": "PSD thelover",
+   "photoCount": null,
+   "file": "36cdb6c5-5622-4868-a902-f380c6aeea4c.webp",
+   "w": 480,
+   "h": 352,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::737bbf7a-571c-40fe-9ffe-768821c1126f",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up t",
+   "photoCount": null,
+   "file": "737bbf7a-571c-40fe-9ffe-768821c1126f.webp",
+   "w": 480,
+   "h": 343,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::81c8a879-90b8-41d6-9fc0-4e3fedc95f49",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up t co",
+   "photoCount": null,
+   "file": "81c8a879-90b8-41d6-9fc0-4e3fedc95f49.webp",
+   "w": 480,
+   "h": 343,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::61c665ac-50aa-432b-8ff2-dcf2ef515e3c",
+   "name": "PSD photography",
+   "photoCount": null,
+   "file": "61c665ac-50aa-432b-8ff2-dcf2ef515e3c.webp",
+   "w": 398,
+   "h": 39,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::627782d0-0d42-47c0-926f-884767880ba3",
+   "name": "PSD layer",
+   "photoCount": null,
+   "file": "627782d0-0d42-47c0-926f-884767880ba3.webp",
+   "w": 67,
+   "h": 141,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d0d974db-7f58-4ed9-be72-7c9b80c68cf9",
+   "name": "PSD the storie",
+   "photoCount": null,
+   "file": "d0d974db-7f58-4ed9-be72-7c9b80c68cf9.webp",
+   "w": 289,
+   "h": 113,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::554aa12a-b650-4e36-bff1-bc854cbd401d",
+   "name": "PSD True love is putting someone else before yourself .",
+   "photoCount": null,
+   "file": "554aa12a-b650-4e36-bff1-bc854cbd401d.webp",
+   "w": 480,
+   "h": 13,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f2723b6e-36eb-4693-a985-e04ed0527f15",
+   "name": "PSD True",
+   "photoCount": null,
+   "file": "f2723b6e-36eb-4693-a985-e04ed0527f15.webp",
+   "w": 300,
+   "h": 80,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0345d4e7-2a03-4c93-94dd-50d19b4c2d86",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "0345d4e7-2a03-4c93-94dd-50d19b4c2d86.webp",
+   "w": 221,
+   "h": 275,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::79de1274-4053-4490-a7e6-df7565f40ba9",
+   "name": "PSD deep affection",
+   "photoCount": null,
+   "file": "79de1274-4053-4490-a7e6-df7565f40ba9.webp",
+   "w": 480,
+   "h": 117,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::fee6b2e6-d64a-41a7-b48e-fed3ffbaa2cf",
+   "name": "PSD deep affection",
+   "photoCount": null,
+   "file": "fee6b2e6-d64a-41a7-b48e-fed3ffbaa2cf.webp",
+   "w": 422,
+   "h": 55,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::dfd8601a-e990-4136-a1e5-fa3130d896a3",
+   "name": "PSD by dinhthai studio",
+   "photoCount": null,
+   "file": "dfd8601a-e990-4136-a1e5-fa3130d896a3.webp",
+   "w": 211,
+   "h": 23,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8e3da025-984a-4a1d-b6cf-168441848c1a",
+   "name": "PSD Early flowers",
+   "photoCount": null,
+   "file": "8e3da025-984a-4a1d-b6cf-168441848c1a.webp",
+   "w": 350,
+   "h": 148,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7e31c05c-fdc0-4750-a37a-58bddd6bd511",
+   "name": "PSD by HUMARU",
+   "photoCount": null,
+   "file": "7e31c05c-fdc0-4750-a37a-58bddd6bd511.webp",
+   "w": 32,
+   "h": 168,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::390173bf-d16e-4cb8-8806-e27d0b7eb7c1",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up t",
+   "photoCount": null,
+   "file": "390173bf-d16e-4cb8-8806-e27d0b7eb7c1.webp",
+   "w": 472,
+   "h": 801,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::09821412-ed20-4949-b305-5d76baf619f7",
+   "name": "PSD the wedding photobook",
+   "photoCount": null,
+   "file": "09821412-ed20-4949-b305-5d76baf619f7.webp",
+   "w": 480,
+   "h": 25,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5aa2b4e2-92c7-4a97-bac5-2dc188e66143",
+   "name": "PSD the wedding",
+   "photoCount": null,
+   "file": "5aa2b4e2-92c7-4a97-bac5-2dc188e66143.webp",
+   "w": 480,
+   "h": 44,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a85f444a-b041-41b1-a83e-f1387e7b33f1",
+   "name": "PSD dance",
+   "photoCount": null,
+   "file": "a85f444a-b041-41b1-a83e-f1387e7b33f1.webp",
+   "w": 187,
+   "h": 41,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2aad28af-8a1d-49c6-a7a5-261dbb2a332c",
+   "name": "PSD beat",
+   "photoCount": null,
+   "file": "2aad28af-8a1d-49c6-a7a5-261dbb2a332c.webp",
+   "w": 155,
+   "h": 41,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::77bfb387-6a89-40b2-b7c3-7f3936e7bc4a",
+   "name": "PSD captivating",
+   "photoCount": null,
+   "file": "77bfb387-6a89-40b2-b7c3-7f3936e7bc4a.webp",
+   "w": 333,
+   "h": 48,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::05db6bd5-b920-4376-97bd-560b1ff449ec",
+   "name": "PSD A WEDDING",
+   "photoCount": null,
+   "file": "05db6bd5-b920-4376-97bd-560b1ff449ec.webp",
+   "w": 480,
+   "h": 55,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2b2deb8d-f95e-48a4-8a9b-11eb7019ad1c",
+   "name": "3a",
+   "photoCount": null,
+   "file": "2b2deb8d-f95e-48a4-8a9b-11eb7019ad1c.webp",
+   "w": 480,
+   "h": 141,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3db20240-601e-4a86-be81-7871ebff1e26",
+   "name": "PSD Soulmates",
+   "photoCount": null,
+   "file": "3db20240-601e-4a86-be81-7871ebff1e26.webp",
+   "w": 480,
+   "h": 270,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::derived_1363a767-bff7-49c4-8fc9-f62b357a8555",
+   "name": "t41 – vùng 1",
+   "photoCount": null,
+   "file": "derived_1363a767-bff7-49c4-8fc9-f62b357a8555.webp",
+   "w": 480,
+   "h": 155,
+   "kind": "element"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2123b5a3-7559-40eb-ae1e-fd96f7576367",
+   "name": "PSD the leaf",
+   "photoCount": null,
+   "file": "2123b5a3-7559-40eb-ae1e-fd96f7576367.webp",
+   "w": 480,
+   "h": 659,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ef694ac9-c33a-4625-8bda-0609d95fb030",
+   "name": "PSD In the Mood for Love",
+   "photoCount": null,
+   "file": "ef694ac9-c33a-4625-8bda-0609d95fb030.webp",
+   "w": 480,
+   "h": 34,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f1a1f16e-b846-4503-a720-3eafc0c54690",
+   "name": "PSD TOMORROW",
+   "photoCount": null,
+   "file": "f1a1f16e-b846-4503-a720-3eafc0c54690.webp",
+   "w": 480,
+   "h": 52,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::da59dd75-4c44-42e8-8fd2-836e59da80ac",
+   "name": "PSD ALL IS FOR",
+   "photoCount": null,
+   "file": "da59dd75-4c44-42e8-8fd2-836e59da80ac.webp",
+   "w": 368,
+   "h": 45,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8013a387-13df-43d1-bb23-9f76debb7831",
+   "name": "PSD beat",
+   "photoCount": null,
+   "file": "8013a387-13df-43d1-bb23-9f76debb7831.webp",
+   "w": 167,
+   "h": 45,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f973ac3d-bc53-4b1c-a771-97b8c0aae058",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "f973ac3d-bc53-4b1c-a771-97b8c0aae058.webp",
+   "w": 159,
+   "h": 45,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5ee2f1fd-fff1-482d-858d-ce8dae4ef4d5",
+   "name": "PSD passion",
+   "photoCount": null,
+   "file": "5ee2f1fd-fff1-482d-858d-ce8dae4ef4d5.webp",
+   "w": 480,
+   "h": 186,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d20bca38-080a-47ce-b379-b9ee7ebd290f",
+   "name": "PSD éternel",
+   "photoCount": null,
+   "file": "d20bca38-080a-47ce-b379-b9ee7ebd290f.webp",
+   "w": 368,
+   "h": 1452,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::65a20e8d-5794-4d17-bc6e-84f20d55fb5b",
+   "name": "PSD mon histoire d amour",
+   "photoCount": null,
+   "file": "65a20e8d-5794-4d17-bc6e-84f20d55fb5b.webp",
+   "w": 42,
+   "h": 524,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e554c7fe-8abc-444c-b949-ba5e5082249c",
+   "name": "PSD with all your time mind and heart. I will make you underst",
+   "photoCount": null,
+   "file": "e554c7fe-8abc-444c-b949-ba5e5082249c.webp",
+   "w": 480,
+   "h": 25,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::46b9fd0f-fea7-4c47-9e3c-6cbfbd727718",
+   "name": "PSD -love-time -madness -rain-beautiful -look forwar-heart -wedding",
+   "photoCount": null,
+   "file": "46b9fd0f-fea7-4c47-9e3c-6cbfbd727718.webp",
+   "w": 324,
+   "h": 371,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0be6d5bc-4de1-4020-b753-e2485cf0c3e5",
+   "name": "PSD forever",
+   "photoCount": null,
+   "file": "0be6d5bc-4de1-4020-b753-e2485cf0c3e5.webp",
+   "w": 480,
+   "h": 88,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5d15be88-22c2-4388-87e8-bab7f099853f",
+   "name": "PSD THE PHOTOBOOK",
+   "photoCount": null,
+   "file": "5d15be88-22c2-4388-87e8-bab7f099853f.webp",
+   "w": 480,
+   "h": 40,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::94debfc7-9855-4587-8c09-ac6b4ab6c091",
+   "name": "PSD jacob studio",
+   "photoCount": null,
+   "file": "94debfc7-9855-4587-8c09-ac6b4ab6c091.webp",
+   "w": 62,
+   "h": 599,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9734e450-d14a-4a92-8dbf-b095f8b4ac78",
+   "name": "PSD in love",
+   "photoCount": null,
+   "file": "9734e450-d14a-4a92-8dbf-b095f8b4ac78.webp",
+   "w": 276,
+   "h": 64,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c470c747-bc1f-462c-aad9-c99782589f0f",
+   "name": "PSD wedding photobook of",
+   "photoCount": null,
+   "file": "c470c747-bc1f-462c-aad9-c99782589f0f.webp",
+   "w": 480,
+   "h": 210,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::45bcf087-b41b-45b0-af82-39c2e366496c",
+   "name": "PSD You were turning round to see who was behind you And I took y",
+   "photoCount": null,
+   "file": "45bcf087-b41b-45b0-af82-39c2e366496c.webp",
+   "w": 480,
+   "h": 75,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0d23b851-cd89-411f-9b9e-b4256a10f1d1",
+   "name": "PSD a book",
+   "photoCount": null,
+   "file": "0d23b851-cd89-411f-9b9e-b4256a10f1d1.webp",
+   "w": 480,
+   "h": 90,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e307f8cd-e601-47d6-bd07-ec80a56293ce",
+   "name": "PSD inspiration",
+   "photoCount": null,
+   "file": "e307f8cd-e601-47d6-bd07-ec80a56293ce.webp",
+   "w": 480,
+   "h": 80,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::77b5e6ba-844d-4737-a43d-d0be313f97f0",
+   "name": "PSD beat",
+   "photoCount": null,
+   "file": "77b5e6ba-844d-4737-a43d-d0be313f97f0.webp",
+   "w": 167,
+   "h": 45,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4121edab-e458-4150-ba28-acbae6c9ddde",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "4121edab-e458-4150-ba28-acbae6c9ddde.webp",
+   "w": 159,
+   "h": 45,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9b7852d7-dd43-4cb8-aa7c-7f10e2efde97",
+   "name": "PSD -the wedding photobook",
+   "photoCount": null,
+   "file": "9b7852d7-dd43-4cb8-aa7c-7f10e2efde97.webp",
+   "w": 305,
+   "h": 117,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7f5cc7f9-47b5-4542-95cf-5f9879f00ffc",
+   "name": "PSD IN",
+   "photoCount": null,
+   "file": "7f5cc7f9-47b5-4542-95cf-5f9879f00ffc.webp",
+   "w": 326,
+   "h": 170,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a12dd89b-bf67-4fb9-8dcd-6048724d9824",
+   "name": "PSD the garden",
+   "photoCount": null,
+   "file": "a12dd89b-bf67-4fb9-8dcd-6048724d9824.webp",
+   "w": 386,
+   "h": 71,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::edb84c42-a6f6-408d-a1df-6f8896a78d56",
+   "name": "PSD in the love",
+   "photoCount": null,
+   "file": "edb84c42-a6f6-408d-a1df-6f8896a78d56.webp",
+   "w": 382,
+   "h": 55,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a2f87db0-b489-4488-9271-743c3d9f3b52",
+   "name": "PSD get amour",
+   "photoCount": null,
+   "file": "a2f87db0-b489-4488-9271-743c3d9f3b52.webp",
+   "w": 101,
+   "h": 1034,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::15916fb2-a644-4e86-a3dc-3f8cd131c771",
+   "name": "PSD this love",
+   "photoCount": null,
+   "file": "15916fb2-a644-4e86-a3dc-3f8cd131c771.webp",
+   "w": 480,
+   "h": 300,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4af43282-e7a8-4507-8493-d5be63846e64",
+   "name": "PSD If I know what love is it is because of you",
+   "photoCount": null,
+   "file": "4af43282-e7a8-4507-8493-d5be63846e64.webp",
+   "w": 480,
+   "h": 338,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ae5cd26a-add8-4c32-9bf1-50f84b292f9c",
+   "name": "PSD I am who I am because of you. You are every reason every hop",
+   "photoCount": null,
+   "file": "ae5cd26a-add8-4c32-9bf1-50f84b292f9c.webp",
+   "w": 480,
+   "h": 119,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::25e428a7-1216-4848-95fe-d2c57dae97c3",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "25e428a7-1216-4848-95fe-d2c57dae97c3.webp",
+   "w": 123,
+   "h": 41,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::456d5128-8716-4e88-b00a-940a9effc771",
+   "name": "PSD mood",
+   "photoCount": null,
+   "file": "456d5128-8716-4e88-b00a-940a9effc771.webp",
+   "w": 154,
+   "h": 41,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::507c5c13-d162-4ccc-b1c1-1ea6cc4dee0a",
+   "name": "PSD You re always the first and the last thing on this heart of mi",
+   "photoCount": null,
+   "file": "507c5c13-d162-4ccc-b1c1-1ea6cc4dee0a.webp",
+   "w": 480,
+   "h": 41,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9f9a274f-f114-490d-8aeb-e9ceca386096",
+   "name": "PSD love story",
+   "photoCount": null,
+   "file": "9f9a274f-f114-490d-8aeb-e9ceca386096.webp",
+   "w": 400,
+   "h": 44,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::02cd9ed0-7063-4ba6-af86-d38e71ef6649",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "02cd9ed0-7063-4ba6-af86-d38e71ef6649.webp",
+   "w": 41,
+   "h": 123,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5d2b55d9-292c-4d06-bfe1-c3bede91a2aa",
+   "name": "PSD kiss",
+   "photoCount": null,
+   "file": "5d2b55d9-292c-4d06-bfe1-c3bede91a2aa.webp",
+   "w": 41,
+   "h": 118,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::421f48fd-09f1-444b-bee7-98ed93acde8e",
+   "name": "PSD mood",
+   "photoCount": null,
+   "file": "421f48fd-09f1-444b-bee7-98ed93acde8e.webp",
+   "w": 41,
+   "h": 155,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c0b70ce3-923c-4a55-bf20-dc18e025ba64",
+   "name": "PSD cinematic",
+   "photoCount": null,
+   "file": "c0b70ce3-923c-4a55-bf20-dc18e025ba64.webp",
+   "w": 41,
+   "h": 268,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ab0466ad-c78c-4d79-b857-30ef8e2445ea",
+   "name": "PSD a book",
+   "photoCount": null,
+   "file": "ab0466ad-c78c-4d79-b857-30ef8e2445ea.webp",
+   "w": 480,
+   "h": 90,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7b65a618-efe6-47c1-89bc-9641d1c5f78e",
+   "name": "PSD eternity",
+   "photoCount": null,
+   "file": "7b65a618-efe6-47c1-89bc-9641d1c5f78e.webp",
+   "w": 480,
+   "h": 256,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e2b8aaeb-0a45-4e6c-95ff-36cf10feb716",
+   "name": "PSD December 15 2022",
+   "photoCount": null,
+   "file": "e2b8aaeb-0a45-4e6c-95ff-36cf10feb716.webp",
+   "w": 285,
+   "h": 29,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::cc776a65-e2d1-4246-8e3f-9a553345ecd5",
+   "name": "PSD of love story",
+   "photoCount": null,
+   "file": "cc776a65-e2d1-4246-8e3f-9a553345ecd5.webp",
+   "w": 245,
+   "h": 40,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a61cb66d-267c-40c5-8860-4738cffc6add",
+   "name": "PSD photobook",
+   "photoCount": null,
+   "file": "a61cb66d-267c-40c5-8860-4738cffc6add.webp",
+   "w": 378,
+   "h": 74,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b7a64f4a-b528-4d87-95a2-f8f0edd819c9",
+   "name": "PSD the",
+   "photoCount": null,
+   "file": "b7a64f4a-b528-4d87-95a2-f8f0edd819c9.webp",
+   "w": 79,
+   "h": 48,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::04790689-b1a4-4b8a-b6eb-ece8f28d165e",
+   "name": "PSD photograpy",
+   "photoCount": null,
+   "file": "04790689-b1a4-4b8a-b6eb-ece8f28d165e.webp",
+   "w": 417,
+   "h": 45,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2b4dd8b5-aab2-40bd-9b00-7fddd503e915",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up t",
+   "photoCount": null,
+   "file": "2b4dd8b5-aab2-40bd-9b00-7fddd503e915.webp",
+   "w": 480,
+   "h": 97,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b6c05846-4ff1-4910-b51a-7d040a621eea",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "b6c05846-4ff1-4910-b51a-7d040a621eea.webp",
+   "w": 123,
+   "h": 41,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::15f1b522-92d8-4eb8-b9c3-86e87948ae06",
+   "name": "PSD kiss",
+   "photoCount": null,
+   "file": "15f1b522-92d8-4eb8-b9c3-86e87948ae06.webp",
+   "w": 119,
+   "h": 41,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::286c7103-e403-46bd-984b-2d3045ca64df",
+   "name": "PSD hello",
+   "photoCount": null,
+   "file": "286c7103-e403-46bd-984b-2d3045ca64df.webp",
+   "w": 480,
+   "h": 140,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::733a8478-5b6a-468c-8e4f-18662826d4d1",
+   "name": "PSD my love my dream and all of me",
+   "photoCount": null,
+   "file": "733a8478-5b6a-468c-8e4f-18662826d4d1.webp",
+   "w": 480,
+   "h": 37,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::42aa12eb-57fe-4fc5-99cc-a2741fa94e3f",
+   "name": "PSD GREAT",
+   "photoCount": null,
+   "file": "42aa12eb-57fe-4fc5-99cc-a2741fa94e3f.webp",
+   "w": 480,
+   "h": 110,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::628b0aae-29fb-4d18-88ba-cd51c97953e7",
+   "name": "PSD l art",
+   "photoCount": null,
+   "file": "628b0aae-29fb-4d18-88ba-cd51c97953e7.webp",
+   "w": 480,
+   "h": 129,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9e2699e0-5f6d-40f1-bc3e-5700d424ba84",
+   "name": "PSD et",
+   "photoCount": null,
+   "file": "9e2699e0-5f6d-40f1-bc3e-5700d424ba84.webp",
+   "w": 158,
+   "h": 132,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::97cdd179-05a3-4b30-b234-f14d280eb109",
+   "name": "PSD l amour",
+   "photoCount": null,
+   "file": "97cdd179-05a3-4b30-b234-f14d280eb109.webp",
+   "w": 480,
+   "h": 79,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::12fe4488-fc00-493e-90a8-2e607d36bcd1",
+   "name": "PSD Love does not consist in gazing at each other but in looking",
+   "photoCount": null,
+   "file": "12fe4488-fc00-493e-90a8-2e607d36bcd1.webp",
+   "w": 480,
+   "h": 53,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::72731e7b-44e2-4fcd-903b-633cd018064d",
+   "name": "PSD Love",
+   "photoCount": null,
+   "file": "72731e7b-44e2-4fcd-903b-633cd018064d.webp",
+   "w": 480,
+   "h": 379,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::43b9568c-365a-48a2-a3e3-d2468ef344a9",
+   "name": "PSD WEDDING DAY LOVE STORY all is for tomorrow VIET NAM",
+   "photoCount": null,
+   "file": "43b9568c-365a-48a2-a3e3-d2468ef344a9.webp",
+   "w": 367,
+   "h": 128,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2466309a-e912-469c-9faa-3992936a0de5",
+   "name": "PSD by HUMARU",
+   "photoCount": null,
+   "file": "2466309a-e912-469c-9faa-3992936a0de5.webp",
+   "w": 32,
+   "h": 168,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a359243f-fc99-4883-92d9-b49338ffdf5d",
+   "name": "PSD muse",
+   "photoCount": null,
+   "file": "a359243f-fc99-4883-92d9-b49338ffdf5d.webp",
+   "w": 480,
+   "h": 100,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b1bd7e71-3451-4248-a5b1-8eebcf5561b7",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up t",
+   "photoCount": null,
+   "file": "b1bd7e71-3451-4248-a5b1-8eebcf5561b7.webp",
+   "w": 480,
+   "h": 278,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a770e2a6-587e-418c-a702-75279bf89082",
+   "name": "PSD text",
+   "photoCount": null,
+   "file": "a770e2a6-587e-418c-a702-75279bf89082.webp",
+   "w": 480,
+   "h": 182,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::06f8291e-54d6-4045-8242-89dc3fbda861",
+   "name": "PSD New JOURNEY TOGETHER",
+   "photoCount": null,
+   "file": "06f8291e-54d6-4045-8242-89dc3fbda861.webp",
+   "w": 480,
+   "h": 118,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c498b5cd-692c-4713-ac4f-5b5e17e0b652",
+   "name": "PSD If I had to choose between breathing and loving you I would",
+   "photoCount": null,
+   "file": "c498b5cd-692c-4713-ac4f-5b5e17e0b652.webp",
+   "w": 480,
+   "h": 106,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e37fa5cd-78ae-49e9-9bed-53fd8e82957b",
+   "name": "PSD the book",
+   "photoCount": null,
+   "file": "e37fa5cd-78ae-49e9-9bed-53fd8e82957b.webp",
+   "w": 299,
+   "h": 46,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::bd4decd7-18a4-44e1-93be-0b4cab563858",
+   "name": "PSD danang 2022",
+   "photoCount": null,
+   "file": "bd4decd7-18a4-44e1-93be-0b4cab563858.webp",
+   "w": 280,
+   "h": 120,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b441fbeb-e784-43fc-b493-1880696a24ba",
+   "name": "PSD bride.",
+   "photoCount": null,
+   "file": "b441fbeb-e784-43fc-b493-1880696a24ba.webp",
+   "w": 170,
+   "h": 42,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::db7b56b9-aba2-4079-ae49-b6986a1d4197",
+   "name": "PSD True",
+   "photoCount": null,
+   "file": "db7b56b9-aba2-4079-ae49-b6986a1d4197.webp",
+   "w": 448,
+   "h": 595,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ea9e69b5-5ae5-44d9-bf7d-590171a3c30b",
+   "name": "PSD 2022",
+   "photoCount": null,
+   "file": "ea9e69b5-5ae5-44d9-bf7d-590171a3c30b.webp",
+   "w": 344,
+   "h": 107,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b4357824-53fc-4771-a598-ef6137959b35",
+   "name": "7a",
+   "photoCount": null,
+   "file": "b4357824-53fc-4771-a598-ef6137959b35.webp",
+   "w": 480,
+   "h": 260,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6586fed1-eb68-494a-b054-20827e0388e5",
+   "name": "PSD layer",
+   "photoCount": null,
+   "file": "6586fed1-eb68-494a-b054-20827e0388e5.webp",
+   "w": 44,
+   "h": 40,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6c557556-0e0d-47fd-8cff-1d7d21607854",
+   "name": "PSD wedding book",
+   "photoCount": null,
+   "file": "6c557556-0e0d-47fd-8cff-1d7d21607854.webp",
+   "w": 480,
+   "h": 113,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0e586733-cfb4-442e-8d90-74c28df42a46",
+   "name": "PSD muse",
+   "photoCount": null,
+   "file": "0e586733-cfb4-442e-8d90-74c28df42a46.webp",
+   "w": 479,
+   "h": 118,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a6b45faf-f19c-4eb4-88a7-c2355fae5aa9",
+   "name": "PSD about Love",
+   "photoCount": null,
+   "file": "a6b45faf-f19c-4eb4-88a7-c2355fae5aa9.webp",
+   "w": 480,
+   "h": 142,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::17ac2a56-2418-4ea9-b456-5a6545ba7fdc",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up t",
+   "photoCount": null,
+   "file": "17ac2a56-2418-4ea9-b456-5a6545ba7fdc.webp",
+   "w": 480,
+   "h": 281,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::49202325-9d3e-46a5-905e-46e75a924642",
+   "name": "PSD about Love",
+   "photoCount": null,
+   "file": "49202325-9d3e-46a5-905e-46e75a924642.webp",
+   "w": 480,
+   "h": 142,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2ee2b695-c3ff-4ec7-b2f8-f2d6a0be4ded",
+   "name": "PSD photograpy",
+   "photoCount": null,
+   "file": "2ee2b695-c3ff-4ec7-b2f8-f2d6a0be4ded.webp",
+   "w": 417,
+   "h": 45,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::201e6b08-f8b4-442b-8555-6573307556e2",
+   "name": "PSD I ve never been seen so completely loved so passionately",
+   "photoCount": null,
+   "file": "201e6b08-f8b4-442b-8555-6573307556e2.webp",
+   "w": 480,
+   "h": 77,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ebae62db-00da-4726-a598-aa20e361d701",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up t",
+   "photoCount": null,
+   "file": "ebae62db-00da-4726-a598-aa20e361d701.webp",
+   "w": 480,
+   "h": 97,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::da8914dd-1d67-47ac-b7f8-ae16a73cffaf",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "da8914dd-1d67-47ac-b7f8-ae16a73cffaf.webp",
+   "w": 480,
+   "h": 600,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::1a18ad7d-0772-4e3e-8697-3f253195c77c",
+   "name": "PSD looking",
+   "photoCount": null,
+   "file": "1a18ad7d-0772-4e3e-8697-3f253195c77c.webp",
+   "w": 480,
+   "h": 70,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c9b79526-4c2f-4db5-90ac-ed2d054ab111",
+   "name": "PSD the portrait photobook",
+   "photoCount": null,
+   "file": "c9b79526-4c2f-4db5-90ac-ed2d054ab111.webp",
+   "w": 480,
+   "h": 26,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a39bf539-cac9-43d8-9c52-d54fb86e120e",
+   "name": "PSD the muse",
+   "photoCount": null,
+   "file": "a39bf539-cac9-43d8-9c52-d54fb86e120e.webp",
+   "w": 306,
+   "h": 47,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5e17ab5d-b45b-40d1-af53-2ecb4e2fd96c",
+   "name": "PSD danang 2022 spring",
+   "photoCount": null,
+   "file": "5e17ab5d-b45b-40d1-af53-2ecb4e2fd96c.webp",
+   "w": 480,
+   "h": 31,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::65782bc8-55d9-4aa7-a3e3-0363c176917e",
+   "name": "PSD the wedding book",
+   "photoCount": null,
+   "file": "65782bc8-55d9-4aa7-a3e3-0363c176917e.webp",
+   "w": 59,
+   "h": 822,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::26c5f961-5394-43c4-8fc6-00d134ab4960",
+   "name": "PSD 22",
+   "photoCount": null,
+   "file": "26c5f961-5394-43c4-8fc6-00d134ab4960.webp",
+   "w": 333,
+   "h": 205,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::18975fb2-51e5-4b13-978d-9ed6350b9f7f",
+   "name": "PSD simple thing",
+   "photoCount": null,
+   "file": "18975fb2-51e5-4b13-978d-9ed6350b9f7f.webp",
+   "w": 480,
+   "h": 51,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8de74799-dda1-48d2-b85a-2b64a481796d",
+   "name": "PSD the wedding",
+   "photoCount": null,
+   "file": "8de74799-dda1-48d2-b85a-2b64a481796d.webp",
+   "w": 412,
+   "h": 46,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7d175618-9c8b-4ea0-8a5b-a6e1c0ba0e8a",
+   "name": "PSD and",
+   "photoCount": null,
+   "file": "7d175618-9c8b-4ea0-8a5b-a6e1c0ba0e8a.webp",
+   "w": 43,
+   "h": 115,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::199a5cd2-40f8-4424-98c7-887604d51fb9",
+   "name": "PSD THE WEDDING PHOTOBOOK by Peace House Studio",
+   "photoCount": null,
+   "file": "199a5cd2-40f8-4424-98c7-887604d51fb9.webp",
+   "w": 28,
+   "h": 684,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7c4e5d29-9583-434e-997f-c9f76940477d",
+   "name": "PSD dance and roses",
+   "photoCount": null,
+   "file": "7c4e5d29-9583-434e-997f-c9f76940477d.webp",
+   "w": 388,
+   "h": 42,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0b24211a-9bcd-4040-898f-2900ef83a374",
+   "name": "PSD a time for us",
+   "photoCount": null,
+   "file": "0b24211a-9bcd-4040-898f-2900ef83a374.webp",
+   "w": 480,
+   "h": 139,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5e30738f-e8c6-4fea-89e8-4cd7b2d12ee7",
+   "name": "PSD August 18 2022",
+   "photoCount": null,
+   "file": "5e30738f-e8c6-4fea-89e8-4cd7b2d12ee7.webp",
+   "w": 359,
+   "h": 47,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::63e9fbbe-9198-48d5-a021-284e6c5dafe7",
+   "name": "PSD Train d amour",
+   "photoCount": null,
+   "file": "63e9fbbe-9198-48d5-a021-284e6c5dafe7.webp",
+   "w": 480,
+   "h": 44,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::06f005b4-4dbf-4bfd-ab43-edaab4117888",
+   "name": "PSD vinh tuyet",
+   "photoCount": null,
+   "file": "06f005b4-4dbf-4bfd-ab43-edaab4117888.webp",
+   "w": 322,
+   "h": 52,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::293b3eaf-99e0-45c7-8cde-6f14c6b96b53",
+   "name": "PSD August 18 2022",
+   "photoCount": null,
+   "file": "293b3eaf-99e0-45c7-8cde-6f14c6b96b53.webp",
+   "w": 285,
+   "h": 38,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3f0d6757-5363-46d3-975a-6009217cf595",
+   "name": "PSD hanoi",
+   "photoCount": null,
+   "file": "3f0d6757-5363-46d3-975a-6009217cf595.webp",
+   "w": 144,
+   "h": 43,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::085d8f86-8a2b-473c-834f-de8869865b93",
+   "name": "PSD glow studio",
+   "photoCount": null,
+   "file": "085d8f86-8a2b-473c-834f-de8869865b93.webp",
+   "w": 291,
+   "h": 53,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::35cc13db-0431-4756-9e2a-b3e1dea2eeb9",
+   "name": "PSD I love you more than I have ever found a way to say to you",
+   "photoCount": null,
+   "file": "35cc13db-0431-4756-9e2a-b3e1dea2eeb9.webp",
+   "w": 43,
+   "h": 1840,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::30c4e60e-94a5-4bcf-bc81-9c60bf31d55d",
+   "name": "PSD Two are better than one",
+   "photoCount": null,
+   "file": "30c4e60e-94a5-4bcf-bc81-9c60bf31d55d.webp",
+   "w": 43,
+   "h": 778,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0f96a9e0-9c9a-4fa0-8e33-51e647969365",
+   "name": "PSD inseparable",
+   "photoCount": null,
+   "file": "0f96a9e0-9c9a-4fa0-8e33-51e647969365.webp",
+   "w": 480,
+   "h": 82,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d5c1fff1-7736-4edc-8c09-449bd2d48d8c",
+   "name": "PSD with all your time mind and heart. I will make you under",
+   "photoCount": null,
+   "file": "d5c1fff1-7736-4edc-8c09-449bd2d48d8c.webp",
+   "w": 480,
+   "h": 137,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::18291f46-99b0-4024-812e-2c7dbfcbc8cf",
+   "name": "PSD this love",
+   "photoCount": null,
+   "file": "18291f46-99b0-4024-812e-2c7dbfcbc8cf.webp",
+   "w": 306,
+   "h": 57,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ce226116-7550-411c-b739-ee2c2d0e3d98",
+   "name": "PSD the wedding photobook",
+   "photoCount": null,
+   "file": "ce226116-7550-411c-b739-ee2c2d0e3d98.webp",
+   "w": 37,
+   "h": 714,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ccfbc92f-54a1-46bd-9f47-166431e637f8",
+   "name": "PSD WEDDING DAY LOVE STORY all is for tomorrow VIET NAM",
+   "photoCount": null,
+   "file": "ccfbc92f-54a1-46bd-9f47-166431e637f8.webp",
+   "w": 480,
+   "h": 169,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::01916203-e102-4355-99d1-14603e76f9f1",
+   "name": "PSD 2",
+   "photoCount": null,
+   "file": "01916203-e102-4355-99d1-14603e76f9f1.webp",
+   "w": 309,
+   "h": 363,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0a0219f0-1cbb-422b-842b-3bcf40c2da93",
+   "name": "PSD Love",
+   "photoCount": null,
+   "file": "0a0219f0-1cbb-422b-842b-3bcf40c2da93.webp",
+   "w": 447,
+   "h": 194,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8a531798-d4db-400e-87c7-ed6cc624a35b",
+   "name": "PSD Muse",
+   "photoCount": null,
+   "file": "8a531798-d4db-400e-87c7-ed6cc624a35b.webp",
+   "w": 480,
+   "h": 143,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5fbf9299-f130-4c71-a120-e161807bde84",
+   "name": "PSD the wedding photobook",
+   "photoCount": null,
+   "file": "5fbf9299-f130-4c71-a120-e161807bde84.webp",
+   "w": 480,
+   "h": 25,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6a47f2d6-fb4d-4070-8b4d-684e2b25c3ac",
+   "name": "PSD .True love is rare and it s the only thing that gives life rea",
+   "photoCount": null,
+   "file": "6a47f2d6-fb4d-4070-8b4d-684e2b25c3ac.webp",
+   "w": 480,
+   "h": 92,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7dace4ee-9f1b-47dd-abae-3727f3ab59ac",
+   "name": "PSD eternity",
+   "photoCount": null,
+   "file": "7dace4ee-9f1b-47dd-abae-3727f3ab59ac.webp",
+   "w": 480,
+   "h": 256,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9df62373-0eac-4011-977c-5d2b3f9d283b",
+   "name": "PSD of love story",
+   "photoCount": null,
+   "file": "9df62373-0eac-4011-977c-5d2b3f9d283b.webp",
+   "w": 245,
+   "h": 40,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3afb4ab8-3730-454c-abff-9a6da2e96ccc",
+   "name": "PSD ALL FOR STARTING",
+   "photoCount": null,
+   "file": "3afb4ab8-3730-454c-abff-9a6da2e96ccc.webp",
+   "w": 33,
+   "h": 345,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::20d1d249-1bb0-4598-ba2f-d44de9bfc2b2",
+   "name": "PSD A LOVNG TIME AGO IN A",
+   "photoCount": null,
+   "file": "20d1d249-1bb0-4598-ba2f-d44de9bfc2b2.webp",
+   "w": 33,
+   "h": 454,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c81e57fc-9e67-4c9c-a07c-702ba079747f",
+   "name": "PSD layer",
+   "photoCount": null,
+   "file": "c81e57fc-9e67-4c9c-a07c-702ba079747f.webp",
+   "w": 351,
+   "h": 341,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::887c4564-38f5-4e9c-a232-1c48c8c559da",
+   "name": "PSD text",
+   "photoCount": null,
+   "file": "887c4564-38f5-4e9c-a232-1c48c8c559da.webp",
+   "w": 480,
+   "h": 182,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d5cab68f-edfd-4904-b266-4f774a5e4a43",
+   "name": "PSD New JOURNEY TOGETHER",
+   "photoCount": null,
+   "file": "d5cab68f-edfd-4904-b266-4f774a5e4a43.webp",
+   "w": 480,
+   "h": 118,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::789661c5-bba3-4797-830d-b8ca0111f810",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up t",
+   "photoCount": null,
+   "file": "789661c5-bba3-4797-830d-b8ca0111f810.webp",
+   "w": 480,
+   "h": 343,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::89a07fb4-f0b3-4c06-ad95-a98d57ab01dd",
+   "name": "PSD You re always the first and the last thing on this heart of mi",
+   "photoCount": null,
+   "file": "89a07fb4-f0b3-4c06-ad95-a98d57ab01dd.webp",
+   "w": 480,
+   "h": 41,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3d224985-5cef-4850-bd91-7feb1fe574cb",
+   "name": "PSD In The Mood For Love",
+   "photoCount": null,
+   "file": "3d224985-5cef-4850-bd91-7feb1fe574cb.webp",
+   "w": 329,
+   "h": 1198,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::22360fc6-bc4c-44e9-9f34-e90bcfac8c34",
+   "name": "PSD -the wedding photobook",
+   "photoCount": null,
+   "file": "22360fc6-bc4c-44e9-9f34-e90bcfac8c34.webp",
+   "w": 305,
+   "h": 117,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::67721d69-88a3-4750-b171-7a6b6b812bd5",
+   "name": "PSD About the",
+   "photoCount": null,
+   "file": "67721d69-88a3-4750-b171-7a6b6b812bd5.webp",
+   "w": 480,
+   "h": 207,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8a06fa5b-f7ac-4305-92ac-f5c5315044c7",
+   "name": "PSD photography",
+   "photoCount": null,
+   "file": "8a06fa5b-f7ac-4305-92ac-f5c5315044c7.webp",
+   "w": 480,
+   "h": 41,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e3b6ff99-56cb-4f99-b640-a1277feb81ca",
+   "name": "PSD .True love is rare and it s the only thing that gives life rea",
+   "photoCount": null,
+   "file": "e3b6ff99-56cb-4f99-b640-a1277feb81ca.webp",
+   "w": 480,
+   "h": 92,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::52c864db-ed86-4da0-a635-5986ad4cc2ef",
+   "name": "PSD Early flowers",
+   "photoCount": null,
+   "file": "52c864db-ed86-4da0-a635-5986ad4cc2ef.webp",
+   "w": 350,
+   "h": 148,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::87d1617e-a23d-4e83-8bb1-48f5b472e03f",
+   "name": "PSD happiness of those who love beauty",
+   "photoCount": null,
+   "file": "87d1617e-a23d-4e83-8bb1-48f5b472e03f.webp",
+   "w": 440,
+   "h": 14,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::74071f40-170b-4c72-8bf4-aab84a8cbe4d",
+   "name": "PSD Jacob Photography",
+   "photoCount": null,
+   "file": "74071f40-170b-4c72-8bf4-aab84a8cbe4d.webp",
+   "w": 226,
+   "h": 13,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d9dd6bbb-21bf-4e66-be2c-caaf8d1b4557",
+   "name": "PSD thanh huy",
+   "photoCount": null,
+   "file": "d9dd6bbb-21bf-4e66-be2c-caaf8d1b4557.webp",
+   "w": 135,
+   "h": 13,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2c8dd1ad-4002-420d-bd69-45494ec6d833",
+   "name": "PSD produced by",
+   "photoCount": null,
+   "file": "2c8dd1ad-4002-420d-bd69-45494ec6d833.webp",
+   "w": 135,
+   "h": 32,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8273bc4b-b373-48f7-a8e9-560b88b95a83",
+   "name": "PSD the wedding photobook",
+   "photoCount": null,
+   "file": "8273bc4b-b373-48f7-a8e9-560b88b95a83.webp",
+   "w": 231,
+   "h": 34,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::76c75fdb-58e2-487f-9caa-05bd574eb145",
+   "name": "PSD of youth",
+   "photoCount": null,
+   "file": "76c75fdb-58e2-487f-9caa-05bd574eb145.webp",
+   "w": 480,
+   "h": 66,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4a525597-ae66-4713-93c8-5c6cc5d3f5b1",
+   "name": "PSD a dream",
+   "photoCount": null,
+   "file": "4a525597-ae66-4713-93c8-5c6cc5d3f5b1.webp",
+   "w": 229,
+   "h": 34,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::06c54a56-57c8-4dcf-b2b9-369ec71a9247",
+   "name": "9a",
+   "photoCount": null,
+   "file": "06c54a56-57c8-4dcf-b2b9-369ec71a9247.webp",
+   "w": 480,
+   "h": 260,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::feb5a41e-7055-4fd9-ab3e-b335f87faae9",
+   "name": "PSD In your smile I see something more beautiful than the stars.",
+   "photoCount": null,
+   "file": "feb5a41e-7055-4fd9-ab3e-b335f87faae9.webp",
+   "w": 37,
+   "h": 1512,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::04f1af3e-a9e6-4457-874e-e660ba7ae774",
+   "name": "PSD wedding",
+   "photoCount": null,
+   "file": "04f1af3e-a9e6-4457-874e-e660ba7ae774.webp",
+   "w": 480,
+   "h": 78,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5fca57bb-08df-4daf-acc3-107c03bcdc8b",
+   "name": "1a",
+   "photoCount": null,
+   "file": "5fca57bb-08df-4daf-acc3-107c03bcdc8b.webp",
+   "w": 480,
+   "h": 141,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0bd5a5cd-e639-4fcc-9eb3-67e7254d02d9",
+   "name": "PSD Dreamed",
+   "photoCount": null,
+   "file": "0bd5a5cd-e639-4fcc-9eb3-67e7254d02d9.webp",
+   "w": 480,
+   "h": 236,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::derived_71ff693d-c780-4430-91a8-87471bb79110",
+   "name": "Lucky – vùng 1",
+   "photoCount": null,
+   "file": "derived_71ff693d-c780-4430-91a8-87471bb79110.webp",
+   "w": 480,
+   "h": 97,
+   "kind": "element"
+  },
+  {
+   "templateId": "thietketrangdoiv3::94187f74-af16-401c-b448-6b3f813cd5df",
+   "name": "PSD saintliness",
+   "photoCount": null,
+   "file": "94187f74-af16-401c-b448-6b3f813cd5df.webp",
+   "w": 480,
+   "h": 70,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a4a5e43e-23ad-4def-a940-e8bf8e2dce78",
+   "name": "PSD 09",
+   "photoCount": null,
+   "file": "a4a5e43e-23ad-4def-a940-e8bf8e2dce78.webp",
+   "w": 227,
+   "h": 180,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6d79e329-ae01-41f1-9d8e-2433a2a74d19",
+   "name": "PSD her selfless behavior borders on saintliness",
+   "photoCount": null,
+   "file": "6d79e329-ae01-41f1-9d8e-2433a2a74d19.webp",
+   "w": 480,
+   "h": 14,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b3462a77-1305-49fd-b0f6-84a54293950a",
+   "name": "PSD the wedding photobook",
+   "photoCount": null,
+   "file": "b3462a77-1305-49fd-b0f6-84a54293950a.webp",
+   "w": 480,
+   "h": 23,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9b8c37df-76f9-4989-b57e-d8e36a4a9668",
+   "name": "PSD It was love at first sight at last sight at ever and ever sig",
+   "photoCount": null,
+   "file": "9b8c37df-76f9-4989-b57e-d8e36a4a9668.webp",
+   "w": 480,
+   "h": 12,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ca7007fe-9991-466d-a857-4229fe2505be",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "ca7007fe-9991-466d-a857-4229fe2505be.webp",
+   "w": 419,
+   "h": 122,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::10463e46-7123-4d27-9ef4-93dd6d97bfc5",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up t",
+   "photoCount": null,
+   "file": "10463e46-7123-4d27-9ef4-93dd6d97bfc5.webp",
+   "w": 472,
+   "h": 801,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::bda74790-8917-4eed-8643-32c223dfddfb",
+   "name": "PSD lover",
+   "photoCount": null,
+   "file": "bda74790-8917-4eed-8643-32c223dfddfb.webp",
+   "w": 50,
+   "h": 160,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6a6796c5-0a3d-48fa-906c-62beaa2e359d",
+   "name": "PSD in the same direction.",
+   "photoCount": null,
+   "file": "6a6796c5-0a3d-48fa-906c-62beaa2e359d.webp",
+   "w": 480,
+   "h": 238,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2f0c2f70-6c62-4726-8f0d-30b4860f10ee",
+   "name": "PSD days we fell",
+   "photoCount": null,
+   "file": "2f0c2f70-6c62-4726-8f0d-30b4860f10ee.webp",
+   "w": 419,
+   "h": 46,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a361a51d-c87c-49b3-9219-dfaf4b4f948c",
+   "name": "PSD passion",
+   "photoCount": null,
+   "file": "a361a51d-c87c-49b3-9219-dfaf4b4f948c.webp",
+   "w": 480,
+   "h": 187,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7187f470-c5b4-4762-b848-59a98e0e3030",
+   "name": "PSD la",
+   "photoCount": null,
+   "file": "7187f470-c5b4-4762-b848-59a98e0e3030.webp",
+   "w": 480,
+   "h": 574,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e2d91a36-3459-4c64-8bb8-229f9371cbc5",
+   "name": "PSD le rythme du coeur les yeux d un amant",
+   "photoCount": null,
+   "file": "e2d91a36-3459-4c64-8bb8-229f9371cbc5.webp",
+   "w": 480,
+   "h": 22,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8e461f91-b8ca-481e-af30-316b1107eec4",
+   "name": "PSD q Q",
+   "photoCount": null,
+   "file": "8e461f91-b8ca-481e-af30-316b1107eec4.webp",
+   "w": 408,
+   "h": 147,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5f4198f9-af60-4b78-8e64-51e9e9c21f15",
+   "name": "PSD étreinte",
+   "photoCount": null,
+   "file": "5f4198f9-af60-4b78-8e64-51e9e9c21f15.webp",
+   "w": 137,
+   "h": 790,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c0d4bf05-f899-40cc-ac20-d0e892ccc731",
+   "name": "PSD profitez copy",
+   "photoCount": null,
+   "file": "c0d4bf05-f899-40cc-ac20-d0e892ccc731.webp",
+   "w": 112,
+   "h": 786,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7e057d49-6550-4e71-9fb3-18175f1742c6",
+   "name": "PSD mariage",
+   "photoCount": null,
+   "file": "7e057d49-6550-4e71-9fb3-18175f1742c6.webp",
+   "w": 66,
+   "h": 437,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::926a5998-0026-4c13-8eb0-b0911f76e5b0",
+   "name": "10a",
+   "photoCount": null,
+   "file": "926a5998-0026-4c13-8eb0-b0911f76e5b0.webp",
+   "w": 480,
+   "h": 260,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e6976e7f-58ff-45af-bbf8-61515722b0c5",
+   "name": "PSD Our love is like the wind. I can t see it but I can feel it.",
+   "photoCount": null,
+   "file": "e6976e7f-58ff-45af-bbf8-61515722b0c5.webp",
+   "w": 480,
+   "h": 13,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::derived_0ca81c3d-ecb6-45d6-9a88-3f4b37d9cd31",
+   "name": "t1 – vùng 2",
+   "photoCount": null,
+   "file": "derived_0ca81c3d-ecb6-45d6-9a88-3f4b37d9cd31.webp",
+   "w": 480,
+   "h": 147,
+   "kind": "element"
+  },
+  {
+   "templateId": "thietketrangdoiv3::derived_3d4dfab9-5f66-49cd-a10a-61a65ffaad22",
+   "name": "t1 – vùng 1",
+   "photoCount": null,
+   "file": "derived_3d4dfab9-5f66-49cd-a10a-61a65ffaad22.webp",
+   "w": 480,
+   "h": 120,
+   "kind": "element"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ada6396c-5e3c-44f3-a4e7-cf04e611a428",
+   "name": "PSD Cent chemins sont tous vers toi",
+   "photoCount": null,
+   "file": "ada6396c-5e3c-44f3-a4e7-cf04e611a428.webp",
+   "w": 480,
+   "h": 355,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ce1b23f5-9f0a-455d-8ce8-19892e415126",
+   "name": "PSD A N E W H O P E",
+   "photoCount": null,
+   "file": "ce1b23f5-9f0a-455d-8ce8-19892e415126.webp",
+   "w": 480,
+   "h": 46,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4ab3f3cb-696e-488e-a313-6bbbf9ed26af",
+   "name": "PSD layer",
+   "photoCount": null,
+   "file": "4ab3f3cb-696e-488e-a313-6bbbf9ed26af.webp",
+   "w": 58,
+   "h": 65,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::44140087-1dca-4dac-bcad-b4b5cd3c02d8",
+   "name": "PSD the storie",
+   "photoCount": null,
+   "file": "44140087-1dca-4dac-bcad-b4b5cd3c02d8.webp",
+   "w": 289,
+   "h": 113,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::699c53f2-efd4-48d4-aca1-87afb26ba82a",
+   "name": "PSD muse",
+   "photoCount": null,
+   "file": "699c53f2-efd4-48d4-aca1-87afb26ba82a.webp",
+   "w": 286,
+   "h": 66,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::543f134f-ca7f-420a-8f59-5e1136bcd37c",
+   "name": "PSD .wedding book",
+   "photoCount": null,
+   "file": "543f134f-ca7f-420a-8f59-5e1136bcd37c.webp",
+   "w": 480,
+   "h": 42,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a2f45bd4-0ab8-438f-935f-66f73e49f8f7",
+   "name": "PSD 22. da nang the story",
+   "photoCount": null,
+   "file": "a2f45bd4-0ab8-438f-935f-66f73e49f8f7.webp",
+   "w": 257,
+   "h": 81,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9c818181-5029-4c25-be01-dd74ec7d356a",
+   "name": "PSD muse",
+   "photoCount": null,
+   "file": "9c818181-5029-4c25-be01-dd74ec7d356a.webp",
+   "w": 480,
+   "h": 131,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::92751d61-b43b-4094-b449-b456c23d07a6",
+   "name": "PSD the love",
+   "photoCount": null,
+   "file": "92751d61-b43b-4094-b449-b456c23d07a6.webp",
+   "w": 480,
+   "h": 71,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b05d92bc-8c8c-4e07-ab58-03e013463fc9",
+   "name": "PSD Take my hand take my whole life too. For I can t help falling",
+   "photoCount": null,
+   "file": "b05d92bc-8c8c-4e07-ab58-03e013463fc9.webp",
+   "w": 480,
+   "h": 11,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::005804f8-6920-424b-b508-68d0ce6ccf9f",
+   "name": "PSD falling",
+   "photoCount": null,
+   "file": "005804f8-6920-424b-b508-68d0ce6ccf9f.webp",
+   "w": 145,
+   "h": 481,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7dee67d0-9eb6-432e-9c44-4589ebc2781a",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "7dee67d0-9eb6-432e-9c44-4589ebc2781a.webp",
+   "w": 308,
+   "h": 88,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::039ed4ee-9251-41e7-8ffa-77b8f3961d12",
+   "name": "PSD forever",
+   "photoCount": null,
+   "file": "039ed4ee-9251-41e7-8ffa-77b8f3961d12.webp",
+   "w": 480,
+   "h": 88,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::826f2002-b46f-44ae-b05b-48706ce146ef",
+   "name": "PSD one",
+   "photoCount": null,
+   "file": "826f2002-b46f-44ae-b05b-48706ce146ef.webp",
+   "w": 269,
+   "h": 88,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d268d9b3-d113-45a7-88da-f70b0f584c2a",
+   "name": "PSD LOVE",
+   "photoCount": null,
+   "file": "d268d9b3-d113-45a7-88da-f70b0f584c2a.webp",
+   "w": 120,
+   "h": 38,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4dbe697a-e104-4ab7-86cb-a77ffb959c07",
+   "name": "PSD GREAT",
+   "photoCount": null,
+   "file": "4dbe697a-e104-4ab7-86cb-a77ffb959c07.webp",
+   "w": 480,
+   "h": 110,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6e21c9bb-58a8-4059-a2f2-6a8db10f4aa0",
+   "name": "PSD STORIES",
+   "photoCount": null,
+   "file": "6e21c9bb-58a8-4059-a2f2-6a8db10f4aa0.webp",
+   "w": 194,
+   "h": 38,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::804ac09f-ebdd-47a6-be1c-a331564afce0",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "804ac09f-ebdd-47a6-be1c-a331564afce0.webp",
+   "w": 41,
+   "h": 123,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::13c1c307-be7f-4241-8764-a414fdc86bb7",
+   "name": "PSD kiss",
+   "photoCount": null,
+   "file": "13c1c307-be7f-4241-8764-a414fdc86bb7.webp",
+   "w": 41,
+   "h": 118,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6f7a40b2-2b89-401c-a175-3930ef12253f",
+   "name": "PSD mood",
+   "photoCount": null,
+   "file": "6f7a40b2-2b89-401c-a175-3930ef12253f.webp",
+   "w": 41,
+   "h": 155,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::809071ac-c614-4c7d-a87e-ccd388270534",
+   "name": "PSD cinematic",
+   "photoCount": null,
+   "file": "809071ac-c614-4c7d-a87e-ccd388270534.webp",
+   "w": 41,
+   "h": 268,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0f243139-6f24-4669-8215-827c394f0a01",
+   "name": "PSD Together",
+   "photoCount": null,
+   "file": "0f243139-6f24-4669-8215-827c394f0a01.webp",
+   "w": 480,
+   "h": 170,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ccf0b112-8a5e-4a0b-bcf5-5e9d710eb3ae",
+   "name": "PSD Lovers in Paris",
+   "photoCount": null,
+   "file": "ccf0b112-8a5e-4a0b-bcf5-5e9d710eb3ae.webp",
+   "w": 480,
+   "h": 205,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2836c9a3-bc84-4bf6-8547-bb807ca2b149",
+   "name": "PSD produced by",
+   "photoCount": null,
+   "file": "2836c9a3-bc84-4bf6-8547-bb807ca2b149.webp",
+   "w": 135,
+   "h": 32,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d24a8675-7d68-4f0b-9720-d5e7138e7372",
+   "name": "PSD the wedding photobook",
+   "photoCount": null,
+   "file": "d24a8675-7d68-4f0b-9720-d5e7138e7372.webp",
+   "w": 231,
+   "h": 34,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9c06636a-f0a1-41e8-9da3-eb61fda130ae",
+   "name": "PSD of youth",
+   "photoCount": null,
+   "file": "9c06636a-f0a1-41e8-9da3-eb61fda130ae.webp",
+   "w": 480,
+   "h": 66,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c4c739dd-c72c-4e53-8048-98f10db5ad38",
+   "name": "PSD a dream",
+   "photoCount": null,
+   "file": "c4c739dd-c72c-4e53-8048-98f10db5ad38.webp",
+   "w": 229,
+   "h": 34,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::452715c9-b869-499c-b7df-7370725d94fa",
+   "name": "PSD tenir les mains",
+   "photoCount": null,
+   "file": "452715c9-b869-499c-b7df-7370725d94fa.webp",
+   "w": 140,
+   "h": 1323,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::05f9a08a-ddc3-4621-becb-8174d1653c96",
+   "name": "PSD Cualquier cosa que me recuerde trato de conservarla porque v",
+   "photoCount": null,
+   "file": "05f9a08a-ddc3-4621-becb-8174d1653c96.webp",
+   "w": 391,
+   "h": 296,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::225c3f8e-2dea-4cf3-ba03-9e293d8a3021",
+   "name": "PSD le rythme du coeur les yeux d un amant",
+   "photoCount": null,
+   "file": "225c3f8e-2dea-4cf3-ba03-9e293d8a3021.webp",
+   "w": 480,
+   "h": 23,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4ee8cc9c-a2ab-44e1-bff2-48496035eadf",
+   "name": "PSD hand in hand",
+   "photoCount": null,
+   "file": "4ee8cc9c-a2ab-44e1-bff2-48496035eadf.webp",
+   "w": 480,
+   "h": 124,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::22a5c875-669a-42c9-911c-2d19468dc9d0",
+   "name": "PSD THE WEDDING PHOTOBOOK by Peace House Studio",
+   "photoCount": null,
+   "file": "22a5c875-669a-42c9-911c-2d19468dc9d0.webp",
+   "w": 28,
+   "h": 684,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::771945e1-c8b9-4e39-8502-16d331c9f57a",
+   "name": "PSD Lovers In Paris",
+   "photoCount": null,
+   "file": "771945e1-c8b9-4e39-8502-16d331c9f57a.webp",
+   "w": 480,
+   "h": 40,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::1a81bcf2-d985-4c81-a42c-c6d8bbfe2785",
+   "name": "PSD layer",
+   "photoCount": null,
+   "file": "1a81bcf2-d985-4c81-a42c-c6d8bbfe2785.webp",
+   "w": 58,
+   "h": 65,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b7bdbf02-9a45-45fd-a638-7a941d6f26e4",
+   "name": "PSD self love will save you soul",
+   "photoCount": null,
+   "file": "b7bdbf02-9a45-45fd-a638-7a941d6f26e4.webp",
+   "w": 141,
+   "h": 675,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::eab40d9e-02b8-4de7-8336-36bebd73dcc8",
+   "name": "PSD In The Mood For Love",
+   "photoCount": null,
+   "file": "eab40d9e-02b8-4de7-8336-36bebd73dcc8.webp",
+   "w": 279,
+   "h": 1014,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::795dc838-b276-4d07-8093-98276d6e4328",
+   "name": "PSD Quiet letters",
+   "photoCount": null,
+   "file": "795dc838-b276-4d07-8093-98276d6e4328.webp",
+   "w": 480,
+   "h": 119,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6ff12d0a-755d-42f7-88e5-f3360a6ad146",
+   "name": "PSD . Love is when you sit beside someone doing nothing yet you f",
+   "photoCount": null,
+   "file": "6ff12d0a-755d-42f7-88e5-f3360a6ad146.webp",
+   "w": 480,
+   "h": 168,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::04204438-bfdc-4a2f-99db-6c6daea564ed",
+   "name": "PSD THE",
+   "photoCount": null,
+   "file": "04204438-bfdc-4a2f-99db-6c6daea564ed.webp",
+   "w": 211,
+   "h": 70,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4938a84b-2ec5-44c4-9e70-c4a722545427",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "4938a84b-2ec5-44c4-9e70-c4a722545427.webp",
+   "w": 444,
+   "h": 432,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2a9f450a-4799-412f-b62d-e21bd96071e6",
+   "name": "PSD in the same direction.",
+   "photoCount": null,
+   "file": "2a9f450a-4799-412f-b62d-e21bd96071e6.webp",
+   "w": 480,
+   "h": 238,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c3cbd79a-e5a5-4c34-9915-af05a5f55596",
+   "name": "PSD I saw that you were perfect and so I loved you. Then I saw t",
+   "photoCount": null,
+   "file": "c3cbd79a-e5a5-4c34-9915-af05a5f55596.webp",
+   "w": 480,
+   "h": 90,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3dae0d95-5d36-48f0-8eea-0d05b42a4f15",
+   "name": "PSD Love whispers",
+   "photoCount": null,
+   "file": "3dae0d95-5d36-48f0-8eea-0d05b42a4f15.webp",
+   "w": 480,
+   "h": 201,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a8094ec1-712e-42de-b85e-219d4963b1bc",
+   "name": "PSD Autumn collection embracing love s warmth and romance igniti",
+   "photoCount": null,
+   "file": "a8094ec1-712e-42de-b85e-219d4963b1bc.webp",
+   "w": 480,
+   "h": 15,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::1a31f1ec-9351-4a3c-8c6a-e02b7b532370",
+   "name": "PSD I love you more than I have ever found a way to say to you",
+   "photoCount": null,
+   "file": "1a31f1ec-9351-4a3c-8c6a-e02b7b532370.webp",
+   "w": 43,
+   "h": 1840,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c8fbf904-c35d-488f-9878-a161c8c277cb",
+   "name": "PSD Two are better than one",
+   "photoCount": null,
+   "file": "c8fbf904-c35d-488f-9878-a161c8c277cb.webp",
+   "w": 43,
+   "h": 778,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f8991ba6-9229-4c64-891c-d34a1412219e",
+   "name": "PSD Cent chemins sont tous vers toi",
+   "photoCount": null,
+   "file": "f8991ba6-9229-4c64-891c-d34a1412219e.webp",
+   "w": 480,
+   "h": 355,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9b1b3a50-a0d7-4291-aa3a-45ff3bbaa750",
+   "name": "PSD amour",
+   "photoCount": null,
+   "file": "9b1b3a50-a0d7-4291-aa3a-45ff3bbaa750.webp",
+   "w": 68,
+   "h": 380,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::80727d47-5689-4e63-893b-e92489bc5635",
+   "name": "PSD You were turning round to see who was behind you And I took y",
+   "photoCount": null,
+   "file": "80727d47-5689-4e63-893b-e92489bc5635.webp",
+   "w": 480,
+   "h": 75,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4e90e21e-a517-4704-b54c-9c80ddc3f00d",
+   "name": "PSD the photobook",
+   "photoCount": null,
+   "file": "4e90e21e-a517-4704-b54c-9c80ddc3f00d.webp",
+   "w": 480,
+   "h": 39,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::97ab268a-f810-4947-b31e-fa5463182369",
+   "name": "PSD layer",
+   "photoCount": null,
+   "file": "97ab268a-f810-4947-b31e-fa5463182369.webp",
+   "w": 40,
+   "h": 39,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b4762739-74b2-4118-a98c-3e3a686fe6f9",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "b4762739-74b2-4118-a98c-3e3a686fe6f9.webp",
+   "w": 444,
+   "h": 432,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7414aede-326b-41ab-9246-e9039cc4e8d1",
+   "name": "PSD In all the world there is no heart for me like yours. In al",
+   "photoCount": null,
+   "file": "7414aede-326b-41ab-9246-e9039cc4e8d1.webp",
+   "w": 363,
+   "h": 204,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6d85cddb-5b50-475d-b5d6-4d786c812af4",
+   "name": "PSD for.me",
+   "photoCount": null,
+   "file": "6d85cddb-5b50-475d-b5d6-4d786c812af4.webp",
+   "w": 480,
+   "h": 342,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6c3b0fbc-929a-4d86-815d-9fdc4615d18e",
+   "name": "PSD It was love at first sight at last sight at ever and ever sig",
+   "photoCount": null,
+   "file": "6c3b0fbc-929a-4d86-815d-9fdc4615d18e.webp",
+   "w": 480,
+   "h": 173,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7c75f8c3-ccc5-4e5e-90fd-e52994ca1d36",
+   "name": "PSD in love copy",
+   "photoCount": null,
+   "file": "7c75f8c3-ccc5-4e5e-90fd-e52994ca1d36.webp",
+   "w": 276,
+   "h": 64,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a5694400-7e6e-46ee-88c1-efaa725990b0",
+   "name": "PSD everyone becomes a poet",
+   "photoCount": null,
+   "file": "a5694400-7e6e-46ee-88c1-efaa725990b0.webp",
+   "w": 480,
+   "h": 20,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::0cdd57df-3dd1-4607-83dc-a5dd8432eed7",
+   "name": "PSD the wedding book",
+   "photoCount": null,
+   "file": "0cdd57df-3dd1-4607-83dc-a5dd8432eed7.webp",
+   "w": 46,
+   "h": 593,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::33ac848e-34dc-4b5f-8181-551bc37bb391",
+   "name": "PSD hanoi",
+   "photoCount": null,
+   "file": "33ac848e-34dc-4b5f-8181-551bc37bb391.webp",
+   "w": 144,
+   "h": 43,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a3dcbea4-38cd-4c26-985c-220242f8fe0a",
+   "name": "PSD In your smile I see something more beautiful than the stars.",
+   "photoCount": null,
+   "file": "a3dcbea4-38cd-4c26-985c-220242f8fe0a.webp",
+   "w": 37,
+   "h": 1512,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d7d653d5-3587-4433-b11a-24b416e216bd",
+   "name": "PSD wedding",
+   "photoCount": null,
+   "file": "d7d653d5-3587-4433-b11a-24b416e216bd.webp",
+   "w": 480,
+   "h": 78,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d3d2810c-0adc-4f89-9e62-b8d95ccc77d2",
+   "name": "PSD .the look",
+   "photoCount": null,
+   "file": "d3d2810c-0adc-4f89-9e62-b8d95ccc77d2.webp",
+   "w": 480,
+   "h": 62,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e2b009a6-0dbd-432d-bbdb-47f5d915a24d",
+   "name": "PSD Our love is like the wind. I can t see it but I can feel it.",
+   "photoCount": null,
+   "file": "e2b009a6-0dbd-432d-bbdb-47f5d915a24d.webp",
+   "w": 480,
+   "h": 14,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c871b3bf-bb32-4a3f-bab0-4b5f2c51ff48",
+   "name": "PSD Our love is like the wind. I can t see it but I can feel it. cop",
+   "photoCount": null,
+   "file": "c871b3bf-bb32-4a3f-bab0-4b5f2c51ff48.webp",
+   "w": 480,
+   "h": 14,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7f60cafe-ad3d-47df-b99a-1516342a98ed",
+   "name": "PSD A LOVNG TIME AGO IN A",
+   "photoCount": null,
+   "file": "7f60cafe-ad3d-47df-b99a-1516342a98ed.webp",
+   "w": 55,
+   "h": 766,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::71135074-07e3-46b3-8ad4-d6b04026c726",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up to",
+   "photoCount": null,
+   "file": "71135074-07e3-46b3-8ad4-d6b04026c726.webp",
+   "w": 480,
+   "h": 109,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::714c0e14-8006-40fb-807b-9a186a9406fc",
+   "name": "PSD d amour",
+   "photoCount": null,
+   "file": "714c0e14-8006-40fb-807b-9a186a9406fc.webp",
+   "w": 148,
+   "h": 944,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3ef97103-6508-4042-92e8-560026fd086a",
+   "name": "PSD tenir les mains",
+   "photoCount": null,
+   "file": "3ef97103-6508-4042-92e8-560026fd086a.webp",
+   "w": 140,
+   "h": 1323,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::abb19f0b-ef53-4d7c-9622-5cd361477abb",
+   "name": "PSD échapper",
+   "photoCount": null,
+   "file": "abb19f0b-ef53-4d7c-9622-5cd361477abb.webp",
+   "w": 167,
+   "h": 834,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d55811c1-d929-4318-872f-2a8627221f17",
+   "name": "PSD Cualquier cosa que me recuerde trato de conservarla porque v",
+   "photoCount": null,
+   "file": "d55811c1-d929-4318-872f-2a8627221f17.webp",
+   "w": 391,
+   "h": 296,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e9f4aad6-31a6-471c-819a-99868289a0bb",
+   "name": "PSD this love",
+   "photoCount": null,
+   "file": "e9f4aad6-31a6-471c-819a-99868289a0bb.webp",
+   "w": 306,
+   "h": 57,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::88b64db3-1a0d-41e2-b4fb-ea0dd03ad84f",
+   "name": "PSD with all your time mind and heart. I will make you under",
+   "photoCount": null,
+   "file": "88b64db3-1a0d-41e2-b4fb-ea0dd03ad84f.webp",
+   "w": 480,
+   "h": 137,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::01065e7c-57c5-4be1-9ae3-81204ed1f0f3",
+   "name": "PSD In The Mood For Love",
+   "photoCount": null,
+   "file": "01065e7c-57c5-4be1-9ae3-81204ed1f0f3.webp",
+   "w": 279,
+   "h": 1014,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::9cc4ffc6-28f5-4d84-bff0-bbe19199f6f0",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up t",
+   "photoCount": null,
+   "file": "9cc4ffc6-28f5-4d84-bff0-bbe19199f6f0.webp",
+   "w": 480,
+   "h": 281,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ae016178-2642-4b55-b0a3-bbce8f52d03a",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up t",
+   "photoCount": null,
+   "file": "ae016178-2642-4b55-b0a3-bbce8f52d03a.webp",
+   "w": 480,
+   "h": 278,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::8742e24a-bc72-491d-8500-56389b0dd82e",
+   "name": "PSD I wasn t expecting you. I didn t think that we would end up to",
+   "photoCount": null,
+   "file": "8742e24a-bc72-491d-8500-56389b0dd82e.webp",
+   "w": 480,
+   "h": 111,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::fa525a8f-9078-4cc9-95de-db038c882b2b",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "fa525a8f-9078-4cc9-95de-db038c882b2b.webp",
+   "w": 41,
+   "h": 123,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::06e4c8c4-01a8-4e4c-8d08-d2110c432f28",
+   "name": "PSD kiss",
+   "photoCount": null,
+   "file": "06e4c8c4-01a8-4e4c-8d08-d2110c432f28.webp",
+   "w": 41,
+   "h": 118,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e52c674d-96a3-4f78-b2d0-fe4c48944f07",
+   "name": "PSD mood",
+   "photoCount": null,
+   "file": "e52c674d-96a3-4f78-b2d0-fe4c48944f07.webp",
+   "w": 41,
+   "h": 155,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a137cc90-16f2-4370-ad54-509f723186cc",
+   "name": "PSD cinematic",
+   "photoCount": null,
+   "file": "a137cc90-16f2-4370-ad54-509f723186cc.webp",
+   "w": 41,
+   "h": 268,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::46705811-cd29-414c-8710-6618c2d44c95",
+   "name": "PSD Take my hand take my whole life too. For I can t help fallin",
+   "photoCount": null,
+   "file": "46705811-cd29-414c-8710-6618c2d44c95.webp",
+   "w": 480,
+   "h": 287,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::27a86891-06c8-4f41-9545-904883285234",
+   "name": "PSD layer",
+   "photoCount": null,
+   "file": "27a86891-06c8-4f41-9545-904883285234.webp",
+   "w": 153,
+   "h": 115,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::53feb8a9-babb-469c-89fb-ab90d282dcab",
+   "name": "PSD layer",
+   "photoCount": null,
+   "file": "53feb8a9-babb-469c-89fb-ab90d282dcab.webp",
+   "w": 126,
+   "h": 94,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::bd03e2f6-5753-47fc-8b20-eac72a4f1415",
+   "name": "PSD with all your time mind and heart. I will make you underst",
+   "photoCount": null,
+   "file": "bd03e2f6-5753-47fc-8b20-eac72a4f1415.webp",
+   "w": 480,
+   "h": 25,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c809987f-331f-47f1-9e2b-733d46b321ee",
+   "name": "PSD THE",
+   "photoCount": null,
+   "file": "c809987f-331f-47f1-9e2b-733d46b321ee.webp",
+   "w": 211,
+   "h": 70,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7331dc2c-2232-4096-b1b1-c7262df96e92",
+   "name": "PSD in love",
+   "photoCount": null,
+   "file": "7331dc2c-2232-4096-b1b1-c7262df96e92.webp",
+   "w": 218,
+   "h": 75,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::3f61572c-a876-4395-9695-a534693050bc",
+   "name": "PSD THE WEDDING PHOTOBOOK by Peace House Studio",
+   "photoCount": null,
+   "file": "3f61572c-a876-4395-9695-a534693050bc.webp",
+   "w": 48,
+   "h": 1204,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ab6b86af-9a03-4ddd-84f2-0a8e6e047005",
+   "name": "PSD by tkd. Photography trang.minh wedding photobook danang 2022",
+   "photoCount": null,
+   "file": "ab6b86af-9a03-4ddd-84f2-0a8e6e047005.webp",
+   "w": 108,
+   "h": 278,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::77e472c6-1f54-4c9b-9a15-39cca717f9d1",
+   "name": "PSD layer",
+   "photoCount": null,
+   "file": "77e472c6-1f54-4c9b-9a15-39cca717f9d1.webp",
+   "w": 75,
+   "h": 66,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4ffdfe0a-dceb-4e20-a3a6-396dd392defd",
+   "name": "PSD a photobook by Dinhthai Photography",
+   "photoCount": null,
+   "file": "4ffdfe0a-dceb-4e20-a3a6-396dd392defd.webp",
+   "w": 480,
+   "h": 23,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4edea07a-f6cb-42f5-a8ae-883d8f8d21da",
+   "name": "PSD Groom",
+   "photoCount": null,
+   "file": "4edea07a-f6cb-42f5-a8ae-883d8f8d21da.webp",
+   "w": 160,
+   "h": 36,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4ea7a02f-ea6b-4417-b8cf-7b14d1fc9288",
+   "name": "PSD after her",
+   "photoCount": null,
+   "file": "4ea7a02f-ea6b-4417-b8cf-7b14d1fc9288.webp",
+   "w": 480,
+   "h": 160,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a1d1029f-28f8-46bd-952d-ce11f533c7a0",
+   "name": "PSD a secret he keeps",
+   "photoCount": null,
+   "file": "a1d1029f-28f8-46bd-952d-ce11f533c7a0.webp",
+   "w": 479,
+   "h": 58,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::5d521005-2cb8-4d36-8009-959b0951c21a",
+   "name": "PSD I saw that you were perfect and so I loved you. Then I saw th",
+   "photoCount": null,
+   "file": "5d521005-2cb8-4d36-8009-959b0951c21a.webp",
+   "w": 79,
+   "h": 1379,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ac9d3563-a17c-4481-b5aa-9c87a177e757",
+   "name": "PSD Two are better than one.",
+   "photoCount": null,
+   "file": "ac9d3563-a17c-4481-b5aa-9c87a177e757.webp",
+   "w": 42,
+   "h": 729,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a3c305db-9500-4bad-b98d-932b04d17200",
+   "name": "PSD l.o.v.e.r",
+   "photoCount": null,
+   "file": "a3c305db-9500-4bad-b98d-932b04d17200.webp",
+   "w": 42,
+   "h": 211,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6de79fa7-53ad-4b55-9840-b76f32c42caf",
+   "name": "PSD WEDDING DAY LOVE STORY all is for tomorrow VIET NAM",
+   "photoCount": null,
+   "file": "6de79fa7-53ad-4b55-9840-b76f32c42caf.webp",
+   "w": 367,
+   "h": 128,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::f5b2a081-0b29-4c3f-8122-0f2eb7f28a40",
+   "name": "PSD éternel",
+   "photoCount": null,
+   "file": "f5b2a081-0b29-4c3f-8122-0f2eb7f28a40.webp",
+   "w": 368,
+   "h": 1452,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4a681750-2061-49d8-ae30-e744c8bcf663",
+   "name": "PSD muse",
+   "photoCount": null,
+   "file": "4a681750-2061-49d8-ae30-e744c8bcf663.webp",
+   "w": 480,
+   "h": 131,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6d2eac96-22f3-4cab-bf37-dc8a3eac4e50",
+   "name": "PSD the love",
+   "photoCount": null,
+   "file": "6d2eac96-22f3-4cab-bf37-dc8a3eac4e50.webp",
+   "w": 480,
+   "h": 71,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::b5bd5f1b-0448-451e-9088-e607a21041bd",
+   "name": "PSD -love-time -madness -rain-beautiful -look forwar-heart -wedding",
+   "photoCount": null,
+   "file": "b5bd5f1b-0448-451e-9088-e607a21041bd.webp",
+   "w": 324,
+   "h": 371,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::ab2df5d1-1904-4d63-8c7b-eb0563c77431",
+   "name": "PSD image",
+   "photoCount": null,
+   "file": "ab2df5d1-1904-4d63-8c7b-eb0563c77431.webp",
+   "w": 175,
+   "h": 55,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::961cf29d-f53d-4652-8f35-b0a0595116a7",
+   "name": "PSD the photobook",
+   "photoCount": null,
+   "file": "961cf29d-f53d-4652-8f35-b0a0595116a7.webp",
+   "w": 480,
+   "h": 39,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c409eefe-073e-4ad4-9170-08a0000451c3",
+   "name": "PSD layer",
+   "photoCount": null,
+   "file": "c409eefe-073e-4ad4-9170-08a0000451c3.webp",
+   "w": 44,
+   "h": 40,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::237039e6-9295-4d54-a333-8cbbec689802",
+   "name": "PSD layer",
+   "photoCount": null,
+   "file": "237039e6-9295-4d54-a333-8cbbec689802.webp",
+   "w": 40,
+   "h": 39,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a015078b-aab5-40da-8e54-6941da66e8b4",
+   "name": "PSD a time for us",
+   "photoCount": null,
+   "file": "a015078b-aab5-40da-8e54-6941da66e8b4.webp",
+   "w": 480,
+   "h": 139,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::db7f988b-0308-41de-953d-105efb4b27cd",
+   "name": "PSD IN",
+   "photoCount": null,
+   "file": "db7f988b-0308-41de-953d-105efb4b27cd.webp",
+   "w": 480,
+   "h": 250,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::1b378800-6251-4b6e-8f7a-40b067606fd2",
+   "name": "PSD the sea",
+   "photoCount": null,
+   "file": "1b378800-6251-4b6e-8f7a-40b067606fd2.webp",
+   "w": 329,
+   "h": 73,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2983c40a-8da4-422b-b4c9-4c0ea9c83c87",
+   "name": "PSD in the love",
+   "photoCount": null,
+   "file": "2983c40a-8da4-422b-b4c9-4c0ea9c83c87.webp",
+   "w": 480,
+   "h": 70,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::7a05c36e-cad0-450c-9eda-cde1e2dc0f09",
+   "name": "PSD the wedding day",
+   "photoCount": null,
+   "file": "7a05c36e-cad0-450c-9eda-cde1e2dc0f09.webp",
+   "w": 480,
+   "h": 30,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::099befd7-8fed-434c-b18f-38d57d1d7378",
+   "name": "PSD hand in hand",
+   "photoCount": null,
+   "file": "099befd7-8fed-434c-b18f-38d57d1d7378.webp",
+   "w": 480,
+   "h": 124,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::e03bfd5a-f931-45c1-8f3d-9c9f78f61143",
+   "name": "HT 2025 1_124",
+   "photoCount": null,
+   "file": "e03bfd5a-f931-45c1-8f3d-9c9f78f61143.webp",
+   "w": 480,
+   "h": 288,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::db5d2a0f-1caa-429b-bd7b-1583d7d62028",
+   "name": "PSD December",
+   "photoCount": null,
+   "file": "db5d2a0f-1caa-429b-bd7b-1583d7d62028.webp",
+   "w": 53,
+   "h": 367,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d1fa8c19-c2af-4640-8fd4-54168316ece4",
+   "name": "PSD 1. the happiness 2. dream 3. every time. 4. fall",
+   "photoCount": null,
+   "file": "d1fa8c19-c2af-4640-8fd4-54168316ece4.webp",
+   "w": 270,
+   "h": 974,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d2b50d11-058a-47a1-8d71-a3d5d0ffac9c",
+   "name": "PSD accompany is the longest confession of love",
+   "photoCount": null,
+   "file": "d2b50d11-058a-47a1-8d71-a3d5d0ffac9c.webp",
+   "w": 480,
+   "h": 16,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6fb68eab-14cd-41b1-8f72-292fd78d0048",
+   "name": "PSD Quiet letters",
+   "photoCount": null,
+   "file": "6fb68eab-14cd-41b1-8f72-292fd78d0048.webp",
+   "w": 480,
+   "h": 119,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::6fb5d26a-d17c-457d-9187-7ae89a6f23bf",
+   "name": "PSD ALL FOR STARTING",
+   "photoCount": null,
+   "file": "6fb5d26a-d17c-457d-9187-7ae89a6f23bf.webp",
+   "w": 44,
+   "h": 476,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2a18b893-0943-4943-919e-f65f81bc5cc9",
+   "name": "PSD love",
+   "photoCount": null,
+   "file": "2a18b893-0943-4943-919e-f65f81bc5cc9.webp",
+   "w": 41,
+   "h": 123,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::4a20b288-af75-4307-a7f3-a6903811891d",
+   "name": "PSD R",
+   "photoCount": null,
+   "file": "4a20b288-af75-4307-a7f3-a6903811891d.webp",
+   "w": 116,
+   "h": 165,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::d122b849-694f-48b6-8f77-126783e55d60",
+   "name": "PSD S",
+   "photoCount": null,
+   "file": "d122b849-694f-48b6-8f77-126783e55d60.webp",
+   "w": 91,
+   "h": 110,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::c521d393-0e57-45d4-9221-0c6c747e2d50",
+   "name": "PSD kiss",
+   "photoCount": null,
+   "file": "c521d393-0e57-45d4-9221-0c6c747e2d50.webp",
+   "w": 41,
+   "h": 118,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a2385252-eb4b-4583-896f-36a135713b6e",
+   "name": "PSD mood",
+   "photoCount": null,
+   "file": "a2385252-eb4b-4583-896f-36a135713b6e.webp",
+   "w": 41,
+   "h": 155,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::19972dfc-7c0d-43af-9a0c-5e2455604fed",
+   "name": "PSD cinematic",
+   "photoCount": null,
+   "file": "19972dfc-7c0d-43af-9a0c-5e2455604fed.webp",
+   "w": 41,
+   "h": 268,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::75d4d694-d663-4e76-ac33-d8d93c5e98b2",
+   "name": "PSD Muse",
+   "photoCount": null,
+   "file": "75d4d694-d663-4e76-ac33-d8d93c5e98b2.webp",
+   "w": 480,
+   "h": 143,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::593805f3-3102-41b0-ac1b-912035cbd799",
+   "name": "PSD irl my heart",
+   "photoCount": null,
+   "file": "593805f3-3102-41b0-ac1b-912035cbd799.webp",
+   "w": 480,
+   "h": 63,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::60b4ccdf-e68b-40ed-98d5-93bafdc27114",
+   "name": "PSD it is for you",
+   "photoCount": null,
+   "file": "60b4ccdf-e68b-40ed-98d5-93bafdc27114.webp",
+   "w": 300,
+   "h": 86,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::a6645e52-0fda-4109-89a4-f8c0b6ec30d6",
+   "name": "PSD the memories diaries",
+   "photoCount": null,
+   "file": "a6645e52-0fda-4109-89a4-f8c0b6ec30d6.webp",
+   "w": 449,
+   "h": 31,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::2819a11d-332a-40fd-9454-49e828d324d0",
+   "name": "PSD muse",
+   "photoCount": null,
+   "file": "2819a11d-332a-40fd-9454-49e828d324d0.webp",
+   "w": 480,
+   "h": 127,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::887fc878-70fb-474e-89e2-4292eb16c747",
+   "name": "PSD muse",
+   "photoCount": null,
+   "file": "887fc878-70fb-474e-89e2-4292eb16c747.webp",
+   "w": 480,
+   "h": 100,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::49e4b6bc-8c66-4323-b842-1df1c9c9d1b5",
+   "name": "PSD To the world you may be one person but to one person you are t",
+   "photoCount": null,
+   "file": "49e4b6bc-8c66-4323-b842-1df1c9c9d1b5.webp",
+   "w": 480,
+   "h": 9,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietketrangdoiv3::da6bff26-c486-4eaa-8f37-e11b15df11af",
+   "name": "PSD I Was Just Passing By And Fell In Love.",
+   "photoCount": null,
+   "file": "da6bff26-c486-4eaa-8f37-e11b15df11af.webp",
+   "w": 480,
+   "h": 175,
+   "kind": "typo"
+  }
+ ]
+}

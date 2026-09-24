@@ -1,0 +1,89 @@
+{
+ "packId": "typov10korea",
+ "version": "1.0.0",
+ "name": "typov10korea",
+ "generatedAt": "2026-09-24T13:13:25.807Z",
+ "items": [
+  {
+   "templateId": "typov10korea::88563d44-0061-4757-a997-fc8affc887ae",
+   "name": "TYPO WEDDING (21)",
+   "photoCount": null,
+   "file": "88563d44-0061-4757-a997-fc8affc887ae.webp",
+   "w": 480,
+   "h": 711,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov10korea::86179647-503c-44e0-abd0-5ab2363fd974",
+   "name": "TYPO WEDDING (34)",
+   "photoCount": null,
+   "file": "86179647-503c-44e0-abd0-5ab2363fd974.webp",
+   "w": 480,
+   "h": 609,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov10korea::c82d5c19-80dd-4c43-9030-8543825cd0fd",
+   "name": "TYPO WEDDING (38)",
+   "photoCount": null,
+   "file": "c82d5c19-80dd-4c43-9030-8543825cd0fd.webp",
+   "w": 480,
+   "h": 492,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov10korea::b0777435-0ba6-418c-903c-33d959c52c03",
+   "name": "TYPO WEDDING 2",
+   "photoCount": null,
+   "file": "b0777435-0ba6-418c-903c-33d959c52c03.webp",
+   "w": 480,
+   "h": 416,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov10korea::f7db4e71-6880-46df-acc8-b519d1737a13",
+   "name": "TYPO WEDDING 3",
+   "photoCount": null,
+   "file": "f7db4e71-6880-46df-acc8-b519d1737a13.webp",
+   "w": 480,
+   "h": 546,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov10korea::2a2e5ba6-07dd-47f2-85d0-51f0bf5a73e1",
+   "name": "TYPO WEDDING 5",
+   "photoCount": null,
+   "file": "2a2e5ba6-07dd-47f2-85d0-51f0bf5a73e1.webp",
+   "w": 480,
+   "h": 407,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov10korea::2765b670-3a3c-4897-8689-11f2fa09288c",
+   "name": "TYPO WEDDING 7",
+   "photoCount": null,
+   "file": "2765b670-3a3c-4897-8689-11f2fa09288c.webp",
+   "w": 480,
+   "h": 499,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov10korea::7e8e39a0-9587-480a-af9b-8144e63c87f5",
+   "name": "TYPO WEDDING 8",
+   "photoCount": null,
+   "file": "7e8e39a0-9587-480a-af9b-8144e63c87f5.webp",
+   "w": 480,
+   "h": 290,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typov10korea::6c6fe015-9192-4c46-a3d6-1c69156e9327",
+   "name": "TYPO WEDDING 9",
+   "photoCount": null,
+   "file": "6c6fe015-9192-4c46-a3d6-1c69156e9327.webp",
+   "w": 480,
+   "h": 340,
+   "kind": "typo"
+  }
+ ]
+}

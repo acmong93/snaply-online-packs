@@ -1,0 +1,387 @@
+{
+ "packId": "typotiengvietv1",
+ "version": "1.0.0",
+ "name": "typotiengvietv1",
+ "generatedAt": "2026-09-24T13:12:53.141Z",
+ "concept": "c13-thang-hoang-c2",
+ "items": [
+  {
+   "templateId": "typotiengvietv1::095435f3-7df2-4cdf-8d6b-1ff627f649ee",
+   "name": "11",
+   "photoCount": null,
+   "file": "095435f3-7df2-4cdf-8d6b-1ff627f649ee.webp",
+   "w": 480,
+   "h": 507,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::53d52967-6fe0-4533-b990-42649109c231",
+   "name": "tv2",
+   "photoCount": null,
+   "file": "53d52967-6fe0-4533-b990-42649109c231.webp",
+   "w": 480,
+   "h": 344,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::6fccef23-e2ba-474d-a86c-092311630259",
+   "name": "tv3",
+   "photoCount": null,
+   "file": "6fccef23-e2ba-474d-a86c-092311630259.webp",
+   "w": 480,
+   "h": 344,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::cd9c5168-ef05-42e9-a572-e50d39fc436c",
+   "name": "tv4",
+   "photoCount": null,
+   "file": "cd9c5168-ef05-42e9-a572-e50d39fc436c.webp",
+   "w": 480,
+   "h": 344,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::60d101e7-9d21-4a65-9aff-c1f7061868f8",
+   "name": "tv5",
+   "photoCount": null,
+   "file": "60d101e7-9d21-4a65-9aff-c1f7061868f8.webp",
+   "w": 480,
+   "h": 344,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::f6a43b2b-2310-4a52-bce9-38bc389fd1c7",
+   "name": "tv6",
+   "photoCount": null,
+   "file": "f6a43b2b-2310-4a52-bce9-38bc389fd1c7.webp",
+   "w": 480,
+   "h": 344,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::868c69a9-8564-4471-8271-6845a30e71e7",
+   "name": "tv7",
+   "photoCount": null,
+   "file": "868c69a9-8564-4471-8271-6845a30e71e7.webp",
+   "w": 480,
+   "h": 344,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::d0f59e11-b424-44a4-b2ad-3738f10773eb",
+   "name": "tv8",
+   "photoCount": null,
+   "file": "d0f59e11-b424-44a4-b2ad-3738f10773eb.webp",
+   "w": 480,
+   "h": 344,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::baba482a-1882-41c8-a892-7c2e75d57047",
+   "name": "tv9",
+   "photoCount": null,
+   "file": "baba482a-1882-41c8-a892-7c2e75d57047.webp",
+   "w": 480,
+   "h": 344,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::b5c0f4cf-d0a6-4a32-ad7d-37c11395d50b",
+   "name": "tv10",
+   "photoCount": null,
+   "file": "b5c0f4cf-d0a6-4a32-ad7d-37c11395d50b.webp",
+   "w": 480,
+   "h": 344,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::cc976fc7-9952-446c-b37b-d83f33837322",
+   "name": "tv11",
+   "photoCount": null,
+   "file": "cc976fc7-9952-446c-b37b-d83f33837322.webp",
+   "w": 480,
+   "h": 344,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::1317b149-5a3d-461a-9dcd-b20896f780f0",
+   "name": "tv12",
+   "photoCount": null,
+   "file": "1317b149-5a3d-461a-9dcd-b20896f780f0.webp",
+   "w": 480,
+   "h": 344,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::9d068a16-2aae-4b53-aded-5136858d9c79",
+   "name": "tv13",
+   "photoCount": null,
+   "file": "9d068a16-2aae-4b53-aded-5136858d9c79.webp",
+   "w": 480,
+   "h": 344,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::ebf3824c-566b-4fe1-8ab0-770ac0d1713d",
+   "name": "tv14",
+   "photoCount": null,
+   "file": "ebf3824c-566b-4fe1-8ab0-770ac0d1713d.webp",
+   "w": 480,
+   "h": 344,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::d5474bdb-ad16-4717-8a65-0c88df920459",
+   "name": "tv15",
+   "photoCount": null,
+   "file": "d5474bdb-ad16-4717-8a65-0c88df920459.webp",
+   "w": 480,
+   "h": 344,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::def08c13-d065-4219-b2f9-706fba823a95",
+   "name": "tv16",
+   "photoCount": null,
+   "file": "def08c13-d065-4219-b2f9-706fba823a95.webp",
+   "w": 480,
+   "h": 344,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::0ce1e7a4-6de4-452f-a5ce-98644487ede3",
+   "name": "tv17",
+   "photoCount": null,
+   "file": "0ce1e7a4-6de4-452f-a5ce-98644487ede3.webp",
+   "w": 480,
+   "h": 390,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::1227e0ba-05e5-42b1-a1ed-1fec8aeed34c",
+   "name": "tv18",
+   "photoCount": null,
+   "file": "1227e0ba-05e5-42b1-a1ed-1fec8aeed34c.webp",
+   "w": 480,
+   "h": 392,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::10717fdf-9070-4f15-bd7f-11c1590a9194",
+   "name": "tv19",
+   "photoCount": null,
+   "file": "10717fdf-9070-4f15-bd7f-11c1590a9194.webp",
+   "w": 480,
+   "h": 392,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::23b5231e-cdff-450e-9267-b4fe697610f8",
+   "name": "tv21",
+   "photoCount": null,
+   "file": "23b5231e-cdff-450e-9267-b4fe697610f8.webp",
+   "w": 480,
+   "h": 392,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::9386e29d-ea30-4c76-bc23-564b655a44a2",
+   "name": "tv22",
+   "photoCount": null,
+   "file": "9386e29d-ea30-4c76-bc23-564b655a44a2.webp",
+   "w": 480,
+   "h": 392,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::0a852e45-e770-464a-ac37-3f3e6449f9e7",
+   "name": "tv200",
+   "photoCount": null,
+   "file": "0a852e45-e770-464a-ac37-3f3e6449f9e7.webp",
+   "w": 480,
+   "h": 392,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::7b939cd2-a908-465b-af8c-b85f3db43f76",
+   "name": "v12",
+   "photoCount": null,
+   "file": "7b939cd2-a908-465b-af8c-b85f3db43f76.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::dc5352d7-6080-4f61-a01a-dc3876250215",
+   "name": "v13",
+   "photoCount": null,
+   "file": "dc5352d7-6080-4f61-a01a-dc3876250215.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::46f7387a-c32f-47ad-9831-02551c96dcb2",
+   "name": "v14",
+   "photoCount": null,
+   "file": "46f7387a-c32f-47ad-9831-02551c96dcb2.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::d0692a63-31cd-4ba5-9592-b91c442343e7",
+   "name": "v15",
+   "photoCount": null,
+   "file": "d0692a63-31cd-4ba5-9592-b91c442343e7.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::aaa5ad5f-100d-4c36-b71f-b38f6f8f3f85",
+   "name": "v16",
+   "photoCount": null,
+   "file": "aaa5ad5f-100d-4c36-b71f-b38f6f8f3f85.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::812a4215-37dc-487b-afdb-89fc7f5122de",
+   "name": "v17",
+   "photoCount": null,
+   "file": "812a4215-37dc-487b-afdb-89fc7f5122de.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::e59684ad-d9b1-46a1-a96f-4e55c0ecea4d",
+   "name": "v18",
+   "photoCount": null,
+   "file": "e59684ad-d9b1-46a1-a96f-4e55c0ecea4d.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::4b0bae41-7363-4cbc-850b-d5c3aa217d6c",
+   "name": "v19",
+   "photoCount": null,
+   "file": "4b0bae41-7363-4cbc-850b-d5c3aa217d6c.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::209c84cb-37c8-46c0-adbd-6966cf4d383d",
+   "name": "v20",
+   "photoCount": null,
+   "file": "209c84cb-37c8-46c0-adbd-6966cf4d383d.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::0665bb90-024c-4b33-bbf0-0fc6abffe255",
+   "name": "v21",
+   "photoCount": null,
+   "file": "0665bb90-024c-4b33-bbf0-0fc6abffe255.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::e595794f-26f1-420f-a4bf-bee3cbe6301f",
+   "name": "v22",
+   "photoCount": null,
+   "file": "e595794f-26f1-420f-a4bf-bee3cbe6301f.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::3adf5926-ab80-4232-b599-fa56d068d01c",
+   "name": "v24",
+   "photoCount": null,
+   "file": "3adf5926-ab80-4232-b599-fa56d068d01c.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::a03fb99d-93df-4855-b154-18565d3aa67c",
+   "name": "v25",
+   "photoCount": null,
+   "file": "a03fb99d-93df-4855-b154-18565d3aa67c.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::8f156014-3017-416c-acc0-c4ea6c339511",
+   "name": "v26",
+   "photoCount": null,
+   "file": "8f156014-3017-416c-acc0-c4ea6c339511.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::dad90893-58c5-4ddf-a833-adf6d3f76cd9",
+   "name": "v27",
+   "photoCount": null,
+   "file": "dad90893-58c5-4ddf-a833-adf6d3f76cd9.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::2b7b3d0c-a75b-47f8-8c8c-d3fa26ce1e43",
+   "name": "v28",
+   "photoCount": null,
+   "file": "2b7b3d0c-a75b-47f8-8c8c-d3fa26ce1e43.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::1700e5ba-b4d8-4a54-83f4-ab2675e35fec",
+   "name": "v29",
+   "photoCount": null,
+   "file": "1700e5ba-b4d8-4a54-83f4-ab2675e35fec.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::18fbeb4a-9877-4ad8-823e-c52cd46fba64",
+   "name": "v30",
+   "photoCount": null,
+   "file": "18fbeb4a-9877-4ad8-823e-c52cd46fba64.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::b80c0079-37ed-48b2-bbc6-dd7bb7f8c120",
+   "name": "v233",
+   "photoCount": null,
+   "file": "b80c0079-37ed-48b2-bbc6-dd7bb7f8c120.webp",
+   "w": 480,
+   "h": 418,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotiengvietv1::36e99f8e-495d-421f-9dff-4250cea788f0",
+   "name": "vtv1",
+   "photoCount": null,
+   "file": "36e99f8e-495d-421f-9dff-4250cea788f0.webp",
+   "w": 480,
+   "h": 256,
+   "kind": "typo"
+  }
+ ]
+}

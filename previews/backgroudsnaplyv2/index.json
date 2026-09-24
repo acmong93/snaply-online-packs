@@ -1,0 +1,1152 @@
+{
+ "packId": "backgroudsnaplyv2",
+ "version": "1.0.1",
+ "name": "Backgroud tong hop v2",
+ "generatedAt": "2026-09-24T12:54:44.023Z",
+ "concept": "c03-cp7",
+ "items": [
+  {
+   "templateId": "backgroudsnaplyv2::7472ea3b-675b-4882-aba6-3e84b223c4e8",
+   "name": "0bf5dbdeab71a54795934ad9d4bfff81",
+   "photoCount": null,
+   "file": "7472ea3b-675b-4882-aba6-3e84b223c4e8.webp",
+   "w": 480,
+   "h": 665,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::d1dcd7c9-ddbd-47ed-b099-29c148c574ee",
+   "name": "0c764170cabb010e74560395152aef44",
+   "photoCount": null,
+   "file": "d1dcd7c9-ddbd-47ed-b099-29c148c574ee.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::309efc03-9fea-4e1a-a24a-2bb3c14656e4",
+   "name": "0d6fce755260878ceda6808413a7650e",
+   "photoCount": null,
+   "file": "309efc03-9fea-4e1a-a24a-2bb3c14656e4.webp",
+   "w": 480,
+   "h": 890,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::ebaf5277-ebb1-4a75-a285-4b55de880702",
+   "name": "1 (1)",
+   "photoCount": null,
+   "file": "ebaf5277-ebb1-4a75-a285-4b55de880702.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::72cc07ce-64e5-43ff-a298-db53a358662c",
+   "name": "1 (2)",
+   "photoCount": null,
+   "file": "72cc07ce-64e5-43ff-a298-db53a358662c.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::209ac6d0-bd4b-4ce7-97c2-0636e54552ec",
+   "name": "1 (5)",
+   "photoCount": null,
+   "file": "209ac6d0-bd4b-4ce7-97c2-0636e54552ec.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::07eb58e9-93ea-44a3-b47d-58cc70544e4e",
+   "name": "2a18249721474b8312525700f74465d2",
+   "photoCount": null,
+   "file": "07eb58e9-93ea-44a3-b47d-58cc70544e4e.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::18825f00-c4e7-43fd-bae6-0c652665df36",
+   "name": "1 (4)",
+   "photoCount": null,
+   "file": "18825f00-c4e7-43fd-bae6-0c652665df36.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::67938aac-8366-4912-beb8-20663d0462d9",
+   "name": "2f6d43088665b7b8c6ec0bd43504a3b5",
+   "photoCount": null,
+   "file": "67938aac-8366-4912-beb8-20663d0462d9.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::01234cc8-1dab-4280-87a0-6578060c75b3",
+   "name": "2c86f70e093a80611b84adbd7cbe57ae",
+   "photoCount": null,
+   "file": "01234cc8-1dab-4280-87a0-6578060c75b3.webp",
+   "w": 480,
+   "h": 849,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::52e6c54f-34c2-4d15-8fe6-37226a0a687d",
+   "name": "2d213520044dd987b27be360d82d45a7",
+   "photoCount": null,
+   "file": "52e6c54f-34c2-4d15-8fe6-37226a0a687d.webp",
+   "w": 480,
+   "h": 599,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::4867f6c4-aec0-42af-811f-a3a2f7dc3264",
+   "name": "1 (6)",
+   "photoCount": null,
+   "file": "4867f6c4-aec0-42af-811f-a3a2f7dc3264.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::6b3d4a55-3cbc-4dd2-b2a8-6dea1468d195",
+   "name": "3c9a8801728b3346ee22433780da01fd",
+   "photoCount": null,
+   "file": "6b3d4a55-3cbc-4dd2-b2a8-6dea1468d195.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::c2ebffbd-8ae7-4341-92dd-46fbe3f65987",
+   "name": "3d9228f0f195b1680b9dac2e864311e3",
+   "photoCount": null,
+   "file": "c2ebffbd-8ae7-4341-92dd-46fbe3f65987.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::cf20e19b-427d-404e-8908-df7afb33c91d",
+   "name": "3b6f96ea80348ca4f744067385a4e97c",
+   "photoCount": null,
+   "file": "cf20e19b-427d-404e-8908-df7afb33c91d.webp",
+   "w": 480,
+   "h": 600,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::ae8f327f-ffc5-4e67-9f91-a0252027a99e",
+   "name": "3f3d0d1c42694eda8375294af7703f02",
+   "photoCount": null,
+   "file": "ae8f327f-ffc5-4e67-9f91-a0252027a99e.webp",
+   "w": 480,
+   "h": 600,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::b278e7d5-2cb3-4d40-8a49-6cbbe5289ac5",
+   "name": "4a30a5e5de770de435554becb250c28d",
+   "photoCount": null,
+   "file": "b278e7d5-2cb3-4d40-8a49-6cbbe5289ac5.webp",
+   "w": 480,
+   "h": 872,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::a114362b-369a-494f-810d-576c831094a3",
+   "name": "3fd83f24d2ed5d3e867f952fe6d48c7d",
+   "photoCount": null,
+   "file": "a114362b-369a-494f-810d-576c831094a3.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::11f054b6-f3c5-4566-b075-0645009f5910",
+   "name": "4a9722b1b1e7648c7aba86823681ed91",
+   "photoCount": null,
+   "file": "11f054b6-f3c5-4566-b075-0645009f5910.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::eda56953-ba96-4020-b4df-afa4403b277e",
+   "name": "4bdd0c56025b562f01bccc581d1ca0ff",
+   "photoCount": null,
+   "file": "eda56953-ba96-4020-b4df-afa4403b277e.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::50075754-a032-4171-a28e-e908626f9841",
+   "name": "4d7331cc6df169f9bd8b00a2a0aa1c53",
+   "photoCount": null,
+   "file": "50075754-a032-4171-a28e-e908626f9841.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::b04a3025-ba28-4ace-9009-87b08e6ddf59",
+   "name": "5e1f264f94f69a61d9837f46e2a10ec1",
+   "photoCount": null,
+   "file": "b04a3025-ba28-4ace-9009-87b08e6ddf59.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::e3307c4d-b6eb-455e-9152-6f056c55ced0",
+   "name": "4e039634ac4427fc9a6eb82bd559e3cf",
+   "photoCount": null,
+   "file": "e3307c4d-b6eb-455e-9152-6f056c55ced0.webp",
+   "w": 480,
+   "h": 639,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::ae79d946-37be-4b3c-a341-a6c0ee563dc2",
+   "name": "5ee1f981aaeb0a33792b8e5e5c9e9d03",
+   "photoCount": null,
+   "file": "ae79d946-37be-4b3c-a341-a6c0ee563dc2.webp",
+   "w": 480,
+   "h": 679,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::53c0bfad-f183-433e-9448-b8c163aa9621",
+   "name": "6da36bec292dd391871b5c1c91d1d06b",
+   "photoCount": null,
+   "file": "53c0bfad-f183-433e-9448-b8c163aa9621.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::a0d419de-bbb6-4a51-a1aa-e13bbd923504",
+   "name": "00007d12b7083098b7656f4508ee8a19",
+   "photoCount": null,
+   "file": "a0d419de-bbb6-4a51-a1aa-e13bbd923504.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::f68d9d52-bf7f-4e76-9239-564dc1ff51d6",
+   "name": "5f8d8efa474e83d0e7d089fca728925f",
+   "photoCount": null,
+   "file": "f68d9d52-bf7f-4e76-9239-564dc1ff51d6.webp",
+   "w": 480,
+   "h": 600,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::2da986c5-ec99-4fe0-b062-bcd13409b797",
+   "name": "6cff3a21c17ff2994184db7ce8e5cd41",
+   "photoCount": null,
+   "file": "2da986c5-ec99-4fe0-b062-bcd13409b797.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::2137cb0a-8de7-40d8-945e-2d4a8a1c6a7b",
+   "name": "7db7f7e3e7e83beb0d30faaca593a3c7",
+   "photoCount": null,
+   "file": "2137cb0a-8de7-40d8-945e-2d4a8a1c6a7b.webp",
+   "w": 480,
+   "h": 630,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::b971d0bf-0001-49e4-aaea-f00f38fc8a5f",
+   "name": "7dc3876e337557e320530878b17db3dc",
+   "photoCount": null,
+   "file": "b971d0bf-0001-49e4-aaea-f00f38fc8a5f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::976b3752-d24d-4ad3-b746-20aa1dbc554f",
+   "name": "7ea084c38cd7366c62f13307f6fe22b6",
+   "photoCount": null,
+   "file": "976b3752-d24d-4ad3-b746-20aa1dbc554f.webp",
+   "w": 480,
+   "h": 679,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::f67df535-387d-4625-8c48-a4535914bdf3",
+   "name": "7fc340b8a22de75ed62197fe881610e3",
+   "photoCount": null,
+   "file": "f67df535-387d-4625-8c48-a4535914bdf3.webp",
+   "w": 480,
+   "h": 597,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::c62701d7-1a53-4aab-bfcd-bc589fb33311",
+   "name": "8c8122faa1fa03ac6a99147b1562cc97",
+   "photoCount": null,
+   "file": "c62701d7-1a53-4aab-bfcd-bc589fb33311.webp",
+   "w": 480,
+   "h": 721,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::08adfbeb-9964-4423-b7f7-91cd89a6387f",
+   "name": "8de1635d5fdb6e9aaadd4f2a47559b1e",
+   "photoCount": null,
+   "file": "08adfbeb-9964-4423-b7f7-91cd89a6387f.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::d0db5a58-ad44-4beb-846d-84a1cd7b6b16",
+   "name": "14a9d449b1be33a80751ab6d87fe8bdc",
+   "photoCount": null,
+   "file": "d0db5a58-ad44-4beb-846d-84a1cd7b6b16.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::3e28cdfb-006f-4b72-befc-875bda55ad50",
+   "name": "8d6ef7b84873e11df8b9ce64d8146bda",
+   "photoCount": null,
+   "file": "3e28cdfb-006f-4b72-befc-875bda55ad50.webp",
+   "w": 480,
+   "h": 637,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::e8c91a3d-ccde-47dd-a980-4104e1e206ab",
+   "name": "9d480d2a47ab2fefb32963eb2dd6171a",
+   "photoCount": null,
+   "file": "e8c91a3d-ccde-47dd-a980-4104e1e206ab.webp",
+   "w": 480,
+   "h": 598,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::2dd3da2b-38a9-42d4-9590-7ae095c592f0",
+   "name": "25a0cc0eeba7ba26001dec594634d63b",
+   "photoCount": null,
+   "file": "2dd3da2b-38a9-42d4-9590-7ae095c592f0.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::01ba13bb-0cba-4493-8ece-2d50deee539e",
+   "name": "32b7c2c85399c4d97c32edb757216254",
+   "photoCount": null,
+   "file": "01ba13bb-0cba-4493-8ece-2d50deee539e.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::4957c4a2-b08a-42c1-a7e6-8b14706366da",
+   "name": "26a0d85e62ecea5e3d48b6a17bc0db6e",
+   "photoCount": null,
+   "file": "4957c4a2-b08a-42c1-a7e6-8b14706366da.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::da8e308c-9973-44f2-a1c3-6f9fd3e4d10c",
+   "name": "33a82ec7cba91d99b112c395199b7723",
+   "photoCount": null,
+   "file": "da8e308c-9973-44f2-a1c3-6f9fd3e4d10c.webp",
+   "w": 400,
+   "h": 624,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::0bd722ec-a24c-47ec-8f3f-914adb372797",
+   "name": "29b34ea489112c6f9840c92da1bf3306",
+   "photoCount": null,
+   "file": "0bd722ec-a24c-47ec-8f3f-914adb372797.webp",
+   "w": 480,
+   "h": 823,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::c8acef82-6324-4940-825d-e2fa41bf521b",
+   "name": "49f06d04c374adf1c7360360150c5f03",
+   "photoCount": null,
+   "file": "c8acef82-6324-4940-825d-e2fa41bf521b.webp",
+   "w": 456,
+   "h": 678,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::da15f27c-2ed9-4da6-84cf-eb03be1a1465",
+   "name": "54e3ded6289dc321cde632f89e8effa9",
+   "photoCount": null,
+   "file": "da15f27c-2ed9-4da6-84cf-eb03be1a1465.webp",
+   "w": 480,
+   "h": 960,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::74c0fe10-f026-4950-998c-68166f0ac008",
+   "name": "47c09750567e9c99ef99c16ffa6a8706",
+   "photoCount": null,
+   "file": "74c0fe10-f026-4950-998c-68166f0ac008.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::14d6c0ae-a315-457d-b513-ffdade07a618",
+   "name": "81cf9fa24a1b16162f1609fdee3ecbfd",
+   "photoCount": null,
+   "file": "14d6c0ae-a315-457d-b513-ffdade07a618.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::8f1a3479-d0d2-43e2-91d3-03d87b02d43d",
+   "name": "84ac8d28e479050202442d63b74d402b",
+   "photoCount": null,
+   "file": "8f1a3479-d0d2-43e2-91d3-03d87b02d43d.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::9ea0cb94-d385-49f9-8b86-55f6a3737ad7",
+   "name": "93c6f1a28af7a4521ec72af4ec6d19a2",
+   "photoCount": null,
+   "file": "9ea0cb94-d385-49f9-8b86-55f6a3737ad7.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::4e44767d-7770-407e-b9a4-b3cf0a108bb5",
+   "name": "88e2140e7747298cbfdece4627f0ae28",
+   "photoCount": null,
+   "file": "4e44767d-7770-407e-b9a4-b3cf0a108bb5.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::0637f7f6-0fba-424a-b437-14bca4f17868",
+   "name": "153ca0d6f5f6125e8af1e933a1641f3c",
+   "photoCount": null,
+   "file": "0637f7f6-0fba-424a-b437-14bca4f17868.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::12fb911e-54c2-439e-8a04-70bb6e17d7cd",
+   "name": "98cf52da8dcc0f7a0d77d1716a27ae93",
+   "photoCount": null,
+   "file": "12fb911e-54c2-439e-8a04-70bb6e17d7cd.webp",
+   "w": 480,
+   "h": 688,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::605fbfbd-9975-4ab1-a1b6-1f9a8329e28b",
+   "name": "208e27b72ab99a7e6fa55ac13f6434c2",
+   "photoCount": null,
+   "file": "605fbfbd-9975-4ab1-a1b6-1f9a8329e28b.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::acf82ead-2541-4912-8347-bc274e8db378",
+   "name": "186dae1459ec4e760f1085360ab98612",
+   "photoCount": null,
+   "file": "acf82ead-2541-4912-8347-bc274e8db378.webp",
+   "w": 480,
+   "h": 960,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::b051eaa5-5116-495c-8bde-8b1d3b306305",
+   "name": "247a6b225141db6fd0c8042330f52647",
+   "photoCount": null,
+   "file": "b051eaa5-5116-495c-8bde-8b1d3b306305.webp",
+   "w": 480,
+   "h": 669,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::7d7c02b0-35eb-4684-8cab-4bb58097ee22",
+   "name": "360eeed0b1a8b1272ab9be2de07c45a1",
+   "photoCount": null,
+   "file": "7d7c02b0-35eb-4684-8cab-4bb58097ee22.webp",
+   "w": 480,
+   "h": 852,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::2cac2302-67dd-4aac-8e56-2cec133c242a",
+   "name": "0371c325663967cb3fd88643fd8c8789",
+   "photoCount": null,
+   "file": "2cac2302-67dd-4aac-8e56-2cec133c242a.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::82d3cfc2-4af4-44b1-a0f2-ba3000df9043",
+   "name": "322c66ab92e8c89972a23c6d88008a80",
+   "photoCount": null,
+   "file": "82d3cfc2-4af4-44b1-a0f2-ba3000df9043.webp",
+   "w": 480,
+   "h": 599,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::e84a6078-9bb7-4829-9cae-c6b721877938",
+   "name": "576c4691e2400ae6f889773cc2880e54",
+   "photoCount": null,
+   "file": "e84a6078-9bb7-4829-9cae-c6b721877938.webp",
+   "w": 267,
+   "h": 500,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::71a23d19-0bb5-4a69-bc9c-0fa4cd76668e",
+   "name": "545cc633f170c017cfa3ee0c65078074",
+   "photoCount": null,
+   "file": "71a23d19-0bb5-4a69-bc9c-0fa4cd76668e.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::8ca0e01e-4b48-43f0-aab7-926ed1535d1c",
+   "name": "462e73be90938ba878a3cfe1ad987c6c",
+   "photoCount": null,
+   "file": "8ca0e01e-4b48-43f0-aab7-926ed1535d1c.webp",
+   "w": 480,
+   "h": 600,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::bf4ea937-1a2b-4e07-bb4a-65c1c2128352",
+   "name": "719a2351e017a6d097ea69b1376df538",
+   "photoCount": null,
+   "file": "bf4ea937-1a2b-4e07-bb4a-65c1c2128352.webp",
+   "w": 480,
+   "h": 852,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::97227856-989f-473d-86e1-f663c2705f9b",
+   "name": "627c3ff88cf6b34db8777bcbc36f0d8d",
+   "photoCount": null,
+   "file": "97227856-989f-473d-86e1-f663c2705f9b.webp",
+   "w": 480,
+   "h": 848,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::9b2c3cd3-e7b8-4a14-aaa9-440f2e3b3422",
+   "name": "854cc5ff9a1f287b29a67a69f9ce7016",
+   "photoCount": null,
+   "file": "9b2c3cd3-e7b8-4a14-aaa9-440f2e3b3422.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::ed458697-cf70-487f-90be-83049506e320",
+   "name": "774fdcbf08aa7662813489f7305f46b8",
+   "photoCount": null,
+   "file": "ed458697-cf70-487f-90be-83049506e320.webp",
+   "w": 480,
+   "h": 800,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::651c1838-e983-479e-838f-af13176a480c",
+   "name": "3630d320bf0ac04e89ea5e3ffd788503",
+   "photoCount": null,
+   "file": "651c1838-e983-479e-838f-af13176a480c.webp",
+   "w": 480,
+   "h": 881,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::57f6c9f1-041a-4748-a253-99de892fde66",
+   "name": "862bf5bf96a69f55acfcbd79bc772491",
+   "photoCount": null,
+   "file": "57f6c9f1-041a-4748-a253-99de892fde66.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::72a9a52a-419e-4c0f-a2da-68a54eb847c6",
+   "name": "892af1c25f238c0931146c64c29bf00b (1)",
+   "photoCount": null,
+   "file": "72a9a52a-419e-4c0f-a2da-68a54eb847c6.webp",
+   "w": 400,
+   "h": 714,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::ef83c7c1-0a71-40b0-82a4-b18b5961ed75",
+   "name": "996f6dae682bc79135c6540ca67a0f8a",
+   "photoCount": null,
+   "file": "ef83c7c1-0a71-40b0-82a4-b18b5961ed75.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::6463108f-9e58-415f-82ae-3f9feb3ac82a",
+   "name": "6415c7600c92fe3e19b2728399b24b66",
+   "photoCount": null,
+   "file": "6463108f-9e58-415f-82ae-3f9feb3ac82a.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::fc02f739-05aa-4b46-a155-101d21daa004",
+   "name": "3915df862d98c1172ce089aa74585333",
+   "photoCount": null,
+   "file": "fc02f739-05aa-4b46-a155-101d21daa004.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::1c358fc6-9786-49fc-924b-bb887032e6f2",
+   "name": "7855e1c6674ffdec9a6ff6c72699c0e6",
+   "photoCount": null,
+   "file": "1c358fc6-9786-49fc-924b-bb887032e6f2.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::57fb23b5-78a9-45d2-8aff-0b299fea0074",
+   "name": "8274db3b79e5194c9ca8ad437b145a1a",
+   "photoCount": null,
+   "file": "57fb23b5-78a9-45d2-8aff-0b299fea0074.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::3dc49834-47cd-488c-a2a8-08b168495a90",
+   "name": "39430e5f7cd81b92ce6fbf1db9e2213d",
+   "photoCount": null,
+   "file": "3dc49834-47cd-488c-a2a8-08b168495a90.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::a28830a3-48ae-4ea1-af35-d79191113102",
+   "name": "43259eeb5727b7327e42bfd9d43f3dad",
+   "photoCount": null,
+   "file": "a28830a3-48ae-4ea1-af35-d79191113102.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::1ea9b029-36af-4107-95da-9237d9c32392",
+   "name": "77547c7029dc1e080da478726fd9e589",
+   "photoCount": null,
+   "file": "1ea9b029-36af-4107-95da-9237d9c32392.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::ff00af94-2dce-4a81-9c6d-0eb73e4c8145",
+   "name": "79517d8caaddf1fa64bc5a96a018cb07",
+   "photoCount": null,
+   "file": "ff00af94-2dce-4a81-9c6d-0eb73e4c8145.webp",
+   "w": 480,
+   "h": 852,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::7ed6541c-1364-4a12-bfe5-2e0dc0d4c090",
+   "name": "78043d70f0e9aab0c3df47cf23b453bf",
+   "photoCount": null,
+   "file": "7ed6541c-1364-4a12-bfe5-2e0dc0d4c090.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::0ecdead0-50f7-49e4-b9bd-73cbeac9e521",
+   "name": "76588aec1f9e51096016e8f6cb2aad87",
+   "photoCount": null,
+   "file": "0ecdead0-50f7-49e4-b9bd-73cbeac9e521.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::745b8b5e-9f33-4f2c-92c0-d9e919fcb591",
+   "name": "14843801a5a4b1426250e575b8fa86c0",
+   "photoCount": null,
+   "file": "745b8b5e-9f33-4f2c-92c0-d9e919fcb591.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::906fdd8b-2be4-4dda-bbae-53ed36e375a0",
+   "name": "7182729ec909e8001a4f013d4e62158a",
+   "photoCount": null,
+   "file": "906fdd8b-2be4-4dda-bbae-53ed36e375a0.webp",
+   "w": 480,
+   "h": 856,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::b1e5639b-8840-4f12-a7be-c687a52511cb",
+   "name": "788602965668dfac66f8a498c725abca",
+   "photoCount": null,
+   "file": "b1e5639b-8840-4f12-a7be-c687a52511cb.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::22b25061-0529-43d4-8b5c-8e95888e9dc1",
+   "name": "70778532a638932cfd6ded440db8c5fb",
+   "photoCount": null,
+   "file": "22b25061-0529-43d4-8b5c-8e95888e9dc1.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::8993d9e9-1548-43f6-8001-949bcc9f23fb",
+   "name": "a8365191e79f55b1aaa4752a87f323a4",
+   "photoCount": null,
+   "file": "8993d9e9-1548-43f6-8001-949bcc9f23fb.webp",
+   "w": 480,
+   "h": 600,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::e08affef-d2a1-4cba-b6ff-a825d3ab42a5",
+   "name": "ac4eb136e1bbc7d6c5a9532e9a8cda68",
+   "photoCount": null,
+   "file": "e08affef-d2a1-4cba-b6ff-a825d3ab42a5.webp",
+   "w": 397,
+   "h": 595,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::ae6806ec-8de5-429d-b786-8b6a5ce556b1",
+   "name": "a07cbabc2812eda17c729727c2441aa3",
+   "photoCount": null,
+   "file": "ae6806ec-8de5-429d-b786-8b6a5ce556b1.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::7a89cd76-a4aa-4868-8960-2cba66dce651",
+   "name": "ad6a1b90ff64ed5f7e22e0055d8f4689",
+   "photoCount": null,
+   "file": "7a89cd76-a4aa-4868-8960-2cba66dce651.webp",
+   "w": 480,
+   "h": 600,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::dfeb5817-6182-4f8d-8b38-a7d8f3fdabd4",
+   "name": "b6d9aa5a6259821e097f5fb7d8ad7ea6",
+   "photoCount": null,
+   "file": "dfeb5817-6182-4f8d-8b38-a7d8f3fdabd4.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::13662cef-704e-4337-bac8-c857a7b90fbd",
+   "name": "b50b898ab434163c6f72c11dcc254be0",
+   "photoCount": null,
+   "file": "13662cef-704e-4337-bac8-c857a7b90fbd.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::7c679f12-e726-467a-b62c-fdaecc223951",
+   "name": "b55bb0a67da50cb0606e84194fcb6051",
+   "photoCount": null,
+   "file": "7c679f12-e726-467a-b62c-fdaecc223951.webp",
+   "w": 480,
+   "h": 637,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::4133adf4-8212-4b1b-8e12-9bc63b76e943",
+   "name": "b48644f0c10a7eaf44c49c20c42027a1",
+   "photoCount": null,
+   "file": "4133adf4-8212-4b1b-8e12-9bc63b76e943.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::0ad6cbe3-7609-41f5-8219-88ee5c501783",
+   "name": "b1767dfc36f2153b080284d6abfeff0a",
+   "photoCount": null,
+   "file": "0ad6cbe3-7609-41f5-8219-88ee5c501783.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::bd1b9b0a-1ca4-46d1-a8e7-092cc8264a2d",
+   "name": "bd618f736a893ab5297424adcf9bbcdf",
+   "photoCount": null,
+   "file": "bd1b9b0a-1ca4-46d1-a8e7-092cc8264a2d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::a152d973-c67f-4f11-8d5e-055465f04642",
+   "name": "c1f9e34e15c0fe92ce90eb27494d1d27",
+   "photoCount": null,
+   "file": "a152d973-c67f-4f11-8d5e-055465f04642.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::5461b885-bcc7-4cce-afe6-1fc3e1b762bc",
+   "name": "bfa82b978880396d28c99d0c5a2b1b2f",
+   "photoCount": null,
+   "file": "5461b885-bcc7-4cce-afe6-1fc3e1b762bc.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::cc50b004-95ee-4f13-90d5-d3ee536f568c",
+   "name": "c08a68fba985c8ad7521e0422d160c96",
+   "photoCount": null,
+   "file": "cc50b004-95ee-4f13-90d5-d3ee536f568c.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::3089d427-d0e9-4542-a1c9-984bb1dc0325",
+   "name": "cdc5d8fe0492b3500c681b638a6ad87b",
+   "photoCount": null,
+   "file": "3089d427-d0e9-4542-a1c9-984bb1dc0325.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::21916369-c899-42d7-adf4-71604211d622",
+   "name": "c9a77ceceaf56d71f59fb19101748015",
+   "photoCount": null,
+   "file": "21916369-c899-42d7-adf4-71604211d622.webp",
+   "w": 480,
+   "h": 723,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::153bc931-6b3f-4b96-a02d-5d0c3fc3be3f",
+   "name": "c62ab3505dc5cb71bed9aa486c1eeea3",
+   "photoCount": null,
+   "file": "153bc931-6b3f-4b96-a02d-5d0c3fc3be3f.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::fdae3a11-d24d-4cac-b624-3f32e26f8c59",
+   "name": "ceb95e761313b2a4219ce9f8dbc1fe82",
+   "photoCount": null,
+   "file": "fdae3a11-d24d-4cac-b624-3f32e26f8c59.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::b1a23e83-8a0d-41d3-867a-0eb251a8d6e4",
+   "name": "d1aab7cdb8c31b44dddf23297a6594a5",
+   "photoCount": null,
+   "file": "b1a23e83-8a0d-41d3-867a-0eb251a8d6e4.webp",
+   "w": 480,
+   "h": 699,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::b4c75a49-afd0-4b30-a4a9-60ba19273250",
+   "name": "d9ab96b4b118c2b77366e12b8333f900",
+   "photoCount": null,
+   "file": "b4c75a49-afd0-4b30-a4a9-60ba19273250.webp",
+   "w": 480,
+   "h": 600,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::d3c4f829-7b9b-47c1-a01b-3b5dce420845",
+   "name": "d20ccf60527195b4f23c4bd4c825cbb1",
+   "photoCount": null,
+   "file": "d3c4f829-7b9b-47c1-a01b-3b5dce420845.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::3138a0b2-2f06-4eba-a174-315e3e9725dd",
+   "name": "d47928a5af26d92165c0b6e661d792db",
+   "photoCount": null,
+   "file": "3138a0b2-2f06-4eba-a174-315e3e9725dd.webp",
+   "w": 480,
+   "h": 945,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::1d89500f-0dba-4e2d-96af-145c40856a14",
+   "name": "d038ce7b037a0af2f6b9638637a70301",
+   "photoCount": null,
+   "file": "1d89500f-0dba-4e2d-96af-145c40856a14.webp",
+   "w": 480,
+   "h": 779,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::502f8dde-dfcd-4bb0-8a51-c526733f94fd",
+   "name": "d33fb6e876d2b4ea4b6ffa20d6e855bd",
+   "photoCount": null,
+   "file": "502f8dde-dfcd-4bb0-8a51-c526733f94fd.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::5aeb1799-c77f-4cab-b851-00a953447af5",
+   "name": "dc5c4630fd16e7cc33aa67b943a764e6",
+   "photoCount": null,
+   "file": "5aeb1799-c77f-4cab-b851-00a953447af5.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::c23a0b17-a569-44fe-a17d-704a83c10d47",
+   "name": "ddcb234f64ab73a7175f70dbb908b355",
+   "photoCount": null,
+   "file": "c23a0b17-a569-44fe-a17d-704a83c10d47.webp",
+   "w": 480,
+   "h": 854,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::d7f72189-dabd-4a32-85c1-8bd439ac2117",
+   "name": "e9f335df1773cfce2b27907ae2481ed3",
+   "photoCount": null,
+   "file": "d7f72189-dabd-4a32-85c1-8bd439ac2117.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::86cb6363-ce1e-4106-ae78-a48d90ad47b6",
+   "name": "e3761c147548551c2dce197ab2fe2a6e",
+   "photoCount": null,
+   "file": "86cb6363-ce1e-4106-ae78-a48d90ad47b6.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::995f871f-8525-4969-a2ee-d8287a948a26",
+   "name": "e404fad8221aac61c5d49739e1a4ebd6",
+   "photoCount": null,
+   "file": "995f871f-8525-4969-a2ee-d8287a948a26.webp",
+   "w": 480,
+   "h": 663,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::f4ea566c-86a7-44e7-be40-70cc6f2b4b2e",
+   "name": "ea1ad59ab31e32beccba3d2e0595fae7",
+   "photoCount": null,
+   "file": "f4ea566c-86a7-44e7-be40-70cc6f2b4b2e.webp",
+   "w": 340,
+   "h": 509,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::f70891ee-ed3b-4937-abd8-f32b46a9f489",
+   "name": "ec9950eb1deb956e1038e8dae9ddf909",
+   "photoCount": null,
+   "file": "f70891ee-ed3b-4937-abd8-f32b46a9f489.webp",
+   "w": 480,
+   "h": 854,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::b439c26a-75e5-4ff4-8884-6fb84532df45",
+   "name": "eba7e9aee93b00c4065363e1fa630b4d",
+   "photoCount": null,
+   "file": "b439c26a-75e5-4ff4-8884-6fb84532df45.webp",
+   "w": 480,
+   "h": 840,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::1a335285-3a13-4129-a8dd-300541269138",
+   "name": "ee59b43f5f3dd29d38710b0e845cc27f",
+   "photoCount": null,
+   "file": "1a335285-3a13-4129-a8dd-300541269138.webp",
+   "w": 480,
+   "h": 650,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::f0cac69a-f0bb-4143-bd9a-e593406d7faa",
+   "name": "ef6b4c56690176780d76a4bf6e147146 (1)",
+   "photoCount": null,
+   "file": "f0cac69a-f0bb-4143-bd9a-e593406d7faa.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::fd853d69-f0cf-46da-a403-8a60505e00d2",
+   "name": "f2e5d1caae48d1bb205c78e15a7a04cb",
+   "photoCount": null,
+   "file": "fd853d69-f0cf-46da-a403-8a60505e00d2.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::124d03ef-fad3-4854-a03b-3948417907fc",
+   "name": "f3a508fdbe57a5d1b61ba455250ebbfb",
+   "photoCount": null,
+   "file": "124d03ef-fad3-4854-a03b-3948417907fc.webp",
+   "w": 480,
+   "h": 715,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::5f552658-ac03-4bce-8efb-2bdf4a694f53",
+   "name": "f395a6debcaeaff1921c6e0177bb27d3",
+   "photoCount": null,
+   "file": "5f552658-ac03-4bce-8efb-2bdf4a694f53.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::3d150411-35b4-40e2-b7ef-c73bef948b8e",
+   "name": "fb65d4065c904a84ec3392d70784a817",
+   "photoCount": null,
+   "file": "3d150411-35b4-40e2-b7ef-c73bef948b8e.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::217036c6-20d5-47c5-b1c2-573a264af02b",
+   "name": "fcd4ca8ed064a6b93fcf45ff6860f24e",
+   "photoCount": null,
+   "file": "217036c6-20d5-47c5-b1c2-573a264af02b.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::b8069ba7-fdc5-461e-a7bc-1a8467ffccc8",
+   "name": "ff80c900253e8e49c1e71d8a75f67929",
+   "photoCount": null,
+   "file": "b8069ba7-fdc5-461e-a7bc-1a8467ffccc8.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::df6ef8db-6dd1-4ac8-8d1b-2776ef9b9fe6",
+   "name": "tải xuống (1)",
+   "photoCount": null,
+   "file": "df6ef8db-6dd1-4ac8-8d1b-2776ef9b9fe6.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::2177d517-30de-488c-81a4-778683c2f2d5",
+   "name": "tải xuống (2)",
+   "photoCount": null,
+   "file": "2177d517-30de-488c-81a4-778683c2f2d5.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::7d18462d-31bb-4f7a-b7d2-8ebeb87b3c42",
+   "name": "tải xuống (4)",
+   "photoCount": null,
+   "file": "7d18462d-31bb-4f7a-b7d2-8ebeb87b3c42.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::0e60f720-de84-4d24-81df-dc844ea5577a",
+   "name": "tải xuống (3)",
+   "photoCount": null,
+   "file": "0e60f720-de84-4d24-81df-dc844ea5577a.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::ef16d0ca-664f-4196-a932-bc48740594ad",
+   "name": "tải xuống",
+   "photoCount": null,
+   "file": "ef16d0ca-664f-4196-a932-bc48740594ad.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  },
+  {
+   "templateId": "backgroudsnaplyv2::9b7de8e7-a54a-444f-9772-7926654700b4",
+   "name": "tải xuống (6)",
+   "photoCount": null,
+   "file": "9b7de8e7-a54a-444f-9772-7926654700b4.webp",
+   "w": 480,
+   "h": 853,
+   "kind": "background"
+  }
+ ]
+}

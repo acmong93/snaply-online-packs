@@ -1,0 +1,1620 @@
+{
+ "packId": "typotienganhwedding",
+ "version": "1.0.1",
+ "name": "Typo Tiếng Anh Wedding",
+ "generatedAt": "2026-09-24T13:12:51.417Z",
+ "concept": "c12-thang-hoang-genz",
+ "items": [
+  {
+   "templateId": "typotienganhwedding::1a05c16d-45f5-4e3a-be0c-d5a6efdd5c94",
+   "name": "0 (92)",
+   "photoCount": null,
+   "file": "1a05c16d-45f5-4e3a-be0c-d5a6efdd5c94.webp",
+   "w": 480,
+   "h": 458,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::3bfc4867-8d4e-41ca-8365-5372a997fd1c",
+   "name": "0 (102)",
+   "photoCount": null,
+   "file": "3bfc4867-8d4e-41ca-8365-5372a997fd1c.webp",
+   "w": 480,
+   "h": 324,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::d6e3c4b3-c2ef-49a2-a0ef-5d7b795010f1",
+   "name": "0 (68)",
+   "photoCount": null,
+   "file": "d6e3c4b3-c2ef-49a2-a0ef-5d7b795010f1.webp",
+   "w": 480,
+   "h": 664,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::6805a08c-e7c2-4cd6-bcaa-d73d3e97be5a",
+   "name": "0 (67)",
+   "photoCount": null,
+   "file": "6805a08c-e7c2-4cd6-bcaa-d73d3e97be5a.webp",
+   "w": 480,
+   "h": 327,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::01283b44-05f1-4db6-a602-0c115203d28d",
+   "name": "01 (2)",
+   "photoCount": null,
+   "file": "01283b44-05f1-4db6-a602-0c115203d28d.webp",
+   "w": 480,
+   "h": 236,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::65de68a5-f6b3-4aaf-ab37-85701490222a",
+   "name": "1 (2)",
+   "photoCount": null,
+   "file": "65de68a5-f6b3-4aaf-ab37-85701490222a.webp",
+   "w": 480,
+   "h": 663,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::3aba35d5-20c4-4526-9b46-614f65dd6fd7",
+   "name": "1 (3)",
+   "photoCount": null,
+   "file": "3aba35d5-20c4-4526-9b46-614f65dd6fd7.webp",
+   "w": 480,
+   "h": 451,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::e21d13fc-5c44-43a4-b5de-fbae58d09b4b",
+   "name": "1 (4)",
+   "photoCount": null,
+   "file": "e21d13fc-5c44-43a4-b5de-fbae58d09b4b.webp",
+   "w": 480,
+   "h": 522,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::a7858e48-6339-44a2-992c-0fdd3bc0d0b4",
+   "name": "1 (1)",
+   "photoCount": null,
+   "file": "a7858e48-6339-44a2-992c-0fdd3bc0d0b4.webp",
+   "w": 480,
+   "h": 518,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::e867a120-ba4d-4577-9075-beb384a7c323",
+   "name": "1a",
+   "photoCount": null,
+   "file": "e867a120-ba4d-4577-9075-beb384a7c323.webp",
+   "w": 480,
+   "h": 141,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::e27b56c9-a3a5-4e1b-89e4-7f7873173e2a",
+   "name": "1",
+   "photoCount": null,
+   "file": "e27b56c9-a3a5-4e1b-89e4-7f7873173e2a.webp",
+   "w": 480,
+   "h": 343,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::e3f65722-51fd-4f0e-8477-52fc63b7344b",
+   "name": "1aaa",
+   "photoCount": null,
+   "file": "e3f65722-51fd-4f0e-8477-52fc63b7344b.webp",
+   "w": 480,
+   "h": 413,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::3f4309e9-c343-4220-aa62-ff36af29af4d",
+   "name": "2a",
+   "photoCount": null,
+   "file": "3f4309e9-c343-4220-aa62-ff36af29af4d.webp",
+   "w": 480,
+   "h": 141,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::05e3d15e-56b6-4f6a-badc-daf691631a2e",
+   "name": "02 (4)",
+   "photoCount": null,
+   "file": "05e3d15e-56b6-4f6a-badc-daf691631a2e.webp",
+   "w": 480,
+   "h": 247,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::302fd22a-8675-4737-b4fb-8f891e7afb4d",
+   "name": "03 (2)",
+   "photoCount": null,
+   "file": "302fd22a-8675-4737-b4fb-8f891e7afb4d.webp",
+   "w": 480,
+   "h": 217,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::6ba998fe-8b07-4d90-a670-e59883745811",
+   "name": "3a",
+   "photoCount": null,
+   "file": "6ba998fe-8b07-4d90-a670-e59883745811.webp",
+   "w": 480,
+   "h": 141,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::56a8ae63-1045-461b-8212-f9b36a6ec0c8",
+   "name": "3",
+   "photoCount": null,
+   "file": "56a8ae63-1045-461b-8212-f9b36a6ec0c8.webp",
+   "w": 480,
+   "h": 343,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::79ddf156-2bde-4a91-9a8e-9804e890b2e2",
+   "name": "04 (2)",
+   "photoCount": null,
+   "file": "79ddf156-2bde-4a91-9a8e-9804e890b2e2.webp",
+   "w": 480,
+   "h": 235,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::56163d65-645b-4773-b9b0-b003e51d552c",
+   "name": "5",
+   "photoCount": null,
+   "file": "56163d65-645b-4773-b9b0-b003e51d552c.webp",
+   "w": 480,
+   "h": 343,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::6eab1b6b-c8b9-4fab-8a58-0c5822b56d22",
+   "name": "4a",
+   "photoCount": null,
+   "file": "6eab1b6b-c8b9-4fab-8a58-0c5822b56d22.webp",
+   "w": 480,
+   "h": 392,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::da07fbd6-5704-4411-82e5-ce9bdfa547ad",
+   "name": "5a",
+   "photoCount": null,
+   "file": "da07fbd6-5704-4411-82e5-ce9bdfa547ad.webp",
+   "w": 480,
+   "h": 392,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::fedbb2ec-1802-4f61-9ba5-70c0a499c6fa",
+   "name": "7",
+   "photoCount": null,
+   "file": "fedbb2ec-1802-4f61-9ba5-70c0a499c6fa.webp",
+   "w": 480,
+   "h": 224,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::862a7593-0908-44da-9b88-0fb329b78431",
+   "name": "6a",
+   "photoCount": null,
+   "file": "862a7593-0908-44da-9b88-0fb329b78431.webp",
+   "w": 480,
+   "h": 392,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::d6ebd626-b097-4d4f-86db-6345c3c703f2",
+   "name": "8a",
+   "photoCount": null,
+   "file": "d6ebd626-b097-4d4f-86db-6345c3c703f2.webp",
+   "w": 480,
+   "h": 260,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::c835bf3c-33e8-4660-9af3-16e2dbab352a",
+   "name": "7a",
+   "photoCount": null,
+   "file": "c835bf3c-33e8-4660-9af3-16e2dbab352a.webp",
+   "w": 480,
+   "h": 260,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::4492aab9-60c0-4c6c-9deb-a5dc8152da68",
+   "name": "9a",
+   "photoCount": null,
+   "file": "4492aab9-60c0-4c6c-9deb-a5dc8152da68.webp",
+   "w": 480,
+   "h": 260,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::c1a3122e-8d5c-47d5-aa04-1caf5e7c9eca",
+   "name": "10a",
+   "photoCount": null,
+   "file": "c1a3122e-8d5c-47d5-aa04-1caf5e7c9eca.webp",
+   "w": 480,
+   "h": 260,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::462b8475-1984-42dc-83f0-401b80abfa2a",
+   "name": "14a",
+   "photoCount": null,
+   "file": "462b8475-1984-42dc-83f0-401b80abfa2a.webp",
+   "w": 480,
+   "h": 400,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::ab9a1413-bfca-4def-b6ba-ae9451f6b0d9",
+   "name": "15q",
+   "photoCount": null,
+   "file": "ab9a1413-bfca-4def-b6ba-ae9451f6b0d9.webp",
+   "w": 480,
+   "h": 400,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::9e410c7b-7b42-471c-a809-f8f2c5318fc6",
+   "name": "12c",
+   "photoCount": null,
+   "file": "9e410c7b-7b42-471c-a809-f8f2c5318fc6.webp",
+   "w": 480,
+   "h": 300,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::d8dadd9a-f372-4466-8050-5844538f3337",
+   "name": "20181213-RO2_9827HAND",
+   "photoCount": null,
+   "file": "d8dadd9a-f372-4466-8050-5844538f3337.webp",
+   "w": 480,
+   "h": 248,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::2cb6cc4f-5ab1-4ac9-99c9-6b045599ee4a",
+   "name": "16a",
+   "photoCount": null,
+   "file": "2cb6cc4f-5ab1-4ac9-99c9-6b045599ee4a.webp",
+   "w": 480,
+   "h": 400,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::1250035b-7885-4ef4-b112-7ff8dd0b7885",
+   "name": "a fervent",
+   "photoCount": null,
+   "file": "1250035b-7885-4ef4-b112-7ff8dd0b7885.webp",
+   "w": 480,
+   "h": 204,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::c6580f5e-593c-4ce6-af83-4f9172135aa5",
+   "name": "a flower",
+   "photoCount": null,
+   "file": "c6580f5e-593c-4ce6-af83-4f9172135aa5.webp",
+   "w": 480,
+   "h": 249,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::d958cbd8-d76c-4313-82cb-aade2e9f9eb0",
+   "name": "8c",
+   "photoCount": null,
+   "file": "d958cbd8-d76c-4313-82cb-aade2e9f9eb0.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::3761d8e5-cf73-498c-b2b6-0d64159faf66",
+   "name": "123c",
+   "photoCount": null,
+   "file": "3761d8e5-cf73-498c-b2b6-0d64159faf66.webp",
+   "w": 480,
+   "h": 400,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::116be5c3-39ba-423f-98fe-2d1e413bae0a",
+   "name": "a",
+   "photoCount": null,
+   "file": "116be5c3-39ba-423f-98fe-2d1e413bae0a.webp",
+   "w": 480,
+   "h": 390,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::40f526fd-eb5b-4866-9dad-3df36aae4dec",
+   "name": "a good relationship",
+   "photoCount": null,
+   "file": "40f526fd-eb5b-4866-9dad-3df36aae4dec.webp",
+   "w": 480,
+   "h": 331,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::d44ca90f-7cdf-4af9-a88c-c6dad4dbe297",
+   "name": "all of me",
+   "photoCount": null,
+   "file": "d44ca90f-7cdf-4af9-a88c-c6dad4dbe297.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::ee208660-125a-4cfa-951d-9aaeecff5027",
+   "name": "always",
+   "photoCount": null,
+   "file": "ee208660-125a-4cfa-951d-9aaeecff5027.webp",
+   "w": 480,
+   "h": 719,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::0a47a1b5-e796-4501-8b94-a74c2e22392a",
+   "name": "anything in my life",
+   "photoCount": null,
+   "file": "0a47a1b5-e796-4501-8b94-a74c2e22392a.webp",
+   "w": 480,
+   "h": 315,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::bb1a7657-5bb7-4e21-ac40-bebad3f791ac",
+   "name": "at the touch of love",
+   "photoCount": null,
+   "file": "bb1a7657-5bb7-4e21-ac40-bebad3f791ac.webp",
+   "w": 480,
+   "h": 540,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::4094d97e-1450-4b9b-844d-8f5625e0eed7",
+   "name": "closer",
+   "photoCount": null,
+   "file": "4094d97e-1450-4b9b-844d-8f5625e0eed7.webp",
+   "w": 480,
+   "h": 207,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::f7baa91c-9bca-47b1-b74f-53ff7215b4b1",
+   "name": "ca",
+   "photoCount": null,
+   "file": "f7baa91c-9bca-47b1-b74f-53ff7215b4b1.webp",
+   "w": 480,
+   "h": 426,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::05702b9e-fdf1-44a5-8129-7a8db3798b92",
+   "name": "be minea",
+   "photoCount": null,
+   "file": "05702b9e-fdf1-44a5-8129-7a8db3798b92.webp",
+   "w": 480,
+   "h": 147,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::8715ea94-f3b6-41b6-a565-e49e9251a994",
+   "name": "be mine",
+   "photoCount": null,
+   "file": "8715ea94-f3b6-41b6-a565-e49e9251a994.webp",
+   "w": 480,
+   "h": 391,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::90b14454-cf04-48a6-9023-1ee1b07d5100",
+   "name": "every day",
+   "photoCount": null,
+   "file": "90b14454-cf04-48a6-9023-1ee1b07d5100.webp",
+   "w": 480,
+   "h": 307,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::88e4c5c5-34d8-4eb7-893b-42cb64636fd1",
+   "name": "every minutes",
+   "photoCount": null,
+   "file": "88e4c5c5-34d8-4eb7-893b-42cb64636fd1.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::9cf2a830-2a35-4b74-a815-c973e61a88de",
+   "name": "Fantastic",
+   "photoCount": null,
+   "file": "9cf2a830-2a35-4b74-a815-c973e61a88de.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::213f390e-a9a9-4708-a90f-20a3d46f10c6",
+   "name": "find someone",
+   "photoCount": null,
+   "file": "213f390e-a9a9-4708-a90f-20a3d46f10c6.webp",
+   "w": 480,
+   "h": 489,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::0fc6ab7f-ba0e-4c7e-b5da-f5fd3dfe1cd0",
+   "name": "find someone2",
+   "photoCount": null,
+   "file": "0fc6ab7f-ba0e-4c7e-b5da-f5fd3dfe1cd0.webp",
+   "w": 480,
+   "h": 362,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::ea9c096a-3d3c-41bb-97cd-2f69dfb6e43c",
+   "name": "everything you do for me",
+   "photoCount": null,
+   "file": "ea9c096a-3d3c-41bb-97cd-2f69dfb6e43c.webp",
+   "w": 480,
+   "h": 337,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::12f4295c-5db7-4210-8409-9b802260dcef",
+   "name": "flawless",
+   "photoCount": null,
+   "file": "12f4295c-5db7-4210-8409-9b802260dcef.webp",
+   "w": 480,
+   "h": 347,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::3ae4710d-22ab-457b-a1f5-c8f091832e37",
+   "name": "forever",
+   "photoCount": null,
+   "file": "3ae4710d-22ab-457b-a1f5-c8f091832e37.webp",
+   "w": 480,
+   "h": 347,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::eac9372f-6de3-4901-b4d7-53f7eccb3465",
+   "name": "grass",
+   "photoCount": null,
+   "file": "eac9372f-6de3-4901-b4d7-53f7eccb3465.webp",
+   "w": 480,
+   "h": 440,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::2e062a5a-bc32-4d44-a160-d6ce195f03e6",
+   "name": "hope feel love",
+   "photoCount": null,
+   "file": "2e062a5a-bc32-4d44-a160-d6ce195f03e6.webp",
+   "w": 480,
+   "h": 283,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::8fa22d98-bf13-44f7-91ce-4db8949ebf23",
+   "name": "For once",
+   "photoCount": null,
+   "file": "8fa22d98-bf13-44f7-91ce-4db8949ebf23.webp",
+   "w": 480,
+   "h": 291,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::9d216c9b-609f-4aa6-a2d6-21bb03f1e590",
+   "name": "huaban-3328926298",
+   "photoCount": null,
+   "file": "9d216c9b-609f-4aa6-a2d6-21bb03f1e590.webp",
+   "w": 467,
+   "h": 199,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::97d606d3-1137-4fce-a262-c19c3d2ad33b",
+   "name": "huaban-6566268003",
+   "photoCount": null,
+   "file": "97d606d3-1137-4fce-a262-c19c3d2ad33b.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::66cad101-102e-4cc7-87df-1fe7c129d45f",
+   "name": "I love you",
+   "photoCount": null,
+   "file": "66cad101-102e-4cc7-87df-1fe7c129d45f.webp",
+   "w": 480,
+   "h": 321,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::3eb6f80a-f97b-44a1-a4c3-acf5ba0653d4",
+   "name": "fashion17",
+   "photoCount": null,
+   "file": "3eb6f80a-f97b-44a1-a4c3-acf5ba0653d4.webp",
+   "w": 480,
+   "h": 380,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::4c8b0a51-3e58-490a-945b-f403f8093357",
+   "name": "Love beautiful",
+   "photoCount": null,
+   "file": "4c8b0a51-3e58-490a-945b-f403f8093357.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::27cf34fa-639a-4acf-86ef-1e615bb594f4",
+   "name": "Love is",
+   "photoCount": null,
+   "file": "27cf34fa-639a-4acf-86ef-1e615bb594f4.webp",
+   "w": 480,
+   "h": 354,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::e5109910-9175-4e7c-9a68-42d35cd8c53a",
+   "name": "lam album8",
+   "photoCount": null,
+   "file": "e5109910-9175-4e7c-9a68-42d35cd8c53a.webp",
+   "w": 480,
+   "h": 115,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::c5c3a15f-0b0b-4722-9d97-6d00939e7dfa",
+   "name": "Love isa",
+   "photoCount": null,
+   "file": "c5c3a15f-0b0b-4722-9d97-6d00939e7dfa.webp",
+   "w": 480,
+   "h": 610,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::07627c1d-06ba-4613-b35b-792f48a36321",
+   "name": "love on",
+   "photoCount": null,
+   "file": "07627c1d-06ba-4613-b35b-792f48a36321.webp",
+   "w": 480,
+   "h": 235,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::c8fdd575-b9b1-4c49-8666-d999acf28021",
+   "name": "madness in love",
+   "photoCount": null,
+   "file": "c8fdd575-b9b1-4c49-8666-d999acf28021.webp",
+   "w": 480,
+   "h": 561,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::cefbb3a4-bd7d-4af1-9a46-a9a3095678bb",
+   "name": "lam album6",
+   "photoCount": null,
+   "file": "cefbb3a4-bd7d-4af1-9a46-a9a3095678bb.webp",
+   "w": 480,
+   "h": 455,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::b0ea4f10-bd9c-4d66-8354-3c19ed37b2a5",
+   "name": "many time in life",
+   "photoCount": null,
+   "file": "b0ea4f10-bd9c-4d66-8354-3c19ed37b2a5.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::da31ea63-6509-4b87-968c-522b2269ac6c",
+   "name": "one paragraph",
+   "photoCount": null,
+   "file": "da31ea63-6509-4b87-968c-522b2269ac6c.webp",
+   "w": 480,
+   "h": 378,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::e4306e56-c679-4619-ad23-e1df769f5f46",
+   "name": "my destiny",
+   "photoCount": null,
+   "file": "e4306e56-c679-4619-ad23-e1df769f5f46.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::2a4bb731-c93c-4210-8378-26020e5eb0af",
+   "name": "passion",
+   "photoCount": null,
+   "file": "2a4bb731-c93c-4210-8378-26020e5eb0af.webp",
+   "w": 480,
+   "h": 106,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::1f04b8bd-4860-4803-8809-22e4d380b905",
+   "name": "passing day",
+   "photoCount": null,
+   "file": "1f04b8bd-4860-4803-8809-22e4d380b905.webp",
+   "w": 460,
+   "h": 546,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::891af934-5629-4040-85fc-88fd0bf169d2",
+   "name": "Lucky",
+   "photoCount": null,
+   "file": "891af934-5629-4040-85fc-88fd0bf169d2.webp",
+   "w": 480,
+   "h": 402,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::7b01f365-0117-47f2-a54f-133ef07d5315",
+   "name": "Romantic",
+   "photoCount": null,
+   "file": "7b01f365-0117-47f2-a54f-133ef07d5315.webp",
+   "w": 480,
+   "h": 218,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::1aed617b-9857-46a8-bfca-ff9b183b0051",
+   "name": "savethedaea",
+   "photoCount": null,
+   "file": "1aed617b-9857-46a8-bfca-ff9b183b0051.webp",
+   "w": 480,
+   "h": 152,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::2d427855-3ec4-46d8-8513-ef2db2e8c9fb",
+   "name": "t2",
+   "photoCount": null,
+   "file": "2d427855-3ec4-46d8-8513-ef2db2e8c9fb.webp",
+   "w": 480,
+   "h": 361,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::068a86b9-8578-4c75-9f75-ff645d989eb4",
+   "name": "sweet heart",
+   "photoCount": null,
+   "file": "068a86b9-8578-4c75-9f75-ff645d989eb4.webp",
+   "w": 480,
+   "h": 408,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::9eb35efa-8412-4faf-84cd-83d80d51a949",
+   "name": "t4",
+   "photoCount": null,
+   "file": "9eb35efa-8412-4faf-84cd-83d80d51a949.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::67dd3b88-3d49-466c-9953-84ab2e519d5f",
+   "name": "t1",
+   "photoCount": null,
+   "file": "67dd3b88-3d49-466c-9953-84ab2e519d5f.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::8f518a5f-ca30-4bb0-bf6f-2258a4e583a8",
+   "name": "t6",
+   "photoCount": null,
+   "file": "8f518a5f-ca30-4bb0-bf6f-2258a4e583a8.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::45806946-6b0e-490e-9546-2f65f5584b1c",
+   "name": "t5",
+   "photoCount": null,
+   "file": "45806946-6b0e-490e-9546-2f65f5584b1c.webp",
+   "w": 480,
+   "h": 160,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::4b66c1b7-5a1c-42bb-8fc0-bea3a51c021a",
+   "name": "t7",
+   "photoCount": null,
+   "file": "4b66c1b7-5a1c-42bb-8fc0-bea3a51c021a.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::6314bbf3-f764-482c-b4d2-d028f7dd201c",
+   "name": "t10",
+   "photoCount": null,
+   "file": "6314bbf3-f764-482c-b4d2-d028f7dd201c.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::fa754084-9c2d-4eb9-b7eb-e194d5bdeec9",
+   "name": "t11",
+   "photoCount": null,
+   "file": "fa754084-9c2d-4eb9-b7eb-e194d5bdeec9.webp",
+   "w": 480,
+   "h": 753,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::718154bd-bbb9-433d-88d7-a900a81bd0d9",
+   "name": "t12",
+   "photoCount": null,
+   "file": "718154bd-bbb9-433d-88d7-a900a81bd0d9.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::5208ec34-ee57-4579-a3e8-4743a554a311",
+   "name": "t16",
+   "photoCount": null,
+   "file": "5208ec34-ee57-4579-a3e8-4743a554a311.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::20e33fb6-431a-4b2f-bb49-6cdd2e721ee0",
+   "name": "t18",
+   "photoCount": null,
+   "file": "20e33fb6-431a-4b2f-bb49-6cdd2e721ee0.webp",
+   "w": 480,
+   "h": 841,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::2a28b99c-bbd5-4f0d-bd60-214c8de5ca65",
+   "name": "t19",
+   "photoCount": null,
+   "file": "2a28b99c-bbd5-4f0d-bd60-214c8de5ca65.webp",
+   "w": 480,
+   "h": 133,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::a28910c9-aad7-4a72-ba78-4a7be6251eef",
+   "name": "t32",
+   "photoCount": null,
+   "file": "a28910c9-aad7-4a72-ba78-4a7be6251eef.webp",
+   "w": 480,
+   "h": 840,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::dc950461-ac42-4d8a-9701-68badbd05b8f",
+   "name": "t33",
+   "photoCount": null,
+   "file": "dc950461-ac42-4d8a-9701-68badbd05b8f.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::fd0fb0a4-ac60-4e3c-855f-66f47b199cd0",
+   "name": "t22",
+   "photoCount": null,
+   "file": "fd0fb0a4-ac60-4e3c-855f-66f47b199cd0.webp",
+   "w": 480,
+   "h": 1010,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::4a01ebad-fb32-4537-b859-f18a8f64353f",
+   "name": "t30",
+   "photoCount": null,
+   "file": "4a01ebad-fb32-4537-b859-f18a8f64353f.webp",
+   "w": 480,
+   "h": 143,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::63b0a91d-ba78-4e98-9dfb-61f9aaecb812",
+   "name": "t34",
+   "photoCount": null,
+   "file": "63b0a91d-ba78-4e98-9dfb-61f9aaecb812.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::9617ba94-a1d4-4068-9876-586f8ae042ad",
+   "name": "t3",
+   "photoCount": null,
+   "file": "9617ba94-a1d4-4068-9876-586f8ae042ad.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::3168d905-c382-43a1-bf61-9df8d5176a9a",
+   "name": "t39",
+   "photoCount": null,
+   "file": "3168d905-c382-43a1-bf61-9df8d5176a9a.webp",
+   "w": 480,
+   "h": 663,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::882a77d7-2fd7-42d4-afd5-1d2b6f498e2a",
+   "name": "t37",
+   "photoCount": null,
+   "file": "882a77d7-2fd7-42d4-afd5-1d2b6f498e2a.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::40241cac-6b44-437c-a697-709b3a492155",
+   "name": "t41",
+   "photoCount": null,
+   "file": "40241cac-6b44-437c-a697-709b3a492155.webp",
+   "w": 480,
+   "h": 267,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::d22bb168-10a8-4a17-b7dd-cf7a1f2d6759",
+   "name": "t43",
+   "photoCount": null,
+   "file": "d22bb168-10a8-4a17-b7dd-cf7a1f2d6759.webp",
+   "w": 480,
+   "h": 603,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::4f17e8fe-8d43-4451-8cfa-ca04b51061f2",
+   "name": "t38",
+   "photoCount": null,
+   "file": "4f17e8fe-8d43-4451-8cfa-ca04b51061f2.webp",
+   "w": 480,
+   "h": 634,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::c1c3c367-320d-4b7d-8137-6e4c1ba00feb",
+   "name": "t49",
+   "photoCount": null,
+   "file": "c1c3c367-320d-4b7d-8137-6e4c1ba00feb.webp",
+   "w": 480,
+   "h": 619,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::7233243c-ca3d-4721-b8dc-689b6be5d19f",
+   "name": "t45",
+   "photoCount": null,
+   "file": "7233243c-ca3d-4721-b8dc-689b6be5d19f.webp",
+   "w": 480,
+   "h": 647,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::339aa67b-9aa6-49f8-abce-f371c532f899",
+   "name": "tau khua",
+   "photoCount": null,
+   "file": "339aa67b-9aa6-49f8-abce-f371c532f899.webp",
+   "w": 480,
+   "h": 375,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::0300f90b-1559-421e-8528-5dfd1e49bcd3",
+   "name": "t48",
+   "photoCount": null,
+   "file": "0300f90b-1559-421e-8528-5dfd1e49bcd3.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::70b59494-b35a-487d-9608-a03ddd13a4db",
+   "name": "that day",
+   "photoCount": null,
+   "file": "70b59494-b35a-487d-9608-a03ddd13a4db.webp",
+   "w": 480,
+   "h": 461,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::75e0bcaf-2b89-4bd8-8930-5473c70ca875",
+   "name": "to love",
+   "photoCount": null,
+   "file": "75e0bcaf-2b89-4bd8-8930-5473c70ca875.webp",
+   "w": 480,
+   "h": 447,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::c722012a-caa0-44d8-816c-95163a9fb40c",
+   "name": "the most beautiful",
+   "photoCount": null,
+   "file": "c722012a-caa0-44d8-816c-95163a9fb40c.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::b3f187b7-3698-4709-9d44-a26c9cd45115",
+   "name": "TTP 2",
+   "photoCount": null,
+   "file": "b3f187b7-3698-4709-9d44-a26c9cd45115.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::dd0110bf-72c8-4905-a5a3-60a968e3ca5a",
+   "name": "TTP 7",
+   "photoCount": null,
+   "file": "dd0110bf-72c8-4905-a5a3-60a968e3ca5a.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::9e1954db-fd80-4ae8-862c-6471f2e24eec",
+   "name": "v51",
+   "photoCount": null,
+   "file": "9e1954db-fd80-4ae8-862c-6471f2e24eec.webp",
+   "w": 480,
+   "h": 350,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::1624a61c-c6c9-440e-b634-d53271cbfe52",
+   "name": "v52",
+   "photoCount": null,
+   "file": "1624a61c-c6c9-440e-b634-d53271cbfe52.webp",
+   "w": 480,
+   "h": 313,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::08d0f9d6-d14f-44f1-ae98-cf7e5df14f0a",
+   "name": "v53",
+   "photoCount": null,
+   "file": "08d0f9d6-d14f-44f1-ae98-cf7e5df14f0a.webp",
+   "w": 480,
+   "h": 619,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::69d1fdd7-b9d1-4680-9f0f-cc4d5fa62e18",
+   "name": "TTP 4",
+   "photoCount": null,
+   "file": "69d1fdd7-b9d1-4680-9f0f-cc4d5fa62e18.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::21fcc01c-8ab1-4a46-9831-63a429b4c247",
+   "name": "v54",
+   "photoCount": null,
+   "file": "21fcc01c-8ab1-4a46-9831-63a429b4c247.webp",
+   "w": 480,
+   "h": 265,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::18253dbb-1cb3-47aa-998f-1f894b4a89e0",
+   "name": "v55",
+   "photoCount": null,
+   "file": "18253dbb-1cb3-47aa-998f-1f894b4a89e0.webp",
+   "w": 480,
+   "h": 236,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::f3805640-e7e2-4fa8-b835-0824299aed9b",
+   "name": "TTP 8",
+   "photoCount": null,
+   "file": "f3805640-e7e2-4fa8-b835-0824299aed9b.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::81b6e4f6-2ea8-485a-ac52-b6b1371b6754",
+   "name": "v56",
+   "photoCount": null,
+   "file": "81b6e4f6-2ea8-485a-ac52-b6b1371b6754.webp",
+   "w": 480,
+   "h": 290,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::a58573ea-abac-4cca-b616-49d2157083b3",
+   "name": "v57",
+   "photoCount": null,
+   "file": "a58573ea-abac-4cca-b616-49d2157083b3.webp",
+   "w": 480,
+   "h": 330,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::981ee621-6301-4775-9f17-079be8945aba",
+   "name": "TTP 9",
+   "photoCount": null,
+   "file": "981ee621-6301-4775-9f17-079be8945aba.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::748a26da-3e74-46bc-991a-4cae787d348f",
+   "name": "v121",
+   "photoCount": null,
+   "file": "748a26da-3e74-46bc-991a-4cae787d348f.webp",
+   "w": 480,
+   "h": 155,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::cb8692f8-826d-4230-b112-5c0ec154aec0",
+   "name": "v122",
+   "photoCount": null,
+   "file": "cb8692f8-826d-4230-b112-5c0ec154aec0.webp",
+   "w": 480,
+   "h": 350,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::8952982e-e1a4-44e1-901b-0c859fb1dfdd",
+   "name": "v124",
+   "photoCount": null,
+   "file": "8952982e-e1a4-44e1-901b-0c859fb1dfdd.webp",
+   "w": 480,
+   "h": 180,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::0b5b2079-fb5e-4529-8e17-bffe604ba84c",
+   "name": "v125",
+   "photoCount": null,
+   "file": "0b5b2079-fb5e-4529-8e17-bffe604ba84c.webp",
+   "w": 480,
+   "h": 391,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::a835600a-56d9-45e2-89ae-1c1908e8c502",
+   "name": "v127",
+   "photoCount": null,
+   "file": "a835600a-56d9-45e2-89ae-1c1908e8c502.webp",
+   "w": 480,
+   "h": 237,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::faf41845-7714-4a83-9061-cbd20f3573df",
+   "name": "v131",
+   "photoCount": null,
+   "file": "faf41845-7714-4a83-9061-cbd20f3573df.webp",
+   "w": 480,
+   "h": 510,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::7473f860-8834-4831-860a-ac9bc80cb046",
+   "name": "v58",
+   "photoCount": null,
+   "file": "7473f860-8834-4831-860a-ac9bc80cb046.webp",
+   "w": 480,
+   "h": 357,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::ea395588-ae58-473b-938c-ec8809373e42",
+   "name": "v132",
+   "photoCount": null,
+   "file": "ea395588-ae58-473b-938c-ec8809373e42.webp",
+   "w": 480,
+   "h": 166,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::b2e00f4a-0f59-4343-b9c7-3633d3470f13",
+   "name": "v59",
+   "photoCount": null,
+   "file": "b2e00f4a-0f59-4343-b9c7-3633d3470f13.webp",
+   "w": 480,
+   "h": 267,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::a474cf08-51ef-4a7f-8c82-9e2567167b31",
+   "name": "v134",
+   "photoCount": null,
+   "file": "a474cf08-51ef-4a7f-8c82-9e2567167b31.webp",
+   "w": 480,
+   "h": 390,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::697e3a78-4f13-4973-9932-af205c71f7b9",
+   "name": "v137",
+   "photoCount": null,
+   "file": "697e3a78-4f13-4973-9932-af205c71f7b9.webp",
+   "w": 480,
+   "h": 232,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::6ea9b366-4594-41b1-bc02-1b3469ae1ea3",
+   "name": "v136",
+   "photoCount": null,
+   "file": "6ea9b366-4594-41b1-bc02-1b3469ae1ea3.webp",
+   "w": 480,
+   "h": 194,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::938dea98-ef25-4c5d-b653-b2de9ceb615f",
+   "name": "v135",
+   "photoCount": null,
+   "file": "938dea98-ef25-4c5d-b653-b2de9ceb615f.webp",
+   "w": 480,
+   "h": 583,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::6f1839dc-265f-484b-81e0-6bd296631f4d",
+   "name": "v138",
+   "photoCount": null,
+   "file": "6f1839dc-265f-484b-81e0-6bd296631f4d.webp",
+   "w": 480,
+   "h": 172,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::9e61a759-1605-4888-b338-800fc9a473c2",
+   "name": "v139",
+   "photoCount": null,
+   "file": "9e61a759-1605-4888-b338-800fc9a473c2.webp",
+   "w": 480,
+   "h": 152,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::548ab508-51b4-4559-bacc-800709632b2a",
+   "name": "v511",
+   "photoCount": null,
+   "file": "548ab508-51b4-4559-bacc-800709632b2a.webp",
+   "w": 480,
+   "h": 372,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::e382084f-1ebe-4724-b62e-46fce7f6e1c8",
+   "name": "v510",
+   "photoCount": null,
+   "file": "e382084f-1ebe-4724-b62e-46fce7f6e1c8.webp",
+   "w": 480,
+   "h": 328,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::de29dbfc-0d16-4a04-8675-1e7709ab1bb4",
+   "name": "v512",
+   "photoCount": null,
+   "file": "de29dbfc-0d16-4a04-8675-1e7709ab1bb4.webp",
+   "w": 480,
+   "h": 335,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::4665a4c4-11f7-4ea8-b53c-b960680777a2",
+   "name": "v513",
+   "photoCount": null,
+   "file": "4665a4c4-11f7-4ea8-b53c-b960680777a2.webp",
+   "w": 480,
+   "h": 364,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::096a8fa0-718b-4a59-9a70-b00f13f13b29",
+   "name": "v514",
+   "photoCount": null,
+   "file": "096a8fa0-718b-4a59-9a70-b00f13f13b29.webp",
+   "w": 480,
+   "h": 387,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::04bfeddc-7328-4f6d-85e9-c8c1f6d8e4f1",
+   "name": "v516",
+   "photoCount": null,
+   "file": "04bfeddc-7328-4f6d-85e9-c8c1f6d8e4f1.webp",
+   "w": 480,
+   "h": 257,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::ce29cdd6-962c-49a0-8803-77141de95d38",
+   "name": "v515",
+   "photoCount": null,
+   "file": "ce29cdd6-962c-49a0-8803-77141de95d38.webp",
+   "w": 480,
+   "h": 303,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::75e649ab-ffc4-4cb6-970b-1568f65b6e17",
+   "name": "v517",
+   "photoCount": null,
+   "file": "75e649ab-ffc4-4cb6-970b-1568f65b6e17.webp",
+   "w": 480,
+   "h": 242,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::a29b199c-5f68-4625-adb1-2882a1ca1036",
+   "name": "v518",
+   "photoCount": null,
+   "file": "a29b199c-5f68-4625-adb1-2882a1ca1036.webp",
+   "w": 480,
+   "h": 283,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::b60f7e94-440f-414b-9078-ebb68290de9c",
+   "name": "v1210",
+   "photoCount": null,
+   "file": "b60f7e94-440f-414b-9078-ebb68290de9c.webp",
+   "w": 480,
+   "h": 279,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::6802580e-e65e-4c41-b7a6-0b3135af01a2",
+   "name": "v519",
+   "photoCount": null,
+   "file": "6802580e-e65e-4c41-b7a6-0b3135af01a2.webp",
+   "w": 480,
+   "h": 370,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::519617ab-859d-4c3d-84b1-bd727375c236",
+   "name": "v520",
+   "photoCount": null,
+   "file": "519617ab-859d-4c3d-84b1-bd727375c236.webp",
+   "w": 480,
+   "h": 306,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::7a53cfdc-1090-4d7c-9abe-5b5e391c14a8",
+   "name": "v521",
+   "photoCount": null,
+   "file": "7a53cfdc-1090-4d7c-9abe-5b5e391c14a8.webp",
+   "w": 480,
+   "h": 354,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::12a5231d-3f47-4cd2-9193-657c894ef962",
+   "name": "v1311",
+   "photoCount": null,
+   "file": "12a5231d-3f47-4cd2-9193-657c894ef962.webp",
+   "w": 480,
+   "h": 148,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::db8ac839-d40f-4f73-9935-3a6e013fb5ef",
+   "name": "v1211",
+   "photoCount": null,
+   "file": "db8ac839-d40f-4f73-9935-3a6e013fb5ef.webp",
+   "w": 480,
+   "h": 159,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::5feee2af-1265-4fe4-86e5-56496d945e3f",
+   "name": "v1314",
+   "photoCount": null,
+   "file": "5feee2af-1265-4fe4-86e5-56496d945e3f.webp",
+   "w": 480,
+   "h": 115,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::8aef0c43-5495-401e-b2eb-d4c9f675d93b",
+   "name": "v1310",
+   "photoCount": null,
+   "file": "8aef0c43-5495-401e-b2eb-d4c9f675d93b.webp",
+   "w": 480,
+   "h": 209,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::10cdaacb-c085-40fd-a612-7d4e96d92ec8",
+   "name": "v1316",
+   "photoCount": null,
+   "file": "10cdaacb-c085-40fd-a612-7d4e96d92ec8.webp",
+   "w": 480,
+   "h": 270,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::e2ecec4f-57a2-489f-986f-11da22982901",
+   "name": "v1317",
+   "photoCount": null,
+   "file": "e2ecec4f-57a2-489f-986f-11da22982901.webp",
+   "w": 480,
+   "h": 360,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::358b95ee-285b-46d7-92ff-1b3e031012c7",
+   "name": "v1315",
+   "photoCount": null,
+   "file": "358b95ee-285b-46d7-92ff-1b3e031012c7.webp",
+   "w": 480,
+   "h": 328,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::2a219f11-20c9-4d58-9d2a-b03b5d879d5c",
+   "name": "v1320",
+   "photoCount": null,
+   "file": "2a219f11-20c9-4d58-9d2a-b03b5d879d5c.webp",
+   "w": 480,
+   "h": 78,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::648d6d15-985c-405d-9f30-94bed83c01ca",
+   "name": "v1321",
+   "photoCount": null,
+   "file": "648d6d15-985c-405d-9f30-94bed83c01ca.webp",
+   "w": 480,
+   "h": 139,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::ea91e01b-a86b-4c22-9dd2-a7f4c6c045ae",
+   "name": "v1318",
+   "photoCount": null,
+   "file": "ea91e01b-a86b-4c22-9dd2-a7f4c6c045ae.webp",
+   "w": 480,
+   "h": 226,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::efe9fbaa-d910-4308-884c-988cdd530766",
+   "name": "v1322",
+   "photoCount": null,
+   "file": "efe9fbaa-d910-4308-884c-988cdd530766.webp",
+   "w": 480,
+   "h": 138,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::fe831f98-43d1-4c56-8ec5-d3b0c5756316",
+   "name": "v12121",
+   "photoCount": null,
+   "file": "fe831f98-43d1-4c56-8ec5-d3b0c5756316.webp",
+   "w": 480,
+   "h": 120,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::6c7d95d8-f158-4711-b49d-2d2f9d057328",
+   "name": "wd4",
+   "photoCount": null,
+   "file": "6c7d95d8-f158-4711-b49d-2d2f9d057328.webp",
+   "w": 480,
+   "h": 243,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::93e4c801-c68b-4494-b4da-318816fd2888",
+   "name": "wd1",
+   "photoCount": null,
+   "file": "93e4c801-c68b-4494-b4da-318816fd2888.webp",
+   "w": 480,
+   "h": 691,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::2659135f-33d6-412b-8cbf-ed88b02c00f9",
+   "name": "wd11",
+   "photoCount": null,
+   "file": "2659135f-33d6-412b-8cbf-ed88b02c00f9.webp",
+   "w": 480,
+   "h": 228,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::493c5afb-769f-4c19-86a0-ca5a1e65e8bf",
+   "name": "v12123",
+   "photoCount": null,
+   "file": "493c5afb-769f-4c19-86a0-ca5a1e65e8bf.webp",
+   "w": 480,
+   "h": 140,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::c913f5f5-33b8-4f3b-812f-c88b9d9418a0",
+   "name": "WDL",
+   "photoCount": null,
+   "file": "c913f5f5-33b8-4f3b-812f-c88b9d9418a0.webp",
+   "w": 480,
+   "h": 305,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::81eb42fb-1a0d-4b75-8982-dbb059ec3a22",
+   "name": "wd17",
+   "photoCount": null,
+   "file": "81eb42fb-1a0d-4b75-8982-dbb059ec3a22.webp",
+   "w": 480,
+   "h": 493,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::5716d195-73b9-4a32-9f28-1cf36419db11",
+   "name": "welcome-to-wedding-text-hand-written-custom-calligraphy-isolated-white-welcome-to-wedding-text-hand-written-custom-121408079",
+   "photoCount": null,
+   "file": "5716d195-73b9-4a32-9f28-1cf36419db11.webp",
+   "w": 480,
+   "h": 295,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::e67274e7-d1dc-41f8-af9a-a445fc8b55a4",
+   "name": "we all deserve",
+   "photoCount": null,
+   "file": "e67274e7-d1dc-41f8-af9a-a445fc8b55a4.webp",
+   "w": 480,
+   "h": 565,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::69d4321d-2c25-4da4-8433-f5482e1da295",
+   "name": "ww10",
+   "photoCount": null,
+   "file": "69d4321d-2c25-4da4-8433-f5482e1da295.webp",
+   "w": 480,
+   "h": 130,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::e8b479f2-c93d-46ca-962b-eab52624abb6",
+   "name": "wwd4",
+   "photoCount": null,
+   "file": "e8b479f2-c93d-46ca-962b-eab52624abb6.webp",
+   "w": 480,
+   "h": 388,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::1c4098b0-1b2f-48a3-b16a-714c58284d07",
+   "name": "with you",
+   "photoCount": null,
+   "file": "1c4098b0-1b2f-48a3-b16a-714c58284d07.webp",
+   "w": 480,
+   "h": 308,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::0c19c686-21fc-4bfd-85d5-1586bfd6904c",
+   "name": "wwd6",
+   "photoCount": null,
+   "file": "0c19c686-21fc-4bfd-85d5-1586bfd6904c.webp",
+   "w": 480,
+   "h": 262,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::1ebec83f-0568-4815-887e-7ec7b4e356ae",
+   "name": "wwd12",
+   "photoCount": null,
+   "file": "1ebec83f-0568-4815-887e-7ec7b4e356ae.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::112f35cb-5a82-486a-9ea9-370a1c92ba8c",
+   "name": "wwd16",
+   "photoCount": null,
+   "file": "112f35cb-5a82-486a-9ea9-370a1c92ba8c.webp",
+   "w": 480,
+   "h": 307,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::4de27d4a-ec1e-4a97-99b0-f425c5d62f98",
+   "name": "wwed2",
+   "photoCount": null,
+   "file": "4de27d4a-ec1e-4a97-99b0-f425c5d62f98.webp",
+   "w": 480,
+   "h": 300,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::fdbb5d92-b967-4963-ad51-44e7c2184f16",
+   "name": "wwd9",
+   "photoCount": null,
+   "file": "fdbb5d92-b967-4963-ad51-44e7c2184f16.webp",
+   "w": 480,
+   "h": 480,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::9bbac73c-49eb-4b2e-bfba-48cbea298eda",
+   "name": "you changed my world",
+   "photoCount": null,
+   "file": "9bbac73c-49eb-4b2e-bfba-48cbea298eda.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::831450b9-d791-4216-b9ea-0714e8e2d598",
+   "name": "with somebody",
+   "photoCount": null,
+   "file": "831450b9-d791-4216-b9ea-0714e8e2d598.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::98bae3e1-36b0-4fb6-a0b7-598adaf68231",
+   "name": "you changed my worlda",
+   "photoCount": null,
+   "file": "98bae3e1-36b0-4fb6-a0b7-598adaf68231.webp",
+   "w": 480,
+   "h": 320,
+   "kind": "typo"
+  },
+  {
+   "templateId": "typotienganhwedding::b2ac9cbd-a11d-4732-a5bb-67cf21512fc4",
+   "name": "wwd8",
+   "photoCount": null,
+   "file": "b2ac9cbd-a11d-4732-a5bb-67cf21512fc4.webp",
+   "w": 480,
+   "h": 142,
+   "kind": "typo"
+  }
+ ]
+}

@@ -1,0 +1,513 @@
+{
+ "packId": "bia20x30v2",
+ "version": "1.0.1",
+ "name": "Bìa Album 20x30",
+ "generatedAt": "2026-09-24T13:16:21.580Z",
+ "concept": "c01-tong",
+ "items": [
+  {
+   "templateId": "bia20x30v2::05178de8-af39-4278-a53f-e92fb094f312",
+   "name": "b2",
+   "photoCount": 1,
+   "file": "05178de8-af39-4278-a53f-e92fb094f312.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::065903e4-3f9e-4b1a-baa7-fbe649c83821",
+   "name": "b21",
+   "photoCount": 1,
+   "file": "065903e4-3f9e-4b1a-baa7-fbe649c83821.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::178f6685-cadd-4a1b-8034-0503b125d30e",
+   "name": "b43",
+   "photoCount": 1,
+   "file": "178f6685-cadd-4a1b-8034-0503b125d30e.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::1a689402-9a1e-4264-88f8-0e453710cb85",
+   "name": "b51",
+   "photoCount": 1,
+   "file": "1a689402-9a1e-4264-88f8-0e453710cb85.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::1ed80321-1e5f-449b-a8f5-5e15b1d70679",
+   "name": "BIA16",
+   "photoCount": 1,
+   "file": "1ed80321-1e5f-449b-a8f5-5e15b1d70679.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::234077c9-2856-4eff-99b9-b57dcd6692b6",
+   "name": "b11",
+   "photoCount": 1,
+   "file": "234077c9-2856-4eff-99b9-b57dcd6692b6.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::29656b0f-8f84-4290-932b-291914a4da42",
+   "name": "b18",
+   "photoCount": 1,
+   "file": "29656b0f-8f84-4290-932b-291914a4da42.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::2eee7d7e-ce26-48b3-860d-dd30ddace52c",
+   "name": "b52",
+   "photoCount": 1,
+   "file": "2eee7d7e-ce26-48b3-860d-dd30ddace52c.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::39a6d986-3683-4c9a-825a-712d983d3bf2",
+   "name": "b27",
+   "photoCount": 1,
+   "file": "39a6d986-3683-4c9a-825a-712d983d3bf2.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::3a8f3aa4-6022-4225-aca4-a3f59965eae7",
+   "name": "b50",
+   "photoCount": 1,
+   "file": "3a8f3aa4-6022-4225-aca4-a3f59965eae7.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::3b7aa9cf-8ff6-421e-8620-8f98fef62f2a",
+   "name": "b49",
+   "photoCount": 2,
+   "file": "3b7aa9cf-8ff6-421e-8620-8f98fef62f2a.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::3db94626-e159-4bd0-b3fa-697f18d7c252",
+   "name": "b9",
+   "photoCount": 1,
+   "file": "3db94626-e159-4bd0-b3fa-697f18d7c252.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::3fd276ab-00b4-4f37-b00a-77b657c58a58",
+   "name": "b4",
+   "photoCount": 1,
+   "file": "3fd276ab-00b4-4f37-b00a-77b657c58a58.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::41b29059-82b3-4ac0-8a55-90f01abc8552",
+   "name": "B30",
+   "photoCount": 1,
+   "file": "41b29059-82b3-4ac0-8a55-90f01abc8552.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::479a1d58-bd53-4db0-9c18-943009ca9bdf",
+   "name": "b45",
+   "photoCount": 1,
+   "file": "479a1d58-bd53-4db0-9c18-943009ca9bdf.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::4c8f498c-926c-4afc-a1d3-a953281db27c",
+   "name": "B25",
+   "photoCount": 1,
+   "file": "4c8f498c-926c-4afc-a1d3-a953281db27c.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::4f17c6bc-2a73-4a79-b963-58e09d0fcbf2",
+   "name": "B3",
+   "photoCount": 1,
+   "file": "4f17c6bc-2a73-4a79-b963-58e09d0fcbf2.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::51e8ec48-25bf-410f-aec1-fbbe7e32adfc",
+   "name": "b48",
+   "photoCount": 2,
+   "file": "51e8ec48-25bf-410f-aec1-fbbe7e32adfc.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::575e9ad4-ba32-49a8-b92b-bfbce4965295",
+   "name": "b12",
+   "photoCount": 1,
+   "file": "575e9ad4-ba32-49a8-b92b-bfbce4965295.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::57dbedcc-f1e2-4382-8fd1-60122f97c41c",
+   "name": "B16",
+   "photoCount": 1,
+   "file": "57dbedcc-f1e2-4382-8fd1-60122f97c41c.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::5c9a16e2-a8b7-481c-8fd9-b878dc78ea73",
+   "name": "b13",
+   "photoCount": 1,
+   "file": "5c9a16e2-a8b7-481c-8fd9-b878dc78ea73.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::6030358e-34b5-474e-8c54-d550bd0e3a7d",
+   "name": "b42",
+   "photoCount": 1,
+   "file": "6030358e-34b5-474e-8c54-d550bd0e3a7d.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::60d0f243-5145-4b97-a99c-2d4c48d293c1",
+   "name": "B17",
+   "photoCount": 1,
+   "file": "60d0f243-5145-4b97-a99c-2d4c48d293c1.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::64f69716-3528-4808-b5f3-2b35c7c11bdb",
+   "name": "B14",
+   "photoCount": 1,
+   "file": "64f69716-3528-4808-b5f3-2b35c7c11bdb.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::692574b1-88fd-4642-a07d-20a424c7d4e4",
+   "name": "b7",
+   "photoCount": 2,
+   "file": "692574b1-88fd-4642-a07d-20a424c7d4e4.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::6a8d0faf-f570-4624-a6d8-c247a726f2a1",
+   "name": "B34",
+   "photoCount": 1,
+   "file": "6a8d0faf-f570-4624-a6d8-c247a726f2a1.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::711bb60f-9f39-4c77-b171-277f7b274112",
+   "name": "B15",
+   "photoCount": 1,
+   "file": "711bb60f-9f39-4c77-b171-277f7b274112.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::72240e6d-60f3-488d-9ac2-4c04b120b9dc",
+   "name": "b10",
+   "photoCount": 1,
+   "file": "72240e6d-60f3-488d-9ac2-4c04b120b9dc.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::7355c325-3201-42f9-8313-bca0c3e4dde7",
+   "name": "b5",
+   "photoCount": 1,
+   "file": "7355c325-3201-42f9-8313-bca0c3e4dde7.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::7a0fc59c-fbdc-4894-9d23-14fd9db97930",
+   "name": "b47",
+   "photoCount": 1,
+   "file": "7a0fc59c-fbdc-4894-9d23-14fd9db97930.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::7ae71307-0589-49b2-8544-83afd7b34f34",
+   "name": "b41",
+   "photoCount": 1,
+   "file": "7ae71307-0589-49b2-8544-83afd7b34f34.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::7b7324b4-8e27-4325-870f-55ab6b772fc1",
+   "name": "b24",
+   "photoCount": 1,
+   "file": "7b7324b4-8e27-4325-870f-55ab6b772fc1.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::80fee41f-d507-4b39-85fc-5b87e827fd8b",
+   "name": "b31",
+   "photoCount": 1,
+   "file": "80fee41f-d507-4b39-85fc-5b87e827fd8b.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::8d4deba8-f593-4da5-b6a1-7566bc92979f",
+   "name": "b46",
+   "photoCount": 1,
+   "file": "8d4deba8-f593-4da5-b6a1-7566bc92979f.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::8ec02c57-c09c-405c-86a0-9b5137baa0ff",
+   "name": "b39",
+   "photoCount": 1,
+   "file": "8ec02c57-c09c-405c-86a0-9b5137baa0ff.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::a9c7221f-b43c-4b72-90a6-93a69293c78f",
+   "name": "b33",
+   "photoCount": 1,
+   "file": "a9c7221f-b43c-4b72-90a6-93a69293c78f.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::ad06b759-000b-4847-8da5-c375cdf481d9",
+   "name": "b54",
+   "photoCount": 1,
+   "file": "ad06b759-000b-4847-8da5-c375cdf481d9.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::b3fa2018-67c5-46be-b978-c4dae7d83023",
+   "name": "b53",
+   "photoCount": 1,
+   "file": "b3fa2018-67c5-46be-b978-c4dae7d83023.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::bab8ef24-9ff0-4078-b980-c535f8cd245c",
+   "name": "b23",
+   "photoCount": 1,
+   "file": "bab8ef24-9ff0-4078-b980-c535f8cd245c.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::bd5d9e84-697c-4067-b940-d11e292599ad",
+   "name": "b38",
+   "photoCount": 1,
+   "file": "bd5d9e84-697c-4067-b940-d11e292599ad.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::bfe83952-696a-46fc-9465-957fa0243017",
+   "name": "B19",
+   "photoCount": 1,
+   "file": "bfe83952-696a-46fc-9465-957fa0243017.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::c2aef1e3-0379-443f-bedd-c743f7226fc4",
+   "name": "b22",
+   "photoCount": 2,
+   "file": "c2aef1e3-0379-443f-bedd-c743f7226fc4.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::c789c762-fab7-4b25-97ff-3a2dbfadb8da",
+   "name": "b44",
+   "photoCount": 1,
+   "file": "c789c762-fab7-4b25-97ff-3a2dbfadb8da.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::d658fb6c-33ed-4856-93e9-73222eee9410",
+   "name": "B6",
+   "photoCount": 1,
+   "file": "d658fb6c-33ed-4856-93e9-73222eee9410.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::e04552df-8c40-403b-a63f-556dcb79178b",
+   "name": "b1",
+   "photoCount": 1,
+   "file": "e04552df-8c40-403b-a63f-556dcb79178b.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::e1459db7-117f-4800-9cc6-07e42848c964",
+   "name": "b36",
+   "photoCount": 1,
+   "file": "e1459db7-117f-4800-9cc6-07e42848c964.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::e3c0384b-9ed3-4a9d-8abd-b1fdac7fcc96",
+   "name": "B20",
+   "photoCount": 1,
+   "file": "e3c0384b-9ed3-4a9d-8abd-b1fdac7fcc96.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::eab098d0-966c-4df3-a4f3-fd619598f98b",
+   "name": "b8",
+   "photoCount": 1,
+   "file": "eab098d0-966c-4df3-a4f3-fd619598f98b.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::effbcf49-d919-4f22-84fd-454aedb9d32d",
+   "name": "b541",
+   "photoCount": 1,
+   "file": "effbcf49-d919-4f22-84fd-454aedb9d32d.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::f0aceb18-8667-4b21-a106-296bb2da4362",
+   "name": "b40",
+   "photoCount": 1,
+   "file": "f0aceb18-8667-4b21-a106-296bb2da4362.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::f54ab652-cd0f-41ce-8cb6-23d607c64050",
+   "name": "b28",
+   "photoCount": 1,
+   "file": "f54ab652-cd0f-41ce-8cb6-23d607c64050.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::f737565c-6d86-4b20-8731-8694f333d6a9",
+   "name": "bv5",
+   "photoCount": 1,
+   "file": "f737565c-6d86-4b20-8731-8694f333d6a9.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::f8e261f0-cc21-4cc1-9507-ca081ee8b670",
+   "name": "B35",
+   "photoCount": 1,
+   "file": "f8e261f0-cc21-4cc1-9507-ca081ee8b670.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "bia20x30v2::06e1f805-81bd-43a7-a56c-9e48d15fe9b2",
+   "name": "PSD You re always the first and the last thing on this heart of mi",
+   "photoCount": null,
+   "file": "06e1f805-81bd-43a7-a56c-9e48d15fe9b2.webp",
+   "w": 480,
+   "h": 41,
+   "kind": "typo"
+  },
+  {
+   "templateId": "bia20x30v2::d39a4dfa-c915-40b0-aa87-64e6f9d87849",
+   "name": "HT 2025 1_170",
+   "photoCount": null,
+   "file": "d39a4dfa-c915-40b0-aa87-64e6f9d87849.webp",
+   "w": 480,
+   "h": 140,
+   "kind": "typo"
+  },
+  {
+   "templateId": "bia20x30v2::e03999ce-569b-48d4-bd6b-f025444d46b1",
+   "name": "—Pngtree—brown leather texture leather texture_1282020",
+   "photoCount": null,
+   "file": "e03999ce-569b-48d4-bd6b-f025444d46b1.webp",
+   "w": 480,
+   "h": 343,
+   "kind": "background"
+  }
+ ]
+}

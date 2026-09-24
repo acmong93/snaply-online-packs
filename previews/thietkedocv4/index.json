@@ -1,0 +1,4041 @@
+{
+ "packId": "thietkedocv4",
+ "version": "1.0.5",
+ "name": "Thiết kế mẫu dọc Snaply v3",
+ "generatedAt": "2026-09-24T13:20:19.696Z",
+ "concept": "c02-cp5",
+ "items": [
+  {
+   "templateId": "thietkedocv4::002970b0-05e3-4255-8e23-4eae497c44e8",
+   "name": "don_116",
+   "photoCount": 2,
+   "file": "002970b0-05e3-4255-8e23-4eae497c44e8.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::0071e042-dfee-4c60-9f93-7099119d94ee",
+   "name": "don_364",
+   "photoCount": 2,
+   "file": "0071e042-dfee-4c60-9f93-7099119d94ee.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::03373320-2d60-4bb0-bdad-ba870d578ece",
+   "name": "don_313",
+   "photoCount": 3,
+   "file": "03373320-2d60-4bb0-bdad-ba870d578ece.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::03b6e267-b76a-4581-8476-0a1bc8ad2de8",
+   "name": "don_314",
+   "photoCount": 4,
+   "file": "03b6e267-b76a-4581-8476-0a1bc8ad2de8.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::04b2c692-92fc-4fd8-9580-c60a3e1f973e",
+   "name": "don_167",
+   "photoCount": 1,
+   "file": "04b2c692-92fc-4fd8-9580-c60a3e1f973e.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::04da9fa3-56bf-4ac6-a0f2-5b683a78f45e",
+   "name": "don_156",
+   "photoCount": 2,
+   "file": "04da9fa3-56bf-4ac6-a0f2-5b683a78f45e.webp",
+   "w": 480,
+   "h": 719,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::0585c4c4-af35-4073-b4e5-a404423c8ce5",
+   "name": "don_265",
+   "photoCount": 3,
+   "file": "0585c4c4-af35-4073-b4e5-a404423c8ce5.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::05a6f4df-d929-4909-bc6f-3437967c2027",
+   "name": "don_193",
+   "photoCount": 6,
+   "file": "05a6f4df-d929-4909-bc6f-3437967c2027.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::0632fea9-dd67-48dc-bcbb-bd36d4375117",
+   "name": "don_89",
+   "photoCount": 4,
+   "file": "0632fea9-dd67-48dc-bcbb-bd36d4375117.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::076f885d-0aff-4056-b67b-f409730171aa",
+   "name": "don_337",
+   "photoCount": 2,
+   "file": "076f885d-0aff-4056-b67b-f409730171aa.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::07d56856-7253-4084-8d27-29c0c7d5b4c5",
+   "name": "donii_2",
+   "photoCount": 9,
+   "file": "07d56856-7253-4084-8d27-29c0c7d5b4c5.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::08aa604a-083e-4ff2-90c2-930ebc6aaf8b",
+   "name": "don_274",
+   "photoCount": 4,
+   "file": "08aa604a-083e-4ff2-90c2-930ebc6aaf8b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::08c179e7-f9c8-4844-ae0e-e92adff21fb7",
+   "name": "don_59",
+   "photoCount": 1,
+   "file": "08c179e7-f9c8-4844-ae0e-e92adff21fb7.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::0942c973-2a5c-42a7-a4be-d69e79dbefdd",
+   "name": "don_308",
+   "photoCount": 5,
+   "file": "0942c973-2a5c-42a7-a4be-d69e79dbefdd.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::094d7e84-b3dd-4e95-93ff-dd0a1fcff895",
+   "name": "don_139",
+   "photoCount": 5,
+   "file": "094d7e84-b3dd-4e95-93ff-dd0a1fcff895.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::0a268323-b653-422a-a89b-97496abd510a",
+   "name": "don_222",
+   "photoCount": 3,
+   "file": "0a268323-b653-422a-a89b-97496abd510a.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::0ac649df-db79-4e64-b179-478b453211e4",
+   "name": "don_14",
+   "photoCount": 4,
+   "file": "0ac649df-db79-4e64-b179-478b453211e4.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::0c5392fb-03b3-42c2-b1b8-1e4c1069d460",
+   "name": "don_225",
+   "photoCount": 2,
+   "file": "0c5392fb-03b3-42c2-b1b8-1e4c1069d460.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::0d38082c-b42f-41c6-be7c-178e6b9104d2",
+   "name": "don_259",
+   "photoCount": 4,
+   "file": "0d38082c-b42f-41c6-be7c-178e6b9104d2.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::0e6ff284-25f8-486d-9c6d-ad29e56bc590",
+   "name": "don_329",
+   "photoCount": 6,
+   "file": "0e6ff284-25f8-486d-9c6d-ad29e56bc590.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::0f905fd0-be79-4575-af76-662e32e5f1d6",
+   "name": "donii_39",
+   "photoCount": 1,
+   "file": "0f905fd0-be79-4575-af76-662e32e5f1d6.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::0fb6ef5d-7a62-49b6-bdbf-5b09fbe3b874",
+   "name": "don_158",
+   "photoCount": 2,
+   "file": "0fb6ef5d-7a62-49b6-bdbf-5b09fbe3b874.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::0fd3d994-46e4-489c-ab65-56faf179bb7e",
+   "name": "don_188",
+   "photoCount": 4,
+   "file": "0fd3d994-46e4-489c-ab65-56faf179bb7e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::106e74ed-04ca-4979-99b8-174140f9d7a6",
+   "name": "don_135",
+   "photoCount": 2,
+   "file": "106e74ed-04ca-4979-99b8-174140f9d7a6.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::10d8e28e-1857-4a21-89e3-71a7a395c53c",
+   "name": "don_6",
+   "photoCount": 2,
+   "file": "10d8e28e-1857-4a21-89e3-71a7a395c53c.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::10eba0ae-c5bc-4dde-85ed-2a9fdfa2807d",
+   "name": "donii_23",
+   "photoCount": 6,
+   "file": "10eba0ae-c5bc-4dde-85ed-2a9fdfa2807d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::1243de6c-7e1e-40ac-a354-13671f10672f",
+   "name": "don_13",
+   "photoCount": 3,
+   "file": "1243de6c-7e1e-40ac-a354-13671f10672f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::1337afa1-56e9-4d74-9aed-2971089dc2a0",
+   "name": "don_204",
+   "photoCount": 2,
+   "file": "1337afa1-56e9-4d74-9aed-2971089dc2a0.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::133880d9-8144-45e1-9125-0f7d74f3ca5e",
+   "name": "don_177",
+   "photoCount": 3,
+   "file": "133880d9-8144-45e1-9125-0f7d74f3ca5e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::14354e46-9759-4f6f-9c8b-9e4ab6cd6e01",
+   "name": "don_316",
+   "photoCount": 4,
+   "file": "14354e46-9759-4f6f-9c8b-9e4ab6cd6e01.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::14ba52a9-fd29-478d-b83b-dc9b4071616e",
+   "name": "don_86",
+   "photoCount": 3,
+   "file": "14ba52a9-fd29-478d-b83b-dc9b4071616e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::1578a4e5-3f4e-4e16-bdf1-6808c8821332",
+   "name": "don_92",
+   "photoCount": 4,
+   "file": "1578a4e5-3f4e-4e16-bdf1-6808c8821332.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::15c3d129-8f10-4745-8a90-d1288bcaabe2",
+   "name": "don_242",
+   "photoCount": 2,
+   "file": "15c3d129-8f10-4745-8a90-d1288bcaabe2.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::15d9459a-d387-4b5f-ad0f-bbf71e40e7d8",
+   "name": "don_327",
+   "photoCount": 5,
+   "file": "15d9459a-d387-4b5f-ad0f-bbf71e40e7d8.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::16018581-eaf7-4bc2-a02d-8de66c0fe3c8",
+   "name": "don_58",
+   "photoCount": 2,
+   "file": "16018581-eaf7-4bc2-a02d-8de66c0fe3c8.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::16d66e44-45f2-4741-be22-0782356ea94e",
+   "name": "donii_18",
+   "photoCount": 6,
+   "file": "16d66e44-45f2-4741-be22-0782356ea94e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::174b010f-1a77-4979-b3a2-61b6d66cd001",
+   "name": "don_3",
+   "photoCount": 2,
+   "file": "174b010f-1a77-4979-b3a2-61b6d66cd001.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::1794dfed-9f4e-4da6-963c-52a71ea28b74",
+   "name": "don_113",
+   "photoCount": 2,
+   "file": "1794dfed-9f4e-4da6-963c-52a71ea28b74.webp",
+   "w": 480,
+   "h": 721,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::17de195e-2216-4192-bc92-701d40d56d67",
+   "name": "don_357",
+   "photoCount": 1,
+   "file": "17de195e-2216-4192-bc92-701d40d56d67.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::198c7ad8-731f-4ed8-ad17-8b13032cc9f0",
+   "name": "don_258",
+   "photoCount": 1,
+   "file": "198c7ad8-731f-4ed8-ad17-8b13032cc9f0.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::1a5515d2-2309-4168-9f29-4b6d5dddbdc1",
+   "name": "don_126",
+   "photoCount": 1,
+   "file": "1a5515d2-2309-4168-9f29-4b6d5dddbdc1.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::1af687f4-e25a-4102-8e03-45e321dcc7b4",
+   "name": "don_362",
+   "photoCount": 9,
+   "file": "1af687f4-e25a-4102-8e03-45e321dcc7b4.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::1b7d98ab-dbd6-47bb-b6a8-d60ddd7f0867",
+   "name": "don_243",
+   "photoCount": 4,
+   "file": "1b7d98ab-dbd6-47bb-b6a8-d60ddd7f0867.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::1bdb387e-db64-4962-b64f-e5681e9952cb",
+   "name": "don_215",
+   "photoCount": 2,
+   "file": "1bdb387e-db64-4962-b64f-e5681e9952cb.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::1c92ef4f-28a0-4467-9212-630dab709615",
+   "name": "don_64",
+   "photoCount": 3,
+   "file": "1c92ef4f-28a0-4467-9212-630dab709615.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::1e762a69-90ce-42d8-b3a4-f86a6f8464d5",
+   "name": "don_174",
+   "photoCount": 7,
+   "file": "1e762a69-90ce-42d8-b3a4-f86a6f8464d5.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::1e8eeae1-1180-4991-8564-bba37cc3ec4f",
+   "name": "don_306",
+   "photoCount": 8,
+   "file": "1e8eeae1-1180-4991-8564-bba37cc3ec4f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::1ece7d2b-3186-4df8-8d72-48cd6f9fdfa3",
+   "name": "donii_22",
+   "photoCount": 1,
+   "file": "1ece7d2b-3186-4df8-8d72-48cd6f9fdfa3.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::1edf6dfc-3b4e-4a6b-bf98-5bbd708e42fd",
+   "name": "don_40",
+   "photoCount": 2,
+   "file": "1edf6dfc-3b4e-4a6b-bf98-5bbd708e42fd.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::1f1c9493-40ce-482c-8ea7-c45cb774ad5b",
+   "name": "don_319",
+   "photoCount": 6,
+   "file": "1f1c9493-40ce-482c-8ea7-c45cb774ad5b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::1f5d8df6-69bc-4660-9c22-ca8d068819e6",
+   "name": "don_283",
+   "photoCount": 4,
+   "file": "1f5d8df6-69bc-4660-9c22-ca8d068819e6.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::21184ac0-98c1-43bf-94d6-830a38a6cf25",
+   "name": "don_74",
+   "photoCount": 4,
+   "file": "21184ac0-98c1-43bf-94d6-830a38a6cf25.webp",
+   "w": 480,
+   "h": 721,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::219e076b-b42d-43a9-9ff9-ebbd33e8e274",
+   "name": "don_22",
+   "photoCount": 3,
+   "file": "219e076b-b42d-43a9-9ff9-ebbd33e8e274.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::21bad221-5578-415f-86b5-f7ad1e7bf2cd",
+   "name": "don_180",
+   "photoCount": 7,
+   "file": "21bad221-5578-415f-86b5-f7ad1e7bf2cd.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::224cda9e-c205-4cbd-b400-c7c6ac43b4d1",
+   "name": "don_219",
+   "photoCount": 2,
+   "file": "224cda9e-c205-4cbd-b400-c7c6ac43b4d1.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::24bce195-0fae-46e3-bd47-90b874709932",
+   "name": "don_348",
+   "photoCount": 2,
+   "file": "24bce195-0fae-46e3-bd47-90b874709932.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::254884b4-6df2-4926-88f2-a0f2cebb6bd8",
+   "name": "don_63",
+   "photoCount": 1,
+   "file": "254884b4-6df2-4926-88f2-a0f2cebb6bd8.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2628d683-58e1-4114-b111-034a86d5026b",
+   "name": "don_157",
+   "photoCount": 2,
+   "file": "2628d683-58e1-4114-b111-034a86d5026b.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::266574ec-e529-4f2a-bc8b-01b38a050e88",
+   "name": "don_132",
+   "photoCount": 1,
+   "file": "266574ec-e529-4f2a-bc8b-01b38a050e88.webp",
+   "w": 480,
+   "h": 719,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2779f8ec-3276-40ea-83f9-8516e2a2d34f",
+   "name": "don_301",
+   "photoCount": 6,
+   "file": "2779f8ec-3276-40ea-83f9-8516e2a2d34f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2834e57b-1a53-412d-9ea5-7eeb7a4239ca",
+   "name": "don_356",
+   "photoCount": 7,
+   "file": "2834e57b-1a53-412d-9ea5-7eeb7a4239ca.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::29a7a963-4269-440c-a573-6c1829345752",
+   "name": "don_267",
+   "photoCount": 7,
+   "file": "29a7a963-4269-440c-a573-6c1829345752.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2b5420ae-88a1-4bd8-91da-a0bfa1962253",
+   "name": "don_123",
+   "photoCount": 1,
+   "file": "2b5420ae-88a1-4bd8-91da-a0bfa1962253.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2bdc2634-69a5-4509-8fab-88b135cdc11a",
+   "name": "don_9",
+   "photoCount": 2,
+   "file": "2bdc2634-69a5-4509-8fab-88b135cdc11a.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2c279799-a1ec-4af8-836a-682211de008b",
+   "name": "don_361",
+   "photoCount": 3,
+   "file": "2c279799-a1ec-4af8-836a-682211de008b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2cf28f20-8934-4c3a-af25-265ac997d6e0",
+   "name": "don_43",
+   "photoCount": 2,
+   "file": "2cf28f20-8934-4c3a-af25-265ac997d6e0.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2cf5651b-ee95-4336-a5e5-631da188535e",
+   "name": "don_91",
+   "photoCount": 1,
+   "file": "2cf5651b-ee95-4336-a5e5-631da188535e.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2d1f839a-63c4-4833-97af-a5a08b1e5f03",
+   "name": "DON_280",
+   "photoCount": 3,
+   "file": "2d1f839a-63c4-4833-97af-a5a08b1e5f03.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2d938df1-fa4a-4dcb-aed4-537facc56cb2",
+   "name": "don_302",
+   "photoCount": 6,
+   "file": "2d938df1-fa4a-4dcb-aed4-537facc56cb2.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2dea0278-10c3-4b20-91c9-6bc340259257",
+   "name": "don_173",
+   "photoCount": 7,
+   "file": "2dea0278-10c3-4b20-91c9-6bc340259257.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2e03eaeb-f555-4842-b194-599b9334f324",
+   "name": "don_75",
+   "photoCount": 4,
+   "file": "2e03eaeb-f555-4842-b194-599b9334f324.webp",
+   "w": 480,
+   "h": 721,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2e98a09d-73d9-4ad2-9d40-0fbb25d8476a",
+   "name": "don_343",
+   "photoCount": 4,
+   "file": "2e98a09d-73d9-4ad2-9d40-0fbb25d8476a.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2eb5748e-0163-4121-92d9-ea170fdf3fb7",
+   "name": "don_297",
+   "photoCount": 6,
+   "file": "2eb5748e-0163-4121-92d9-ea170fdf3fb7.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2f1564ee-a3c2-447e-9cb9-faccd0689b0c",
+   "name": "don_275",
+   "photoCount": 1,
+   "file": "2f1564ee-a3c2-447e-9cb9-faccd0689b0c.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2f86cb4c-a211-428d-a800-15b8b459436f",
+   "name": "don_206",
+   "photoCount": 2,
+   "file": "2f86cb4c-a211-428d-a800-15b8b459436f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::2fa25559-8c7f-434b-93a4-ddd965cdd0b3",
+   "name": "don_284",
+   "photoCount": 4,
+   "file": "2fa25559-8c7f-434b-93a4-ddd965cdd0b3.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::310a520a-f946-4a1e-8e72-192383762a0a",
+   "name": "don_324",
+   "photoCount": 4,
+   "file": "310a520a-f946-4a1e-8e72-192383762a0a.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::312c7a07-1a3c-49b0-a8a3-425a0d911ba2",
+   "name": "don_178",
+   "photoCount": 2,
+   "file": "312c7a07-1a3c-49b0-a8a3-425a0d911ba2.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::32dc55dc-1ee3-47a7-bd05-f845ed1619e0",
+   "name": "don_322",
+   "photoCount": 2,
+   "file": "32dc55dc-1ee3-47a7-bd05-f845ed1619e0.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::337196cb-9948-4af5-b65b-3b7237b56aec",
+   "name": "don_151",
+   "photoCount": 2,
+   "file": "337196cb-9948-4af5-b65b-3b7237b56aec.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::33a68700-78af-45a4-9c6b-d6cf1f3aed26",
+   "name": "don_84",
+   "photoCount": 5,
+   "file": "33a68700-78af-45a4-9c6b-d6cf1f3aed26.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::34345588-dffe-4338-9155-31df40adac3d",
+   "name": "don_49",
+   "photoCount": 1,
+   "file": "34345588-dffe-4338-9155-31df40adac3d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::344cf5dc-3f44-4886-9ccc-4b51f6f2023d",
+   "name": "don_253",
+   "photoCount": 1,
+   "file": "344cf5dc-3f44-4886-9ccc-4b51f6f2023d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::34dc5aeb-4c6d-46da-ac7e-6babd230b993",
+   "name": "don_185",
+   "photoCount": 3,
+   "file": "34dc5aeb-4c6d-46da-ac7e-6babd230b993.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::351ac8f0-7874-484b-b420-b72aa1773093",
+   "name": "donii_46",
+   "photoCount": 3,
+   "file": "351ac8f0-7874-484b-b420-b72aa1773093.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::36bcb0c1-715d-4632-b2bc-2464d8035c3a",
+   "name": "donii_44",
+   "photoCount": 3,
+   "file": "36bcb0c1-715d-4632-b2bc-2464d8035c3a.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::36c085b3-0a99-4ee4-aaa6-749b21e0306b",
+   "name": "don_175",
+   "photoCount": 2,
+   "file": "36c085b3-0a99-4ee4-aaa6-749b21e0306b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::377946f1-c64b-41e9-9e27-6c89fa17d492",
+   "name": "don_212",
+   "photoCount": 1,
+   "file": "377946f1-c64b-41e9-9e27-6c89fa17d492.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::37a39123-2cc8-475c-b486-fe829cac3c0b",
+   "name": "donii_30",
+   "photoCount": 4,
+   "file": "37a39123-2cc8-475c-b486-fe829cac3c0b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::3863d01b-d771-4641-9e48-3d6de63b19c9",
+   "name": "donii_3",
+   "photoCount": 4,
+   "file": "3863d01b-d771-4641-9e48-3d6de63b19c9.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::3a4b825b-2080-4512-a948-1a18e3b4a905",
+   "name": "don_335",
+   "photoCount": 2,
+   "file": "3a4b825b-2080-4512-a948-1a18e3b4a905.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::3add724b-9f3f-4460-b3d4-538ff5e5f88f",
+   "name": "don_120",
+   "photoCount": 3,
+   "file": "3add724b-9f3f-4460-b3d4-538ff5e5f88f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::3b4c6c40-180f-4896-94e2-d7b0a6533c80",
+   "name": "don_209",
+   "photoCount": 1,
+   "file": "3b4c6c40-180f-4896-94e2-d7b0a6533c80.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::3bbb661a-0c41-4eb8-ab2c-9e9c2b502fd5",
+   "name": "don_150",
+   "photoCount": 6,
+   "file": "3bbb661a-0c41-4eb8-ab2c-9e9c2b502fd5.webp",
+   "w": 480,
+   "h": 681,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::3be29897-bfb8-4605-9d47-d1a9d4a12334",
+   "name": "don_47",
+   "photoCount": 8,
+   "file": "3be29897-bfb8-4605-9d47-d1a9d4a12334.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::3c44896a-c944-4973-8d33-97d510b2f031",
+   "name": "don_287",
+   "photoCount": 2,
+   "file": "3c44896a-c944-4973-8d33-97d510b2f031.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::3c4908f6-8960-4c73-bf2d-84b7fb1c98c9",
+   "name": "don_124",
+   "photoCount": 1,
+   "file": "3c4908f6-8960-4c73-bf2d-84b7fb1c98c9.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::3d361b0f-7061-4963-89d1-1ab13c22a13c",
+   "name": "don_355",
+   "photoCount": 9,
+   "file": "3d361b0f-7061-4963-89d1-1ab13c22a13c.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::3d430ce7-c35c-4d34-b051-627a2b857ebb",
+   "name": "don_339",
+   "photoCount": 3,
+   "file": "3d430ce7-c35c-4d34-b051-627a2b857ebb.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::3d4d9e95-b985-437d-9aca-7fa0ba4a728e",
+   "name": "don_257",
+   "photoCount": 2,
+   "file": "3d4d9e95-b985-437d-9aca-7fa0ba4a728e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::3de0081b-1c3c-4074-b8cc-b5238cbc9a38",
+   "name": "don_172",
+   "photoCount": 3,
+   "file": "3de0081b-1c3c-4074-b8cc-b5238cbc9a38.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::3e1123f4-a837-4da2-bdb8-38a3e32538a2",
+   "name": "don_285",
+   "photoCount": 1,
+   "file": "3e1123f4-a837-4da2-bdb8-38a3e32538a2.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::3e4ada72-f9f9-4eee-b563-0289ed5adf57",
+   "name": "don_278",
+   "photoCount": 5,
+   "file": "3e4ada72-f9f9-4eee-b563-0289ed5adf57.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::3ebb3809-4439-41fb-a184-3b9a3acceec1",
+   "name": "don_73",
+   "photoCount": 3,
+   "file": "3ebb3809-4439-41fb-a184-3b9a3acceec1.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::40e71583-4a96-4d4e-aa08-11cfe6639c13",
+   "name": "don_51",
+   "photoCount": 1,
+   "file": "40e71583-4a96-4d4e-aa08-11cfe6639c13.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::410136a6-8bc2-4fcc-b94a-b9bd293c6b42",
+   "name": "don_227",
+   "photoCount": 4,
+   "file": "410136a6-8bc2-4fcc-b94a-b9bd293c6b42.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::41047e55-bdfa-4154-9e00-eb32082431d3",
+   "name": "don_147",
+   "photoCount": 2,
+   "file": "41047e55-bdfa-4154-9e00-eb32082431d3.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4288df1a-1c21-4ba9-984f-539bc390393c",
+   "name": "don_170",
+   "photoCount": 3,
+   "file": "4288df1a-1c21-4ba9-984f-539bc390393c.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::43044c15-d939-4ad2-bcb3-afda9335e07d",
+   "name": "don_1",
+   "photoCount": 4,
+   "file": "43044c15-d939-4ad2-bcb3-afda9335e07d.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::43145412-520b-4d36-9f3e-a1bb1d2748f5",
+   "name": "don_130",
+   "photoCount": 4,
+   "file": "43145412-520b-4d36-9f3e-a1bb1d2748f5.webp",
+   "w": 480,
+   "h": 688,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4407198a-eafc-485b-a84e-1e1ace4fcf11",
+   "name": "don_66",
+   "photoCount": 1,
+   "file": "4407198a-eafc-485b-a84e-1e1ace4fcf11.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::44a0b0f0-206c-4d7c-bb51-4f3c73dcabf5",
+   "name": "donii_32",
+   "photoCount": 6,
+   "file": "44a0b0f0-206c-4d7c-bb51-4f3c73dcabf5.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::450d82ff-831c-4238-bbdf-03c52aae9f59",
+   "name": "don_62",
+   "photoCount": 2,
+   "file": "450d82ff-831c-4238-bbdf-03c52aae9f59.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::45196f97-b594-4dcd-bd52-efbc6ad7199f",
+   "name": "donii_29",
+   "photoCount": 2,
+   "file": "45196f97-b594-4dcd-bd52-efbc6ad7199f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4521f0db-d17d-431f-b86d-c5f9656559a6",
+   "name": "don_61",
+   "photoCount": 1,
+   "file": "4521f0db-d17d-431f-b86d-c5f9656559a6.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::455a20a7-d7f0-41fb-a123-666e56a29258",
+   "name": "don_349",
+   "photoCount": 1,
+   "file": "455a20a7-d7f0-41fb-a123-666e56a29258.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::458650f2-eadb-4aa1-9030-49119ce695d0",
+   "name": "don_96",
+   "photoCount": 3,
+   "file": "458650f2-eadb-4aa1-9030-49119ce695d0.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::490ca428-e5d7-4032-adad-e8e4f862ff62",
+   "name": "don_333",
+   "photoCount": 5,
+   "file": "490ca428-e5d7-4032-adad-e8e4f862ff62.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4926a895-c1cb-4acc-a791-2f4ad010ec56",
+   "name": "don_109",
+   "photoCount": 4,
+   "file": "4926a895-c1cb-4acc-a791-2f4ad010ec56.webp",
+   "w": 480,
+   "h": 721,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::497003e4-2b21-4f16-a995-f847343ca6fc",
+   "name": "don_235",
+   "photoCount": 4,
+   "file": "497003e4-2b21-4f16-a995-f847343ca6fc.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4990e70f-5ba8-44e3-bddc-765e857ed26c",
+   "name": "don_220",
+   "photoCount": 6,
+   "file": "4990e70f-5ba8-44e3-bddc-765e857ed26c.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4a1510e3-46e8-4163-9f6c-1ce03965703d",
+   "name": "donii_34",
+   "photoCount": 3,
+   "file": "4a1510e3-46e8-4163-9f6c-1ce03965703d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4a82fc20-a715-427f-991e-691bd0b39e8b",
+   "name": "don_216",
+   "photoCount": 3,
+   "file": "4a82fc20-a715-427f-991e-691bd0b39e8b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4aacaafe-617c-42fe-8e73-a07830a84dac",
+   "name": "don_281",
+   "photoCount": 2,
+   "file": "4aacaafe-617c-42fe-8e73-a07830a84dac.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4c26a5a5-f677-4436-b241-9fd28a83a9ce",
+   "name": "don_12",
+   "photoCount": 3,
+   "file": "4c26a5a5-f677-4436-b241-9fd28a83a9ce.webp",
+   "w": 480,
+   "h": 601,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4ca9a4a8-2bb9-45ca-b500-adaadde679f7",
+   "name": "don_90",
+   "photoCount": 3,
+   "file": "4ca9a4a8-2bb9-45ca-b500-adaadde679f7.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4cd41112-b150-4e43-88cf-36a2da2dd87b",
+   "name": "don_292",
+   "photoCount": 5,
+   "file": "4cd41112-b150-4e43-88cf-36a2da2dd87b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4d9bd928-3854-4b0b-8279-b71feb9973c4",
+   "name": "don_29",
+   "photoCount": 5,
+   "file": "4d9bd928-3854-4b0b-8279-b71feb9973c4.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4dba2a52-cdee-46fb-8336-8358e90ded9d",
+   "name": "don_365",
+   "photoCount": 2,
+   "file": "4dba2a52-cdee-46fb-8336-8358e90ded9d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4de81ab2-800f-47f3-a552-e8025390c0db",
+   "name": "don_344",
+   "photoCount": 4,
+   "file": "4de81ab2-800f-47f3-a552-e8025390c0db.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4ecbc1ff-6b40-4183-a5a0-15eef70d9a10",
+   "name": "don_191",
+   "photoCount": 2,
+   "file": "4ecbc1ff-6b40-4183-a5a0-15eef70d9a10.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4f946197-ec48-4fc6-9713-f2464b84ad1d",
+   "name": "don_241",
+   "photoCount": 7,
+   "file": "4f946197-ec48-4fc6-9713-f2464b84ad1d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4fda4efe-0adc-4b78-bc31-ba849d674a0c",
+   "name": "don_363",
+   "photoCount": 8,
+   "file": "4fda4efe-0adc-4b78-bc31-ba849d674a0c.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::4ff9f224-11d1-4e88-91ab-dd3647785e3f",
+   "name": "donii_31",
+   "photoCount": 4,
+   "file": "4ff9f224-11d1-4e88-91ab-dd3647785e3f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::50c28c6e-09b6-411e-b7d3-53fa30f90a51",
+   "name": "don_289",
+   "photoCount": 5,
+   "file": "50c28c6e-09b6-411e-b7d3-53fa30f90a51.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::50d4b62f-3281-47f7-b8e9-c0b7ff96663b",
+   "name": "don_145",
+   "photoCount": 1,
+   "file": "50d4b62f-3281-47f7-b8e9-c0b7ff96663b.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::510cdc9b-4fee-4a05-9669-3cac99e73752",
+   "name": "don_247",
+   "photoCount": 3,
+   "file": "510cdc9b-4fee-4a05-9669-3cac99e73752.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::511d2652-7c79-4215-a60a-6f5bf3b043bc",
+   "name": "don_102",
+   "photoCount": 2,
+   "file": "511d2652-7c79-4215-a60a-6f5bf3b043bc.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::512ba892-236c-49db-8d6f-c56f0f575a43",
+   "name": "don_207",
+   "photoCount": 3,
+   "file": "512ba892-236c-49db-8d6f-c56f0f575a43.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::515f170f-3266-446e-a02f-0162e3dd9cad",
+   "name": "don_78",
+   "photoCount": 2,
+   "file": "515f170f-3266-446e-a02f-0162e3dd9cad.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::51b6c6c9-da4b-42dd-b09f-1d326114e1e4",
+   "name": "don_298",
+   "photoCount": 4,
+   "file": "51b6c6c9-da4b-42dd-b09f-1d326114e1e4.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::51c4a400-b40d-48b9-9ef1-a7f8aa379d1e",
+   "name": "don_315",
+   "photoCount": 6,
+   "file": "51c4a400-b40d-48b9-9ef1-a7f8aa379d1e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::542fa5c1-ce90-4fd7-9da6-3e7c63a808c5",
+   "name": "donii_35",
+   "photoCount": 4,
+   "file": "542fa5c1-ce90-4fd7-9da6-3e7c63a808c5.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::5472bf70-404f-49a9-ad7d-2886c351975e",
+   "name": "don_336",
+   "photoCount": 2,
+   "file": "5472bf70-404f-49a9-ad7d-2886c351975e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::550c8cdd-dff4-4f01-85cb-796a8a5a6652",
+   "name": "don_229",
+   "photoCount": 6,
+   "file": "550c8cdd-dff4-4f01-85cb-796a8a5a6652.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::554b298d-4acd-462b-b063-b8cb775c56a6",
+   "name": "don_152",
+   "photoCount": 5,
+   "file": "554b298d-4acd-462b-b063-b8cb775c56a6.webp",
+   "w": 480,
+   "h": 683,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::55df634c-680c-4fe0-9eee-8eb58f56cd40",
+   "name": "don_245",
+   "photoCount": 6,
+   "file": "55df634c-680c-4fe0-9eee-8eb58f56cd40.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::56137729-d301-482e-bebf-93c2c770beef",
+   "name": "don_236",
+   "photoCount": 2,
+   "file": "56137729-d301-482e-bebf-93c2c770beef.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::5636cc91-6c2a-490b-8350-ca1164149e02",
+   "name": "don_60",
+   "photoCount": 4,
+   "file": "5636cc91-6c2a-490b-8350-ca1164149e02.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::566d203b-e223-4b1b-8905-33fb1584760e",
+   "name": "don_217",
+   "photoCount": 4,
+   "file": "566d203b-e223-4b1b-8905-33fb1584760e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::567703a0-9b7f-4e03-a137-c2e3df184cfd",
+   "name": "donii_7",
+   "photoCount": 4,
+   "file": "567703a0-9b7f-4e03-a137-c2e3df184cfd.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::56d79243-1a64-4fcf-b64d-a656af4cee5d",
+   "name": "don_221",
+   "photoCount": 3,
+   "file": "56d79243-1a64-4fcf-b64d-a656af4cee5d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::57a8eb7a-7a10-46fc-aa8d-7142583d5682",
+   "name": "donii_15",
+   "photoCount": 4,
+   "file": "57a8eb7a-7a10-46fc-aa8d-7142583d5682.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::57ea2046-0d3d-419a-b5b7-541b691d5fa7",
+   "name": "don_213",
+   "photoCount": 1,
+   "file": "57ea2046-0d3d-419a-b5b7-541b691d5fa7.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::58066c6e-fdd9-4369-a19e-72bba6f78130",
+   "name": "don_26",
+   "photoCount": 1,
+   "file": "58066c6e-fdd9-4369-a19e-72bba6f78130.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::584349e3-a30d-47b3-b042-6e1dffcde16e",
+   "name": "don_4",
+   "photoCount": 2,
+   "file": "584349e3-a30d-47b3-b042-6e1dffcde16e.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::589c055b-384a-4f41-af15-4d8912bec387",
+   "name": "don_146",
+   "photoCount": 2,
+   "file": "589c055b-384a-4f41-af15-4d8912bec387.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::58c2fd91-e1a5-44b3-8301-c80139778f6d",
+   "name": "donii_20",
+   "photoCount": 3,
+   "file": "58c2fd91-e1a5-44b3-8301-c80139778f6d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::58dce827-022f-4eaa-b4d4-7eb6ac4d50df",
+   "name": "donii_6",
+   "photoCount": 4,
+   "file": "58dce827-022f-4eaa-b4d4-7eb6ac4d50df.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::593cffe9-9431-4fc2-8bf8-37850489b6a2",
+   "name": "don_179",
+   "photoCount": 3,
+   "file": "593cffe9-9431-4fc2-8bf8-37850489b6a2.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::5a7d1667-04d3-4d4b-a4a2-fd1b35bdd735",
+   "name": "don_87",
+   "photoCount": 2,
+   "file": "5a7d1667-04d3-4d4b-a4a2-fd1b35bdd735.webp",
+   "w": 480,
+   "h": 687,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::5ac76a18-173c-49af-a393-01b35896a64b",
+   "name": "don_196",
+   "photoCount": 6,
+   "file": "5ac76a18-173c-49af-a393-01b35896a64b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::5b2de662-0fcc-4cc6-a6ec-b8696f8f95d5",
+   "name": "don_8",
+   "photoCount": 5,
+   "file": "5b2de662-0fcc-4cc6-a6ec-b8696f8f95d5.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::5b9fc59f-1aaf-4620-8894-adffb31cbdad",
+   "name": "don_148",
+   "photoCount": 3,
+   "file": "5b9fc59f-1aaf-4620-8894-adffb31cbdad.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::5bbbe2e6-c60c-437b-8cc8-0004e40af6bb",
+   "name": "don_334",
+   "photoCount": 1,
+   "file": "5bbbe2e6-c60c-437b-8cc8-0004e40af6bb.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::5c30a98c-7aa1-4156-8a85-66b82523d9d4",
+   "name": "don_230",
+   "photoCount": 7,
+   "file": "5c30a98c-7aa1-4156-8a85-66b82523d9d4.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::5d121f5e-81d2-4b70-b440-e4f97a141b8a",
+   "name": "don_71",
+   "photoCount": 2,
+   "file": "5d121f5e-81d2-4b70-b440-e4f97a141b8a.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::5fe5350e-a8ee-45d7-9c7b-76020438ef57",
+   "name": "donii_27",
+   "photoCount": 3,
+   "file": "5fe5350e-a8ee-45d7-9c7b-76020438ef57.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::602a409d-cafe-47bb-a309-3af199be38d6",
+   "name": "don_288",
+   "photoCount": 1,
+   "file": "602a409d-cafe-47bb-a309-3af199be38d6.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::615f3c65-0133-47cc-98cb-8399d12ce3e3",
+   "name": "don_107",
+   "photoCount": 3,
+   "file": "615f3c65-0133-47cc-98cb-8399d12ce3e3.webp",
+   "w": 480,
+   "h": 725,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::620213b9-d57a-46c4-9979-1cace88b6c09",
+   "name": "don_81",
+   "photoCount": 3,
+   "file": "620213b9-d57a-46c4-9979-1cace88b6c09.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::62b828af-bddf-43a0-905a-cbc44e372286",
+   "name": "don_76",
+   "photoCount": 2,
+   "file": "62b828af-bddf-43a0-905a-cbc44e372286.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::62d648d3-4873-42e4-a1e9-8fd8a4936d63",
+   "name": "don_181",
+   "photoCount": 8,
+   "file": "62d648d3-4873-42e4-a1e9-8fd8a4936d63.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::62e55e93-61d0-43ec-ac62-b282e6ade30e",
+   "name": "don_367",
+   "photoCount": 2,
+   "file": "62e55e93-61d0-43ec-ac62-b282e6ade30e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::642b4fad-8c55-4ac8-84af-b605f53792b0",
+   "name": "don_37",
+   "photoCount": 2,
+   "file": "642b4fad-8c55-4ac8-84af-b605f53792b0.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::6487cc48-593e-4bfa-a6b1-93361bf4d84b",
+   "name": "don_294",
+   "photoCount": 6,
+   "file": "6487cc48-593e-4bfa-a6b1-93361bf4d84b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::64bc7a7a-f132-40d4-b239-79707486b5c0",
+   "name": "don_68",
+   "photoCount": 2,
+   "file": "64bc7a7a-f132-40d4-b239-79707486b5c0.webp",
+   "w": 480,
+   "h": 594,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::64e3dfb4-a137-492a-ba2d-38a3d4934c6b",
+   "name": "don_186",
+   "photoCount": 2,
+   "file": "64e3dfb4-a137-492a-ba2d-38a3d4934c6b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::64e46970-f4f9-4674-92b4-91d4bc79dc66",
+   "name": "don_106",
+   "photoCount": 4,
+   "file": "64e46970-f4f9-4674-92b4-91d4bc79dc66.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::65724026-17ab-4741-98ac-de3fae05f470",
+   "name": "don_136",
+   "photoCount": 2,
+   "file": "65724026-17ab-4741-98ac-de3fae05f470.webp",
+   "w": 480,
+   "h": 719,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::66cb2c45-f978-403c-b78d-68d0a1dcce1b",
+   "name": "don_332",
+   "photoCount": 5,
+   "file": "66cb2c45-f978-403c-b78d-68d0a1dcce1b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::6712c853-04cb-46e6-a960-fbfc537473ad",
+   "name": "don_273",
+   "photoCount": 1,
+   "file": "6712c853-04cb-46e6-a960-fbfc537473ad.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::674ba434-8801-4473-8d42-043e4b5ddd60",
+   "name": "don_112",
+   "photoCount": 4,
+   "file": "674ba434-8801-4473-8d42-043e4b5ddd60.webp",
+   "w": 480,
+   "h": 721,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::676f4d40-9dfb-4151-b61c-8ba8b859f899",
+   "name": "donii_33",
+   "photoCount": 6,
+   "file": "676f4d40-9dfb-4151-b61c-8ba8b859f899.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::679ef9c5-df5a-4a1e-b5c9-41adf8162e62",
+   "name": "don_45",
+   "photoCount": 1,
+   "file": "679ef9c5-df5a-4a1e-b5c9-41adf8162e62.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::67d4e0ee-2a08-4b11-a6fc-7ab04684ca43",
+   "name": "don_347",
+   "photoCount": 5,
+   "file": "67d4e0ee-2a08-4b11-a6fc-7ab04684ca43.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::68a5e24e-ecd5-4ad2-a6bb-15a9bbcdbdc8",
+   "name": "don_162",
+   "photoCount": 3,
+   "file": "68a5e24e-ecd5-4ad2-a6bb-15a9bbcdbdc8.webp",
+   "w": 480,
+   "h": 692,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::69323b0f-9df7-4f95-84b3-6712662c037d",
+   "name": "donii_10",
+   "photoCount": 3,
+   "file": "69323b0f-9df7-4f95-84b3-6712662c037d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::6a7999c2-a93c-41b9-aa9c-6c0c3f20b4fb",
+   "name": "don_276",
+   "photoCount": 6,
+   "file": "6a7999c2-a93c-41b9-aa9c-6c0c3f20b4fb.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::6b876965-5312-45ae-a87b-fd25a24b5d05",
+   "name": "donii_8",
+   "photoCount": 5,
+   "file": "6b876965-5312-45ae-a87b-fd25a24b5d05.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::6c950db2-b8ad-4d08-b6fe-02a6506ab36f",
+   "name": "don_163",
+   "photoCount": 4,
+   "file": "6c950db2-b8ad-4d08-b6fe-02a6506ab36f.webp",
+   "w": 480,
+   "h": 692,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::6cf5bf36-7c51-4668-adb2-8f8e1de15373",
+   "name": "DON_323",
+   "photoCount": 2,
+   "file": "6cf5bf36-7c51-4668-adb2-8f8e1de15373.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::6d2455ea-00a7-4021-91b6-49049690e3cf",
+   "name": "don_50",
+   "photoCount": 1,
+   "file": "6d2455ea-00a7-4021-91b6-49049690e3cf.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::6da48349-e37e-45aa-a3ab-628b10f82bca",
+   "name": "don_201",
+   "photoCount": 1,
+   "file": "6da48349-e37e-45aa-a3ab-628b10f82bca.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::6f2851cd-8cd1-4f86-b5f1-181cb9586412",
+   "name": "don_210",
+   "photoCount": 4,
+   "file": "6f2851cd-8cd1-4f86-b5f1-181cb9586412.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::70025e40-57cd-4119-be1b-73994c68c831",
+   "name": "don_182",
+   "photoCount": 4,
+   "file": "70025e40-57cd-4119-be1b-73994c68c831.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::709a3f6d-0df8-47d6-854e-5a75e2dc6afb",
+   "name": "don_122",
+   "photoCount": 9,
+   "file": "709a3f6d-0df8-47d6-854e-5a75e2dc6afb.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::70b3c6dc-23a6-4830-8339-06022e295a7e",
+   "name": "don_263",
+   "photoCount": 4,
+   "file": "70b3c6dc-23a6-4830-8339-06022e295a7e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::71d6fc3d-e6da-43bd-bdbf-08d6be80a685",
+   "name": "don_254",
+   "photoCount": 4,
+   "file": "71d6fc3d-e6da-43bd-bdbf-08d6be80a685.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::724aecb8-34a2-4cd4-9b62-ed136cf9e7d6",
+   "name": "donii_45",
+   "photoCount": 3,
+   "file": "724aecb8-34a2-4cd4-9b62-ed136cf9e7d6.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::74868fbf-7311-4c61-b19c-7a3c57c3bffc",
+   "name": "don_194",
+   "photoCount": 4,
+   "file": "74868fbf-7311-4c61-b19c-7a3c57c3bffc.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::75283b0e-8dce-411f-83f3-f9af513313e3",
+   "name": "donii_11",
+   "photoCount": 3,
+   "file": "75283b0e-8dce-411f-83f3-f9af513313e3.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::7584b53e-8124-4a84-9c67-9d8168ece5fa",
+   "name": "don_115",
+   "photoCount": 10,
+   "file": "7584b53e-8124-4a84-9c67-9d8168ece5fa.webp",
+   "w": 480,
+   "h": 697,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::75bcc693-4e22-4458-a135-ba1e21f96a5f",
+   "name": "don_309",
+   "photoCount": 3,
+   "file": "75bcc693-4e22-4458-a135-ba1e21f96a5f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::760dc044-1ef6-42c6-98f1-e2b9a6038f88",
+   "name": "don_202",
+   "photoCount": 3,
+   "file": "760dc044-1ef6-42c6-98f1-e2b9a6038f88.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::76920da5-3d15-43ec-91bb-679f422e0a44",
+   "name": "don_94",
+   "photoCount": 2,
+   "file": "76920da5-3d15-43ec-91bb-679f422e0a44.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::77be7d0a-fe2e-46f0-bbaa-413938b8ae4a",
+   "name": "don_17",
+   "photoCount": 1,
+   "file": "77be7d0a-fe2e-46f0-bbaa-413938b8ae4a.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::792fc64f-081c-41c8-9dfe-0a2351ce7212",
+   "name": "don_262",
+   "photoCount": 2,
+   "file": "792fc64f-081c-41c8-9dfe-0a2351ce7212.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::799875b7-e846-40dd-9691-ca86d87236a1",
+   "name": "don_39",
+   "photoCount": 2,
+   "file": "799875b7-e846-40dd-9691-ca86d87236a1.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::7a5f91e3-f946-43be-962c-d1a91dbf5933",
+   "name": "don_341",
+   "photoCount": 4,
+   "file": "7a5f91e3-f946-43be-962c-d1a91dbf5933.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::7ad7e212-2384-46e6-859b-1a21fe7f4441",
+   "name": "don_218",
+   "photoCount": 3,
+   "file": "7ad7e212-2384-46e6-859b-1a21fe7f4441.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::7c2b36be-4e93-4fdb-a2d0-3e9b26e16b8b",
+   "name": "don_168",
+   "photoCount": 4,
+   "file": "7c2b36be-4e93-4fdb-a2d0-3e9b26e16b8b.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::7c58706c-79d3-4d99-bfee-0d2bc97e425e",
+   "name": "don_183",
+   "photoCount": 9,
+   "file": "7c58706c-79d3-4d99-bfee-0d2bc97e425e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::7c9a2e3d-e996-4b2d-b95a-aed96ba3c830",
+   "name": "donii_1",
+   "photoCount": 6,
+   "file": "7c9a2e3d-e996-4b2d-b95a-aed96ba3c830.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::7e0240fc-6ef5-408f-9633-14400049db77",
+   "name": "don_264",
+   "photoCount": 4,
+   "file": "7e0240fc-6ef5-408f-9633-14400049db77.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::7e127088-e896-4f9d-965e-5f3878184afd",
+   "name": "don_359",
+   "photoCount": 6,
+   "file": "7e127088-e896-4f9d-965e-5f3878184afd.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::7e1b32f7-00e6-4877-8247-d0055d78613c",
+   "name": "donii_9",
+   "photoCount": 6,
+   "file": "7e1b32f7-00e6-4877-8247-d0055d78613c.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::7e7b65ef-8870-40f2-8b56-37a50b268878",
+   "name": "don_312",
+   "photoCount": 7,
+   "file": "7e7b65ef-8870-40f2-8b56-37a50b268878.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::7ecd05df-4ddf-4199-9cfb-d15f55f70382",
+   "name": "don_119",
+   "photoCount": 8,
+   "file": "7ecd05df-4ddf-4199-9cfb-d15f55f70382.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::80281a4b-4264-4303-b16c-3a18f2752594",
+   "name": "don_311",
+   "photoCount": 2,
+   "file": "80281a4b-4264-4303-b16c-3a18f2752594.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::80b24463-8c86-46e1-a626-b20532b91805",
+   "name": "don_214",
+   "photoCount": 4,
+   "file": "80b24463-8c86-46e1-a626-b20532b91805.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::814e44a0-b999-480e-8fc4-4ec75934e3f3",
+   "name": "don_27",
+   "photoCount": 2,
+   "file": "814e44a0-b999-480e-8fc4-4ec75934e3f3.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::81e4803e-8336-4072-9d10-70500889b26a",
+   "name": "donii_37",
+   "photoCount": 3,
+   "file": "81e4803e-8336-4072-9d10-70500889b26a.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::83231b25-7a7b-4c78-b0c4-743a95e11cc3",
+   "name": "don_41",
+   "photoCount": 4,
+   "file": "83231b25-7a7b-4c78-b0c4-743a95e11cc3.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::83479d11-c597-428c-8cd4-4213c1fc6336",
+   "name": "don_34",
+   "photoCount": 2,
+   "file": "83479d11-c597-428c-8cd4-4213c1fc6336.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::8577ea60-1d7e-47ee-9658-0d6721327930",
+   "name": "don_23",
+   "photoCount": 1,
+   "file": "8577ea60-1d7e-47ee-9658-0d6721327930.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::857c3b22-361a-46d9-9b96-e10308287112",
+   "name": "don_345",
+   "photoCount": 4,
+   "file": "857c3b22-361a-46d9-9b96-e10308287112.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::8637b112-6518-4950-9979-9fb1c3b2b0b3",
+   "name": "don_305",
+   "photoCount": 3,
+   "file": "8637b112-6518-4950-9979-9fb1c3b2b0b3.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::865fcda1-990d-45c3-9339-8c4ea83dbf12",
+   "name": "don_304",
+   "photoCount": 2,
+   "file": "865fcda1-990d-45c3-9339-8c4ea83dbf12.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::86be6720-3d71-46fb-b77c-138b55c4169d",
+   "name": "don_16",
+   "photoCount": 1,
+   "file": "86be6720-3d71-46fb-b77c-138b55c4169d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::88760ecf-9208-4441-9f8c-b7a79ab9e6ca",
+   "name": "donii_17",
+   "photoCount": 4,
+   "file": "88760ecf-9208-4441-9f8c-b7a79ab9e6ca.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::88f75ac2-47f6-4ed0-b03c-4c3628982dd4",
+   "name": "don_331",
+   "photoCount": 3,
+   "file": "88f75ac2-47f6-4ed0-b03c-4c3628982dd4.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::89704f44-804b-421e-a5bb-42a38810f434",
+   "name": "don_24",
+   "photoCount": 4,
+   "file": "89704f44-804b-421e-a5bb-42a38810f434.webp",
+   "w": 480,
+   "h": 753,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::8a19d376-20e0-4271-99f7-1bb3d52ef2de",
+   "name": "don_250",
+   "photoCount": 2,
+   "file": "8a19d376-20e0-4271-99f7-1bb3d52ef2de.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::8a1d89ce-3452-470a-b4c2-ca80ce1ee75b",
+   "name": "don_354",
+   "photoCount": 5,
+   "file": "8a1d89ce-3452-470a-b4c2-ca80ce1ee75b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::8a458558-1f1f-4350-93a1-14d3e94e2882",
+   "name": "don_48",
+   "photoCount": 1,
+   "file": "8a458558-1f1f-4350-93a1-14d3e94e2882.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::8c378ffa-9238-4278-b31d-de63a9387257",
+   "name": "don_291",
+   "photoCount": 1,
+   "file": "8c378ffa-9238-4278-b31d-de63a9387257.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::8cf953f6-3eb6-4f1c-9fa6-48d3be7be62b",
+   "name": "don_240",
+   "photoCount": 6,
+   "file": "8cf953f6-3eb6-4f1c-9fa6-48d3be7be62b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::8e30ad21-bd76-422f-ab84-127afcddd11d",
+   "name": "don_165",
+   "photoCount": 2,
+   "file": "8e30ad21-bd76-422f-ab84-127afcddd11d.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::8e5e21b4-8f93-40bb-813d-8aa3b63504a8",
+   "name": "don_108",
+   "photoCount": 3,
+   "file": "8e5e21b4-8f93-40bb-813d-8aa3b63504a8.webp",
+   "w": 480,
+   "h": 701,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::8f69cc0a-e1c7-4532-a197-8fbaf9a538b4",
+   "name": "don_149",
+   "photoCount": 5,
+   "file": "8f69cc0a-e1c7-4532-a197-8fbaf9a538b4.webp",
+   "w": 480,
+   "h": 681,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::8fa83f96-03ad-4dd7-b4ff-0d89eba46423",
+   "name": "don_256",
+   "photoCount": 5,
+   "file": "8fa83f96-03ad-4dd7-b4ff-0d89eba46423.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::9056831a-eca2-4fdc-bba3-95f57b5c054e",
+   "name": "don_234",
+   "photoCount": 3,
+   "file": "9056831a-eca2-4fdc-bba3-95f57b5c054e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::90574a2e-37df-4eec-9709-ce676b6a0219",
+   "name": "donii_41",
+   "photoCount": 4,
+   "file": "90574a2e-37df-4eec-9709-ce676b6a0219.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::90ad49c1-d3dd-4d3a-9b87-c1f088291ca2",
+   "name": "don_340",
+   "photoCount": 4,
+   "file": "90ad49c1-d3dd-4d3a-9b87-c1f088291ca2.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::914e714d-517b-4827-8864-85e119042c06",
+   "name": "don_251",
+   "photoCount": 4,
+   "file": "914e714d-517b-4827-8864-85e119042c06.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::915efcc2-d882-4021-9820-7921f15fb87f",
+   "name": "don_269",
+   "photoCount": 6,
+   "file": "915efcc2-d882-4021-9820-7921f15fb87f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::9166c4d4-ee0d-4fbc-a60d-bfcc35470fb6",
+   "name": "don_155",
+   "photoCount": 2,
+   "file": "9166c4d4-ee0d-4fbc-a60d-bfcc35470fb6.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::91a20019-4820-4b46-80ef-ad4633242a0d",
+   "name": "don_366",
+   "photoCount": 4,
+   "file": "91a20019-4820-4b46-80ef-ad4633242a0d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::91f92044-216b-460a-97ef-cca53c426adb",
+   "name": "don_95",
+   "photoCount": 2,
+   "file": "91f92044-216b-460a-97ef-cca53c426adb.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::920deebd-ab09-4408-b183-99519feb3d15",
+   "name": "don_192",
+   "photoCount": 5,
+   "file": "920deebd-ab09-4408-b183-99519feb3d15.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::92b68abc-682a-4fa3-89c6-b9468241bc21",
+   "name": "don_326",
+   "photoCount": 5,
+   "file": "92b68abc-682a-4fa3-89c6-b9468241bc21.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::931890ba-ca1b-4960-9f1b-c72212a37351",
+   "name": "don_248",
+   "photoCount": 4,
+   "file": "931890ba-ca1b-4960-9f1b-c72212a37351.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::9319783e-5142-4dc1-a0af-3dad574b6550",
+   "name": "don_20",
+   "photoCount": 2,
+   "file": "9319783e-5142-4dc1-a0af-3dad574b6550.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::93e4b565-bd6b-4446-a8a6-fc4cd6b6f9bd",
+   "name": "don_99",
+   "photoCount": 5,
+   "file": "93e4b565-bd6b-4446-a8a6-fc4cd6b6f9bd.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::944594cb-df39-44d6-8018-b644444f5d2a",
+   "name": "don_189",
+   "photoCount": 4,
+   "file": "944594cb-df39-44d6-8018-b644444f5d2a.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::94c18f6c-159e-46cd-be52-262db1669f97",
+   "name": "don_93",
+   "photoCount": 4,
+   "file": "94c18f6c-159e-46cd-be52-262db1669f97.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::94f37e7d-f799-4663-b4b6-8ce1ac1fb4cb",
+   "name": "don_7",
+   "photoCount": 3,
+   "file": "94f37e7d-f799-4663-b4b6-8ce1ac1fb4cb.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::953fe574-d23b-4981-a063-1691135bfe1a",
+   "name": "don_129",
+   "photoCount": 1,
+   "file": "953fe574-d23b-4981-a063-1691135bfe1a.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::958a9ff6-ab5a-4bb6-8ee6-9caa5f7323ba",
+   "name": "don_138",
+   "photoCount": 2,
+   "file": "958a9ff6-ab5a-4bb6-8ee6-9caa5f7323ba.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::95a9aba8-ffb1-4eb4-af00-0f0bd4f5579e",
+   "name": "don_300",
+   "photoCount": 5,
+   "file": "95a9aba8-ffb1-4eb4-af00-0f0bd4f5579e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::95ad68f6-fbfc-4b11-9233-aabbe0f0f126",
+   "name": "don_56",
+   "photoCount": 2,
+   "file": "95ad68f6-fbfc-4b11-9233-aabbe0f0f126.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::9607ce9f-0125-45d3-bb2e-be2471494fc3",
+   "name": "donii_13",
+   "photoCount": 6,
+   "file": "9607ce9f-0125-45d3-bb2e-be2471494fc3.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::965fff7a-cb05-4786-af8b-8da9230c20bf",
+   "name": "don_271",
+   "photoCount": 2,
+   "file": "965fff7a-cb05-4786-af8b-8da9230c20bf.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::968f060a-8294-4d3d-bbae-45f1f5bf904a",
+   "name": "don_268",
+   "photoCount": 1,
+   "file": "968f060a-8294-4d3d-bbae-45f1f5bf904a.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::9697ce6b-cb77-48dc-8a35-cf9b63004514",
+   "name": "don_70",
+   "photoCount": 3,
+   "file": "9697ce6b-cb77-48dc-8a35-cf9b63004514.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::96c3a6cc-5fe6-4c5b-8290-7de39fd853ca",
+   "name": "don_325",
+   "photoCount": 3,
+   "file": "96c3a6cc-5fe6-4c5b-8290-7de39fd853ca.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::976d1caa-c3bb-4c37-97aa-c0c209d641e8",
+   "name": "don_11",
+   "photoCount": 3,
+   "file": "976d1caa-c3bb-4c37-97aa-c0c209d641e8.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::9828fcf5-8a35-4222-84e8-3b20b4345385",
+   "name": "don_154",
+   "photoCount": 3,
+   "file": "9828fcf5-8a35-4222-84e8-3b20b4345385.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::985ea7c0-d304-496e-ae89-df18a25d49b6",
+   "name": "donii_19",
+   "photoCount": 3,
+   "file": "985ea7c0-d304-496e-ae89-df18a25d49b6.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::9896f79b-df8d-4b57-8c40-1375f805b423",
+   "name": "don_153",
+   "photoCount": 3,
+   "file": "9896f79b-df8d-4b57-8c40-1375f805b423.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::98b6cda2-d475-40f3-a7e3-acc1fb0324c6",
+   "name": "don_369",
+   "photoCount": 3,
+   "file": "98b6cda2-d475-40f3-a7e3-acc1fb0324c6.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::996e72d8-6d2f-448d-b35b-30ca4ab5d939",
+   "name": "don_105",
+   "photoCount": 3,
+   "file": "996e72d8-6d2f-448d-b35b-30ca4ab5d939.webp",
+   "w": 480,
+   "h": 598,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::99d881a6-3a22-4d3b-a57e-32e52f25acef",
+   "name": "don_371",
+   "photoCount": 9,
+   "file": "99d881a6-3a22-4d3b-a57e-32e52f25acef.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::99de571f-d9bd-47fe-aebf-3e8051109a48",
+   "name": "donii_5",
+   "photoCount": 3,
+   "file": "99de571f-d9bd-47fe-aebf-3e8051109a48.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::99f6b3c1-c793-4835-87b3-228637562917",
+   "name": "don_238",
+   "photoCount": 4,
+   "file": "99f6b3c1-c793-4835-87b3-228637562917.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::9aaf1567-42b3-4a01-a96d-118b9e57931f",
+   "name": "don_303",
+   "photoCount": 3,
+   "file": "9aaf1567-42b3-4a01-a96d-118b9e57931f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::9b8097b9-0155-4888-9678-27c103016e6b",
+   "name": "donii_38",
+   "photoCount": 4,
+   "file": "9b8097b9-0155-4888-9678-27c103016e6b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::9bb4daf3-0f85-4945-b390-3eebe6063566",
+   "name": "don_36",
+   "photoCount": 1,
+   "file": "9bb4daf3-0f85-4945-b390-3eebe6063566.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::9d2e11b3-3736-4185-84b9-f4b0642bbc77",
+   "name": "don_307",
+   "photoCount": 5,
+   "file": "9d2e11b3-3736-4185-84b9-f4b0642bbc77.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::9da8fe14-039f-4826-b1e8-b59f996357dd",
+   "name": "don_195",
+   "photoCount": 1,
+   "file": "9da8fe14-039f-4826-b1e8-b59f996357dd.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::9fde7574-e4bf-4d99-84d1-3035b60ab683",
+   "name": "don_88",
+   "photoCount": 1,
+   "file": "9fde7574-e4bf-4d99-84d1-3035b60ab683.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::a0c48fb8-c8d7-49a3-9ca2-39871e442496",
+   "name": "donii_43",
+   "photoCount": 4,
+   "file": "a0c48fb8-c8d7-49a3-9ca2-39871e442496.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::a10f4582-90d6-4ba2-be4c-96b0c1952174",
+   "name": "don_166",
+   "photoCount": 4,
+   "file": "a10f4582-90d6-4ba2-be4c-96b0c1952174.webp",
+   "w": 480,
+   "h": 795,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::a1153b10-4236-4961-b7ce-0af1c06e212a",
+   "name": "don_5",
+   "photoCount": 1,
+   "file": "a1153b10-4236-4961-b7ce-0af1c06e212a.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::a2af1919-e20e-4bd9-8134-0ff6774f54ff",
+   "name": "don_18",
+   "photoCount": 2,
+   "file": "a2af1919-e20e-4bd9-8134-0ff6774f54ff.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::a2c4a609-e104-47c9-b123-fc6a010cc7b1",
+   "name": "don_125",
+   "photoCount": 1,
+   "file": "a2c4a609-e104-47c9-b123-fc6a010cc7b1.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::a317e565-ceee-4127-8111-24966830e69e",
+   "name": "don_260",
+   "photoCount": 1,
+   "file": "a317e565-ceee-4127-8111-24966830e69e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::a3e284f8-7e46-4584-bdda-6cc03c766311",
+   "name": "donii_16",
+   "photoCount": 2,
+   "file": "a3e284f8-7e46-4584-bdda-6cc03c766311.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::a5444703-09c8-4b4b-a3c0-d19ec79d005d",
+   "name": "don_159",
+   "photoCount": 2,
+   "file": "a5444703-09c8-4b4b-a3c0-d19ec79d005d.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::a5641722-4b51-4503-9c46-17ce59b39bee",
+   "name": "don_286",
+   "photoCount": 2,
+   "file": "a5641722-4b51-4503-9c46-17ce59b39bee.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::a633e399-3431-428f-89cb-5064b2dba403",
+   "name": "don_54",
+   "photoCount": 1,
+   "file": "a633e399-3431-428f-89cb-5064b2dba403.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::a7dbc751-f852-4596-b7a1-26859428940b",
+   "name": "don_244",
+   "photoCount": 5,
+   "file": "a7dbc751-f852-4596-b7a1-26859428940b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::a8faf44c-c9c8-4a83-a211-d508979ae9eb",
+   "name": "don_97",
+   "photoCount": 2,
+   "file": "a8faf44c-c9c8-4a83-a211-d508979ae9eb.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::a9b07e29-a511-4c59-95c8-44f73e5418fe",
+   "name": "don_42",
+   "photoCount": 1,
+   "file": "a9b07e29-a511-4c59-95c8-44f73e5418fe.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::a9cfb5a8-a987-48e1-a2c4-4e6e752ecac2",
+   "name": "don_52",
+   "photoCount": 1,
+   "file": "a9cfb5a8-a987-48e1-a2c4-4e6e752ecac2.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::a9e0bf05-349b-45fc-ba31-cd5da89e66fc",
+   "name": "don_98",
+   "photoCount": 2,
+   "file": "a9e0bf05-349b-45fc-ba31-cd5da89e66fc.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::aa52474b-650c-484b-9e1e-4546ee813be6",
+   "name": "don_277",
+   "photoCount": 3,
+   "file": "aa52474b-650c-484b-9e1e-4546ee813be6.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::aacae33a-97cc-4399-9a33-10ddd5d52a20",
+   "name": "donii_42",
+   "photoCount": 4,
+   "file": "aacae33a-97cc-4399-9a33-10ddd5d52a20.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ac3a3833-d685-436f-991d-6824369388f4",
+   "name": "don_57",
+   "photoCount": 1,
+   "file": "ac3a3833-d685-436f-991d-6824369388f4.webp",
+   "w": 480,
+   "h": 719,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ac9ee02f-0c32-40db-9242-b0c9073859d0",
+   "name": "don_368",
+   "photoCount": 2,
+   "file": "ac9ee02f-0c32-40db-9242-b0c9073859d0.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::acae4422-6ee7-4aa8-88e3-c96c63ba6d7d",
+   "name": "don_121",
+   "photoCount": 3,
+   "file": "acae4422-6ee7-4aa8-88e3-c96c63ba6d7d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ad6277c1-49ca-439c-af4f-1b6262d06f33",
+   "name": "don_237",
+   "photoCount": 7,
+   "file": "ad6277c1-49ca-439c-af4f-1b6262d06f33.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ae8705e8-26ed-4062-aea0-98b804be9026",
+   "name": "don_295",
+   "photoCount": 2,
+   "file": "ae8705e8-26ed-4062-aea0-98b804be9026.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::af62d710-81e5-4962-8907-a8423515b820",
+   "name": "don_321",
+   "photoCount": 3,
+   "file": "af62d710-81e5-4962-8907-a8423515b820.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::afb9b8f2-c6ee-4a91-8d43-ee2278621a23",
+   "name": "don_118",
+   "photoCount": 2,
+   "file": "afb9b8f2-c6ee-4a91-8d43-ee2278621a23.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::b13ec7d8-61c0-4ed6-becc-41a527569bea",
+   "name": "don_373",
+   "photoCount": 3,
+   "file": "b13ec7d8-61c0-4ed6-becc-41a527569bea.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::b144b7f6-1016-412a-a7d8-65c3640d9789",
+   "name": "don_32",
+   "photoCount": 4,
+   "file": "b144b7f6-1016-412a-a7d8-65c3640d9789.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::b221309b-29d1-4647-8eb0-10ee30b5bb75",
+   "name": "don_142",
+   "photoCount": 2,
+   "file": "b221309b-29d1-4647-8eb0-10ee30b5bb75.webp",
+   "w": 480,
+   "h": 722,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::b25e6e1c-df93-4b7f-bc3c-a403377bcb70",
+   "name": "don_104",
+   "photoCount": 3,
+   "file": "b25e6e1c-df93-4b7f-bc3c-a403377bcb70.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::b2e28a94-2a63-4f83-9565-5be9efe196ee",
+   "name": "don_79",
+   "photoCount": 3,
+   "file": "b2e28a94-2a63-4f83-9565-5be9efe196ee.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::b4130bfb-5fa2-401d-8f0f-dfb41bb8b41d",
+   "name": "don_352",
+   "photoCount": 3,
+   "file": "b4130bfb-5fa2-401d-8f0f-dfb41bb8b41d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::b4d1339b-c025-490d-963c-6772a902fe47",
+   "name": "donii_12",
+   "photoCount": 4,
+   "file": "b4d1339b-c025-490d-963c-6772a902fe47.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::b53cc053-2358-4267-b413-5781846b0639",
+   "name": "don_372",
+   "photoCount": 4,
+   "file": "b53cc053-2358-4267-b413-5781846b0639.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::b65b9405-cb43-4d89-b678-a975ebf260f3",
+   "name": "don_296",
+   "photoCount": 4,
+   "file": "b65b9405-cb43-4d89-b678-a975ebf260f3.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::b692c621-86b3-40d8-aafd-6564c3eb7a64",
+   "name": "don_342",
+   "photoCount": 3,
+   "file": "b692c621-86b3-40d8-aafd-6564c3eb7a64.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::b7134fd3-cd80-4b66-b52a-0065d0bd51f9",
+   "name": "don_282",
+   "photoCount": 2,
+   "file": "b7134fd3-cd80-4b66-b52a-0065d0bd51f9.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::b7a054b1-f09c-4a89-a422-94cdcacd96a2",
+   "name": "don_128",
+   "photoCount": 2,
+   "file": "b7a054b1-f09c-4a89-a422-94cdcacd96a2.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::b897502f-8b86-44ca-ba2b-32da6f31b0b8",
+   "name": "don_232",
+   "photoCount": 7,
+   "file": "b897502f-8b86-44ca-ba2b-32da6f31b0b8.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::bba06cbb-35ff-466b-8f2c-1aac27198dee",
+   "name": "don_103",
+   "photoCount": 3,
+   "file": "bba06cbb-35ff-466b-8f2c-1aac27198dee.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::bbded6a1-9eca-4698-9a8c-848120e7b742",
+   "name": "don_15",
+   "photoCount": 3,
+   "file": "bbded6a1-9eca-4698-9a8c-848120e7b742.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::be083931-6cb1-429e-b678-62a3967578bb",
+   "name": "don_164",
+   "photoCount": 2,
+   "file": "be083931-6cb1-429e-b678-62a3967578bb.webp",
+   "w": 480,
+   "h": 722,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::be83ba68-b540-4f4d-bea9-00301fcecc42",
+   "name": "don_360",
+   "photoCount": 7,
+   "file": "be83ba68-b540-4f4d-bea9-00301fcecc42.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c04461c9-c4d6-43f4-ae96-370d7e966ade",
+   "name": "don_370",
+   "photoCount": 3,
+   "file": "c04461c9-c4d6-43f4-ae96-370d7e966ade.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c0464d22-10e4-4fb6-9f29-015fed2deef7",
+   "name": "don_19",
+   "photoCount": 1,
+   "file": "c0464d22-10e4-4fb6-9f29-015fed2deef7.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c0812eb7-beee-4dc4-8e40-f9554c9f4eb0",
+   "name": "don_53",
+   "photoCount": 2,
+   "file": "c0812eb7-beee-4dc4-8e40-f9554c9f4eb0.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c0ea42dc-69ad-4575-afc5-d6ad0d31ad47",
+   "name": "don_117",
+   "photoCount": 1,
+   "file": "c0ea42dc-69ad-4575-afc5-d6ad0d31ad47.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c120fd24-4a9b-4a32-b1cb-33373da56809",
+   "name": "don_226",
+   "photoCount": 1,
+   "file": "c120fd24-4a9b-4a32-b1cb-33373da56809.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c26ede33-76e0-45ac-8df1-3e9aa3578fb1",
+   "name": "don_249",
+   "photoCount": 2,
+   "file": "c26ede33-76e0-45ac-8df1-3e9aa3578fb1.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c3a30d20-1d4b-473f-8575-f62654d76a3e",
+   "name": "don_330",
+   "photoCount": 7,
+   "file": "c3a30d20-1d4b-473f-8575-f62654d76a3e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c4d9ad2a-205d-4d81-a679-0bad34102e07",
+   "name": "don_338",
+   "photoCount": 2,
+   "file": "c4d9ad2a-205d-4d81-a679-0bad34102e07.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c5313562-f276-4663-a78b-2929d0607570",
+   "name": "don_255",
+   "photoCount": 1,
+   "file": "c5313562-f276-4663-a78b-2929d0607570.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c568152c-b0cb-4cae-9c46-a90a48cca1b9",
+   "name": "don_176",
+   "photoCount": 3,
+   "file": "c568152c-b0cb-4cae-9c46-a90a48cca1b9.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c5bdf944-e0d2-4896-8a54-80daf9250a87",
+   "name": "don_100",
+   "photoCount": 4,
+   "file": "c5bdf944-e0d2-4896-8a54-80daf9250a87.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c65e10a4-b7ac-4200-884b-e201185df742",
+   "name": "donii_24",
+   "photoCount": 1,
+   "file": "c65e10a4-b7ac-4200-884b-e201185df742.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c6a10782-8fdb-4828-a2ed-b92396ed4c23",
+   "name": "donii_40",
+   "photoCount": 4,
+   "file": "c6a10782-8fdb-4828-a2ed-b92396ed4c23.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c6b42add-75cd-4504-85f5-f77a261c35f4",
+   "name": "don_110",
+   "photoCount": 4,
+   "file": "c6b42add-75cd-4504-85f5-f77a261c35f4.webp",
+   "w": 480,
+   "h": 721,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c7f753d2-29d7-4135-a8f9-913c093c283b",
+   "name": "don_270",
+   "photoCount": 9,
+   "file": "c7f753d2-29d7-4135-a8f9-913c093c283b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::c99739de-72ed-44d6-aa9e-781bbc51f8a2",
+   "name": "donii_4",
+   "photoCount": 6,
+   "file": "c99739de-72ed-44d6-aa9e-781bbc51f8a2.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ca0b8b44-c825-4979-beb0-9906d2ddfe69",
+   "name": "don_200",
+   "photoCount": 6,
+   "file": "ca0b8b44-c825-4979-beb0-9906d2ddfe69.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ca4da528-c550-43f7-83fc-8363dcd0e85d",
+   "name": "don_279",
+   "photoCount": 5,
+   "file": "ca4da528-c550-43f7-83fc-8363dcd0e85d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ca5f38fc-8262-4d72-9bb7-9e982f6ebf35",
+   "name": "don_141",
+   "photoCount": 7,
+   "file": "ca5f38fc-8262-4d72-9bb7-9e982f6ebf35.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ca81a1f7-3b6a-4672-a005-b549bd3e9ae5",
+   "name": "don_160",
+   "photoCount": 1,
+   "file": "ca81a1f7-3b6a-4672-a005-b549bd3e9ae5.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::cad856ea-d889-4ebd-98b6-f6074d9e50bc",
+   "name": "don_140",
+   "photoCount": 4,
+   "file": "cad856ea-d889-4ebd-98b6-f6074d9e50bc.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::cbb4eba7-cadf-4e4c-bc91-b12fd2633c4d",
+   "name": "don_55",
+   "photoCount": 1,
+   "file": "cbb4eba7-cadf-4e4c-bc91-b12fd2633c4d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::cbe0082f-343c-4fc4-9883-1c49d587c94f",
+   "name": "don_187",
+   "photoCount": 3,
+   "file": "cbe0082f-343c-4fc4-9883-1c49d587c94f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::cc4435a6-3cbd-4a6d-b670-46e05d835b70",
+   "name": "don_317",
+   "photoCount": 1,
+   "file": "cc4435a6-3cbd-4a6d-b670-46e05d835b70.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::cd676d2c-c9b7-49b5-a186-85de812a4155",
+   "name": "don_171",
+   "photoCount": 6,
+   "file": "cd676d2c-c9b7-49b5-a186-85de812a4155.webp",
+   "w": 480,
+   "h": 681,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::cdf1b333-4322-4121-b076-d1dfbbd576ed",
+   "name": "don_233",
+   "photoCount": 5,
+   "file": "cdf1b333-4322-4121-b076-d1dfbbd576ed.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::cdf2860a-e9f5-4d05-a893-0a28fb02f778",
+   "name": "don_346",
+   "photoCount": 3,
+   "file": "cdf2860a-e9f5-4d05-a893-0a28fb02f778.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ce099c18-c7fd-432c-a751-05c7d20fa139",
+   "name": "don_2",
+   "photoCount": 2,
+   "file": "ce099c18-c7fd-432c-a751-05c7d20fa139.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ce532c5a-16db-42df-8e18-c443bb6a9cba",
+   "name": "don_137",
+   "photoCount": 1,
+   "file": "ce532c5a-16db-42df-8e18-c443bb6a9cba.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::cf4d6f7d-2631-4e37-9ded-c224e07912c4",
+   "name": "don_318",
+   "photoCount": 2,
+   "file": "cf4d6f7d-2631-4e37-9ded-c224e07912c4.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d034ab1f-0e93-483c-9e42-a21bd6e549e0",
+   "name": "don_35",
+   "photoCount": 2,
+   "file": "d034ab1f-0e93-483c-9e42-a21bd6e549e0.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d0cd64ed-b039-49a2-9e89-bac97c45a1e1",
+   "name": "don_299",
+   "photoCount": 1,
+   "file": "d0cd64ed-b039-49a2-9e89-bac97c45a1e1.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d0f1f1e9-331d-4848-8db2-1388def2a1f6",
+   "name": "don_28",
+   "photoCount": 1,
+   "file": "d0f1f1e9-331d-4848-8db2-1388def2a1f6.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d172615e-efeb-4ae9-b8cd-1066cadfe6bc",
+   "name": "don_350",
+   "photoCount": 1,
+   "file": "d172615e-efeb-4ae9-b8cd-1066cadfe6bc.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d29ff6eb-e6da-4a9b-b0a2-402dfcef861f",
+   "name": "don_211",
+   "photoCount": 2,
+   "file": "d29ff6eb-e6da-4a9b-b0a2-402dfcef861f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d2b7a8cd-8ba0-4c13-823a-61eaf82bbe63",
+   "name": "don_80",
+   "photoCount": 8,
+   "file": "d2b7a8cd-8ba0-4c13-823a-61eaf82bbe63.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d346753f-0611-43f6-8b49-74bb78c1e6a5",
+   "name": "don_144",
+   "photoCount": 1,
+   "file": "d346753f-0611-43f6-8b49-74bb78c1e6a5.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d362fb1a-8945-485e-bc0b-7b96faa744b4",
+   "name": "don_31",
+   "photoCount": 3,
+   "file": "d362fb1a-8945-485e-bc0b-7b96faa744b4.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d3d4ed94-fe00-48d2-8fb0-0d3a50859b37",
+   "name": "don_46",
+   "photoCount": 1,
+   "file": "d3d4ed94-fe00-48d2-8fb0-0d3a50859b37.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d5e93f70-e26c-4aff-96e9-894b54047006",
+   "name": "don_134",
+   "photoCount": 2,
+   "file": "d5e93f70-e26c-4aff-96e9-894b54047006.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d6fafa4f-6cf3-4654-a8b4-e8abea66cb50",
+   "name": "don_10",
+   "photoCount": 3,
+   "file": "d6fafa4f-6cf3-4654-a8b4-e8abea66cb50.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d80e2e60-1546-4705-a8a8-d8d7d3ac7506",
+   "name": "don_293",
+   "photoCount": 2,
+   "file": "d80e2e60-1546-4705-a8a8-d8d7d3ac7506.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d8781c68-a4e6-4f02-b85b-140c8377eec7",
+   "name": "don_72",
+   "photoCount": 4,
+   "file": "d8781c68-a4e6-4f02-b85b-140c8377eec7.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d87bc555-b5cc-4f90-a5c5-c0a9f8b1e9c8",
+   "name": "don_169",
+   "photoCount": 4,
+   "file": "d87bc555-b5cc-4f90-a5c5-c0a9f8b1e9c8.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d97011eb-cb6d-4efa-9c54-627dd2f12865",
+   "name": "don_328",
+   "photoCount": 3,
+   "file": "d97011eb-cb6d-4efa-9c54-627dd2f12865.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d98f88fc-b25a-4802-b602-d91bfd9ac37d",
+   "name": "don_21",
+   "photoCount": 2,
+   "file": "d98f88fc-b25a-4802-b602-d91bfd9ac37d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d9e45c0b-e979-44b7-89ac-84d8569413dc",
+   "name": "don_353",
+   "photoCount": 3,
+   "file": "d9e45c0b-e979-44b7-89ac-84d8569413dc.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::d9ff44b7-cf07-4d33-b651-3c4c7810120f",
+   "name": "don_290",
+   "photoCount": 4,
+   "file": "d9ff44b7-cf07-4d33-b651-3c4c7810120f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::da12a1c7-eeb2-4816-92a4-707d36a904ae",
+   "name": "don_143",
+   "photoCount": 2,
+   "file": "da12a1c7-eeb2-4816-92a4-707d36a904ae.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::de5616ea-4114-4711-9f36-b6b93de0527f",
+   "name": "don_131",
+   "photoCount": 5,
+   "file": "de5616ea-4114-4711-9f36-b6b93de0527f.webp",
+   "w": 480,
+   "h": 688,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::dedd70c7-3392-4e32-ab29-7e38bf54f3e0",
+   "name": "don_246",
+   "photoCount": 4,
+   "file": "dedd70c7-3392-4e32-ab29-7e38bf54f3e0.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e0e1e44d-179e-43dc-b598-3dae912f210f",
+   "name": "don_127",
+   "photoCount": 4,
+   "file": "e0e1e44d-179e-43dc-b598-3dae912f210f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e0ff39b4-31fc-4186-8e6d-31a8e7176d99",
+   "name": "donii_25",
+   "photoCount": 4,
+   "file": "e0ff39b4-31fc-4186-8e6d-31a8e7176d99.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e1b59492-e38f-4621-963a-8a35e867e5b8",
+   "name": "don_351",
+   "photoCount": 2,
+   "file": "e1b59492-e38f-4621-963a-8a35e867e5b8.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e2d93285-1bae-4373-9a39-2f8bba2a946a",
+   "name": "don_30",
+   "photoCount": 1,
+   "file": "e2d93285-1bae-4373-9a39-2f8bba2a946a.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e3980cdb-1ec2-47fb-a0aa-f8bd093369bd",
+   "name": "don_82",
+   "photoCount": 3,
+   "file": "e3980cdb-1ec2-47fb-a0aa-f8bd093369bd.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e3cd23a1-3862-44b7-83de-d81bb7190453",
+   "name": "don_205",
+   "photoCount": 2,
+   "file": "e3cd23a1-3862-44b7-83de-d81bb7190453.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e3dfcc8f-5701-41b6-a05a-093e552ef6f4",
+   "name": "don_184",
+   "photoCount": 4,
+   "file": "e3dfcc8f-5701-41b6-a05a-093e552ef6f4.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e5964f51-d1dc-4607-a103-ddc688baf051",
+   "name": "don_67",
+   "photoCount": 1,
+   "file": "e5964f51-d1dc-4607-a103-ddc688baf051.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e5d3dd2d-1d37-4277-b954-f0a7e64eb7dd",
+   "name": "don_83",
+   "photoCount": 2,
+   "file": "e5d3dd2d-1d37-4277-b954-f0a7e64eb7dd.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e6b06367-9592-4f1f-8dc3-e5a616b0b675",
+   "name": "don_224",
+   "photoCount": 5,
+   "file": "e6b06367-9592-4f1f-8dc3-e5a616b0b675.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e6b5fece-1bb7-45c6-821e-7ed3ada38ed7",
+   "name": "donii_26",
+   "photoCount": 6,
+   "file": "e6b5fece-1bb7-45c6-821e-7ed3ada38ed7.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e71ac55b-0322-40db-b10b-468e1c41e3c9",
+   "name": "don_199",
+   "photoCount": 1,
+   "file": "e71ac55b-0322-40db-b10b-468e1c41e3c9.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e7752b11-dc85-489e-bd27-22254fae1edd",
+   "name": "donii_36",
+   "photoCount": 4,
+   "file": "e7752b11-dc85-489e-bd27-22254fae1edd.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e8e685bb-9898-446d-8385-77bcacd4291f",
+   "name": "don_198",
+   "photoCount": 9,
+   "file": "e8e685bb-9898-446d-8385-77bcacd4291f.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e8edc3aa-6af2-4277-99fc-3b41da9452b1",
+   "name": "donii_21",
+   "photoCount": 2,
+   "file": "e8edc3aa-6af2-4277-99fc-3b41da9452b1.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::e99c6c9c-75c9-4249-ad9b-4e1895f79207",
+   "name": "don_208",
+   "photoCount": 2,
+   "file": "e99c6c9c-75c9-4249-ad9b-4e1895f79207.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::eb38a6de-f1eb-4a5e-bd46-5ca7a7d52064",
+   "name": "don_252",
+   "photoCount": 3,
+   "file": "eb38a6de-f1eb-4a5e-bd46-5ca7a7d52064.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::eb5a5e58-81e7-4ab2-8687-5d37b04efad0",
+   "name": "don_197",
+   "photoCount": 4,
+   "file": "eb5a5e58-81e7-4ab2-8687-5d37b04efad0.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ec1eb368-6d1f-438a-abe9-226c20b5be90",
+   "name": "don_358",
+   "photoCount": 3,
+   "file": "ec1eb368-6d1f-438a-abe9-226c20b5be90.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ec9d8398-b722-4856-86fa-fec397e3f750",
+   "name": "don_65",
+   "photoCount": 3,
+   "file": "ec9d8398-b722-4856-86fa-fec397e3f750.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ecd81a17-baa0-4eeb-a227-2617ff3f399c",
+   "name": "don_190",
+   "photoCount": 3,
+   "file": "ecd81a17-baa0-4eeb-a227-2617ff3f399c.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ed0e86c4-42fe-4b88-af35-4468f321b674",
+   "name": "don_114",
+   "photoCount": 1,
+   "file": "ed0e86c4-42fe-4b88-af35-4468f321b674.webp",
+   "w": 480,
+   "h": 721,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ed1b4452-daf4-444d-94f1-8a19658e03a1",
+   "name": "don_85",
+   "photoCount": 1,
+   "file": "ed1b4452-daf4-444d-94f1-8a19658e03a1.webp",
+   "w": 480,
+   "h": 721,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ed2e15e6-15a5-453e-9de2-9c914e5fcdd8",
+   "name": "don_310",
+   "photoCount": 4,
+   "file": "ed2e15e6-15a5-453e-9de2-9c914e5fcdd8.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ed2e874b-2102-42a5-a63e-e51f23676d1c",
+   "name": "don_272",
+   "photoCount": 4,
+   "file": "ed2e874b-2102-42a5-a63e-e51f23676d1c.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ed616c21-7be8-437d-a7b5-10989ea5b8aa",
+   "name": "don_111",
+   "photoCount": 4,
+   "file": "ed616c21-7be8-437d-a7b5-10989ea5b8aa.webp",
+   "w": 480,
+   "h": 721,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ed69a548-6e25-42ef-b613-a39181172a68",
+   "name": "don_101",
+   "photoCount": 4,
+   "file": "ed69a548-6e25-42ef-b613-a39181172a68.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ed6f1716-e4c7-49bb-8429-4a2a3c16f5ee",
+   "name": "don_161",
+   "photoCount": 2,
+   "file": "ed6f1716-e4c7-49bb-8429-4a2a3c16f5ee.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::ee7c3198-74df-4e51-9485-190ef76e1155",
+   "name": "don_223",
+   "photoCount": 2,
+   "file": "ee7c3198-74df-4e51-9485-190ef76e1155.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::f0075faf-d9c5-4d4b-8fbf-5d0156097668",
+   "name": "don_231",
+   "photoCount": 1,
+   "file": "f0075faf-d9c5-4d4b-8fbf-5d0156097668.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::f0ce383e-822d-4a74-a0a4-77421721cf2c",
+   "name": "don_320",
+   "photoCount": 4,
+   "file": "f0ce383e-822d-4a74-a0a4-77421721cf2c.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::f215533f-2dd6-4d7a-9237-bb4ad182002c",
+   "name": "don_133",
+   "photoCount": 5,
+   "file": "f215533f-2dd6-4d7a-9237-bb4ad182002c.webp",
+   "w": 480,
+   "h": 719,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::f3ecdba8-d7e1-4f7f-9b91-c78bd96d3db1",
+   "name": "don_69",
+   "photoCount": 2,
+   "file": "f3ecdba8-d7e1-4f7f-9b91-c78bd96d3db1.webp",
+   "w": 480,
+   "h": 594,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::f4481c50-dfd9-4a4c-bfa6-a0a3f76e7393",
+   "name": "don_25",
+   "photoCount": 6,
+   "file": "f4481c50-dfd9-4a4c-bfa6-a0a3f76e7393.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::f45e176c-2d15-46cb-a601-6e1daef5b6fe",
+   "name": "don_77",
+   "photoCount": 2,
+   "file": "f45e176c-2d15-46cb-a601-6e1daef5b6fe.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::f56f88ed-0996-4eeb-9803-53ff8b0258fa",
+   "name": "don_33",
+   "photoCount": 2,
+   "file": "f56f88ed-0996-4eeb-9803-53ff8b0258fa.webp",
+   "w": 480,
+   "h": 720,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::f5beea85-959e-4c39-864a-072eab3e995b",
+   "name": "don_261",
+   "photoCount": 2,
+   "file": "f5beea85-959e-4c39-864a-072eab3e995b.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::f7a0a50b-b15e-43fa-9249-a3d4dd54e7da",
+   "name": "don_239",
+   "photoCount": 1,
+   "file": "f7a0a50b-b15e-43fa-9249-a3d4dd54e7da.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::f7a8c8d6-9850-4f34-b3e3-607c9602297e",
+   "name": "don_44",
+   "photoCount": 1,
+   "file": "f7a8c8d6-9850-4f34-b3e3-607c9602297e.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::fa8154f9-2e04-428f-9baf-8a0e06b23f97",
+   "name": "don_228",
+   "photoCount": 9,
+   "file": "fa8154f9-2e04-428f-9baf-8a0e06b23f97.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::fb32aff5-0aa3-4b5a-9f4e-d6dbc91f3c32",
+   "name": "don_38",
+   "photoCount": 4,
+   "file": "fb32aff5-0aa3-4b5a-9f4e-d6dbc91f3c32.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::fc824fc4-6c79-452b-a76f-cca64fc3e760",
+   "name": "donii_14",
+   "photoCount": 1,
+   "file": "fc824fc4-6c79-452b-a76f-cca64fc3e760.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::fcba8d61-e044-46d8-bed5-d5ca27fc4680",
+   "name": "don_266",
+   "photoCount": 1,
+   "file": "fcba8d61-e044-46d8-bed5-d5ca27fc4680.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::fd7cef15-09dc-4d27-9a01-6c328fa2def9",
+   "name": "donii_28",
+   "photoCount": 4,
+   "file": "fd7cef15-09dc-4d27-9a01-6c328fa2def9.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::feacc23a-83de-41e1-a6ff-785ed407548d",
+   "name": "don_203",
+   "photoCount": 1,
+   "file": "feacc23a-83de-41e1-a6ff-785ed407548d.webp",
+   "w": 480,
+   "h": 640,
+   "kind": "design"
+  },
+  {
+   "templateId": "thietkedocv4::db7f988b-0308-41de-953d-105efb4b27cd",
+   "name": "PSD IN",
+   "photoCount": null,
+   "file": "db7f988b-0308-41de-953d-105efb4b27cd.webp",
+   "w": 480,
+   "h": 250,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::1b378800-6251-4b6e-8f7a-40b067606fd2",
+   "name": "PSD the sea",
+   "photoCount": null,
+   "file": "1b378800-6251-4b6e-8f7a-40b067606fd2.webp",
+   "w": 329,
+   "h": 73,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::2983c40a-8da4-422b-b4c9-4c0ea9c83c87",
+   "name": "PSD in the love",
+   "photoCount": null,
+   "file": "2983c40a-8da4-422b-b4c9-4c0ea9c83c87.webp",
+   "w": 480,
+   "h": 70,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::06e1f805-81bd-43a7-a56c-9e48d15fe9b2",
+   "name": "PSD You re always the first and the last thing on this heart of mi",
+   "photoCount": null,
+   "file": "06e1f805-81bd-43a7-a56c-9e48d15fe9b2.webp",
+   "w": 480,
+   "h": 41,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::15916fb2-a644-4e86-a3dc-3f8cd131c771",
+   "name": "PSD this love",
+   "photoCount": null,
+   "file": "15916fb2-a644-4e86-a3dc-3f8cd131c771.webp",
+   "w": 480,
+   "h": 300,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::86e2ba7e-c6b7-434d-aa32-5be70d31821a",
+   "name": "HT 2025 1_083",
+   "photoCount": null,
+   "file": "86e2ba7e-c6b7-434d-aa32-5be70d31821a.webp",
+   "w": 480,
+   "h": 190,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::277c5de1-7010-4eea-8516-4093c11c802a",
+   "name": "HT 2025 1_179",
+   "photoCount": null,
+   "file": "277c5de1-7010-4eea-8516-4093c11c802a.webp",
+   "w": 480,
+   "h": 382,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::8e3da025-984a-4a1d-b6cf-168441848c1a",
+   "name": "PSD Early flowers",
+   "photoCount": null,
+   "file": "8e3da025-984a-4a1d-b6cf-168441848c1a.webp",
+   "w": 350,
+   "h": 148,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::b26ca32f-ac33-4980-a1d2-a91ec949156d",
+   "name": "PSD happiness of those who love beauty",
+   "photoCount": null,
+   "file": "b26ca32f-ac33-4980-a1d2-a91ec949156d.webp",
+   "w": 440,
+   "h": 14,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::1df1b795-1814-482e-80dd-b84cedc3c33a",
+   "name": "PSD huy.nhi",
+   "photoCount": null,
+   "file": "1df1b795-1814-482e-80dd-b84cedc3c33a.webp",
+   "w": 265,
+   "h": 41,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::18291f46-99b0-4024-812e-2c7dbfcbc8cf",
+   "name": "PSD this love",
+   "photoCount": null,
+   "file": "18291f46-99b0-4024-812e-2c7dbfcbc8cf.webp",
+   "w": 306,
+   "h": 57,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::df2172c0-e36f-4246-ba94-45cdea1bde36",
+   "name": "PSD Our love is like the wind. I can t see it but I can feel it.",
+   "photoCount": null,
+   "file": "df2172c0-e36f-4246-ba94-45cdea1bde36.webp",
+   "w": 480,
+   "h": 14,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::52c864db-ed86-4da0-a635-5986ad4cc2ef",
+   "name": "PSD Early flowers",
+   "photoCount": null,
+   "file": "52c864db-ed86-4da0-a635-5986ad4cc2ef.webp",
+   "w": 350,
+   "h": 148,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::87d1617e-a23d-4e83-8bb1-48f5b472e03f",
+   "name": "PSD happiness of those who love beauty",
+   "photoCount": null,
+   "file": "87d1617e-a23d-4e83-8bb1-48f5b472e03f.webp",
+   "w": 440,
+   "h": 14,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::0a0219f0-1cbb-422b-842b-3bcf40c2da93",
+   "name": "PSD Love",
+   "photoCount": null,
+   "file": "0a0219f0-1cbb-422b-842b-3bcf40c2da93.webp",
+   "w": 447,
+   "h": 194,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::099befd7-8fed-434c-b18f-38d57d1d7378",
+   "name": "PSD hand in hand",
+   "photoCount": null,
+   "file": "099befd7-8fed-434c-b18f-38d57d1d7378.webp",
+   "w": 480,
+   "h": 124,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::5be2b127-16ab-4b05-be28-ef0e3b9ab1a0",
+   "name": "aá",
+   "photoCount": null,
+   "file": "5be2b127-16ab-4b05-be28-ef0e3b9ab1a0.webp",
+   "w": 480,
+   "h": 76,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::2123b5a3-7559-40eb-ae1e-fd96f7576367",
+   "name": "PSD the leaf",
+   "photoCount": null,
+   "file": "2123b5a3-7559-40eb-ae1e-fd96f7576367.webp",
+   "w": 480,
+   "h": 659,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::cac00c27-be31-4eb4-933a-d5f40978f5ae",
+   "name": "PSD Lovers in Paris",
+   "photoCount": null,
+   "file": "cac00c27-be31-4eb4-933a-d5f40978f5ae.webp",
+   "w": 480,
+   "h": 205,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::85c181a0-e9a8-49c2-90ef-3be8ddd70804",
+   "name": "PSD hello",
+   "photoCount": null,
+   "file": "85c181a0-e9a8-49c2-90ef-3be8ddd70804.webp",
+   "w": 480,
+   "h": 140,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::80bd63cf-be92-4bc0-a20b-4b2d8d988d4d",
+   "name": "PSD . Love is when you sit beside someone doing nothing yet you f",
+   "photoCount": null,
+   "file": "80bd63cf-be92-4bc0-a20b-4b2d8d988d4d.webp",
+   "w": 480,
+   "h": 168,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::80d00ec2-244d-4ef7-9dd2-2fd4e5fc7801",
+   "name": "HT 2025 1_192",
+   "photoCount": null,
+   "file": "80d00ec2-244d-4ef7-9dd2-2fd4e5fc7801.webp",
+   "w": 480,
+   "h": 213,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::a0e2196a-77dc-4a5e-b742-585be6b9456f",
+   "name": "s",
+   "photoCount": null,
+   "file": "a0e2196a-77dc-4a5e-b742-585be6b9456f.webp",
+   "w": 480,
+   "h": 185,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::5d15be88-22c2-4388-87e8-bab7f099853f",
+   "name": "PSD THE PHOTOBOOK",
+   "photoCount": null,
+   "file": "5d15be88-22c2-4388-87e8-bab7f099853f.webp",
+   "w": 480,
+   "h": 40,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::f8e92013-280a-4abd-883a-db0a4192a749",
+   "name": "HT 2025 1_091",
+   "photoCount": null,
+   "file": "f8e92013-280a-4abd-883a-db0a4192a749.webp",
+   "w": 480,
+   "h": 197,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::f541b74b-085f-4a3e-b03d-a5ad8e107ba5",
+   "name": "HT 2025 1_131",
+   "photoCount": null,
+   "file": "f541b74b-085f-4a3e-b03d-a5ad8e107ba5.webp",
+   "w": 480,
+   "h": 208,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::5d26424e-f455-42fa-ac16-18180b0e3112",
+   "name": "PSD Soulmates",
+   "photoCount": null,
+   "file": "5d26424e-f455-42fa-ac16-18180b0e3112.webp",
+   "w": 480,
+   "h": 270,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::fd77fe54-1add-4c2f-82b2-9d805ea6916e",
+   "name": "PSD l.o.v.e.r copy 2",
+   "photoCount": null,
+   "file": "fd77fe54-1add-4c2f-82b2-9d805ea6916e.webp",
+   "w": 181,
+   "h": 940,
+   "kind": "typo"
+  },
+  {
+   "templateId": "thietkedocv4::db5d2a0f-1caa-429b-bd7b-1583d7d62028",
+   "name": "PSD December",
+   "photoCount": null,
+   "file": "db5d2a0f-1caa-429b-bd7b-1583d7d62028.webp",
+   "w": 53,
+   "h": 367,
+   "kind": "typo"
+  }
+ ]
+}
