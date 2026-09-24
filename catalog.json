@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T03:40:26.972Z",
+  "updatedAt": "2026-09-24T13:27:35.252Z",
   "packs": [
     {
       "packId": "backgroudbev1",
@@ -14,6 +14,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/backgroudbev1-v1.0.1.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/backgroudbev1/index.json",
+      "previewCount": 8,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/backgroudbev1-1.0.1.snpack",
       "size": 21018170,
       "sha256": "2c9a01f02cd0d10fd0585c5c6283d81922af33dca33e99f09793ac17af92fc77",
@@ -39,6 +41,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/backgroudgreenv1-v1.0.1.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/backgroudgreenv1/index.json",
+      "previewCount": 28,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/backgroudgreenv1-1.0.1.snpack",
       "size": 41965453,
       "sha256": "0009e35a74bf5ed994a25a7c111bae21ddd6388938b9d3ba4a2be1d8abf5aeb8",
@@ -64,6 +68,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/backgroudpinkv1-v1.0.1.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/backgroudpinkv1/index.json",
+      "previewCount": 17,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/backgroudpinkv1-1.0.1.snpack",
       "size": 31190625,
       "sha256": "e382e45ea1e2b70244bc741a23da2f21efd7effb50b8b31e4a1f0b1b2640b356",
@@ -89,6 +95,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/backgroudsnaplyv2-v1.0.1.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/backgroudsnaplyv2/index.json",
+      "previewCount": 127,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/backgroudsnaplyv2-1.0.1.snpack",
       "size": 37825034,
       "sha256": "bf7516b0bf4ce714a24fd0fdb0547b0452f8f350aefe17ec99fadf1ccded942b",
@@ -114,6 +122,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/bia20x30v2-v1.0.1.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/bia20x30v2/index.json",
+      "previewCount": 56,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/bia20x30v2-1.0.1.snpack",
       "size": 22155715,
       "sha256": "eda4ed556fbff9e4840ae607d75d26b11cee6cdf97b6cf591a87a2ceb39bf0a1",
@@ -141,6 +151,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/biaalbumvuong-v1.0.1.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/biaalbumvuong/index.json",
+      "previewCount": 56,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/biaalbumvuong-1.0.1.snpack",
       "size": 22165666,
       "sha256": "3da7aab5fb4d8e17788895d2f895fa10267ab84594e4629480fa2d7aec034f10",
@@ -168,6 +180,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/elementcaylahoav1-v1.0.1.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/elementcaylahoav1/index.json",
+      "previewCount": 31,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/elementcaylahoav1-1.0.1.snpack",
       "size": 26261175,
       "sha256": "d1c83f02728741ee17afbbcbc5776165e53f3de3c10f502546c6f1a79cc71c3f",
@@ -193,6 +207,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/elementkhuydongdauv1-v1.0.1.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/elementkhuydongdauv1/index.json",
+      "previewCount": 13,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/elementkhuydongdauv1-1.0.1.snpack",
       "size": 7261219,
       "sha256": "2f8edc66d110a5271e08ae03e0db39553ef4b01bbc7c5e5d1080e3a5e4c9d543",
@@ -218,6 +234,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/elementtonghopv1-v1.0.1.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/elementtonghopv1/index.json",
+      "previewCount": 7,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/elementtonghopv1-1.0.1.snpack",
       "size": 2790948,
       "sha256": "fc3808542d251b7f13d3666d8d6e4eb11139149da6c4ce17f8bf9f3170065aa6",
@@ -243,6 +261,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkedinhthaiv1-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/thietkedinhthaiv1/index.json",
+      "previewCount": 2043,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/thietkedinhthaiv1-1.0.0.snpack",
       "size": 12361485,
       "sha256": "e1700dbda8ef9466a1b76f7a36b0e9263688bf8b2144455c45052ebd87eec2e5",
@@ -269,6 +289,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietkedocv4-v1.0.4.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/thietkedocv4/index.json",
+      "previewCount": 448,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/thietkedocv4-1.0.5.snpack",
       "size": 2269543,
       "sha256": "f155d4373c0057bb7bac0b65c69a5f0f5b5fb051b3be371ff1f309b962600040",
@@ -295,6 +317,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/thietketrangdoiv3-v1.0.2.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/thietketrangdoiv3/index.json",
+      "previewCount": 769,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/thietketrangdoiv3-1.0.3.snpack",
       "size": 6923781,
       "sha256": "6b6c09b3e75cc23a45b0ae49291eed128ca946e3e881ff73ec9dc5a9d67ee1e4",
@@ -322,6 +346,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typofashion-v1.0.1.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typofashion/index.json",
+      "previewCount": 44,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typofashion-1.0.1.snpack",
       "size": 240268038,
       "sha256": "97e83e7fefd3fbf7423a4c1ceeb3a3fb9b6bd71d8d6d0ee0330d343b5c81d093",
@@ -347,6 +373,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typokorea-v1.0.1.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typokorea/index.json",
+      "previewCount": 59,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typokorea-1.0.1.snpack",
       "size": 28589387,
       "sha256": "30c5b9cb02aa5d53a122f0715af576e64bfd693d6bd743189a0d8d586b7b391e",
@@ -372,6 +400,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typotienganhwedding-v1.0.1.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typotienganhwedding/index.json",
+      "previewCount": 179,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typotienganhwedding-1.0.1.snpack",
       "size": 73750230,
       "sha256": "919a06dbc29694052f50714f30e179319977e95833386462fee1bc64dfda5405",
@@ -397,6 +427,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typotiengvietv1-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typotiengvietv1/index.json",
+      "previewCount": 42,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typotiengvietv1-1.0.0.snpack",
       "size": 10138512,
       "sha256": "6ed2c8b74463e23a5d006aa171bac01e5df6ab1bf4fa2e824eb47efb5d39d8be",
@@ -422,6 +454,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov10korea-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov10korea/index.json",
+      "previewCount": 9,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov10korea-1.0.0.snpack",
       "size": 13574014,
       "sha256": "9ef2fcfad674a18ed5805aacfe4a63f3fb175ad2c8b6cbf92201feaabfe20b50",
@@ -447,6 +481,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov11-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov11/index.json",
+      "previewCount": 8,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov11-1.0.0.snpack",
       "size": 8848921,
       "sha256": "039668735b80ec6649f470f2a131ebb938b8c76b4cefaa53a3de105f5784c477",
@@ -472,6 +508,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov12-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov12/index.json",
+      "previewCount": 21,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov12-1.0.0.snpack",
       "size": 9089698,
       "sha256": "b10b4a929f52dfde209dd6b10c612dc7b09276022c22b9a963c3ad144d27d3d2",
@@ -497,6 +535,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov13-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov13/index.json",
+      "previewCount": 30,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov13-1.0.0.snpack",
       "size": 3522176,
       "sha256": "7a5bb9045b46017f235388e17f183eb90ab1a548d0eef7d3746f115caffa9fdf",
@@ -522,6 +562,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov14-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov14/index.json",
+      "previewCount": 22,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov14-1.0.0.snpack",
       "size": 3908287,
       "sha256": "18ce60465cc2a3fb47be08045cc0c3605cbdf3d8654ba08bddd0d32def537308",
@@ -547,6 +589,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov1korea-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov1korea/index.json",
+      "previewCount": 17,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov1korea-1.0.0.snpack",
       "size": 5115506,
       "sha256": "bbc4aaf0201f0793aa2ee20b34619ba8c79c01e3307262fb771360cdae7309bd",
@@ -572,6 +616,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov1textbiger-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov1textbiger/index.json",
+      "previewCount": 19,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov1textbiger-1.0.0.snpack",
       "size": 20855395,
       "sha256": "ba017f2ea7cbb8df2ece454049f194c0ed2c6f4cfc84bebd3fe48015325e51a7",
@@ -597,6 +643,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov1textbiger2-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov1textbiger2/index.json",
+      "previewCount": 24,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov1textbiger2-1.0.0.snpack",
       "size": 15607221,
       "sha256": "64b18a34c653d43d6b7eec243c1830abb809e8bbeab4ea48fd13e53a9af1821b",
@@ -622,6 +670,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov2-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov2/index.json",
+      "previewCount": 12,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov2-1.0.0.snpack",
       "size": 1598310,
       "sha256": "40841777a285b4b54f5496ec13c0485b57a31a264b78ae3b7ae8f190de960a97",
@@ -647,6 +697,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov3-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov3/index.json",
+      "previewCount": 12,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov3-1.0.0.snpack",
       "size": 1791799,
       "sha256": "95b3dc83751e69c93da3e6aad7b19fa7bb585d1bd2cbb2cf5fb14c458e11c97f",
@@ -672,6 +724,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov3fashion1-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov3fashion1/index.json",
+      "previewCount": 26,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov3fashion1-1.0.0.snpack",
       "size": 78087891,
       "sha256": "f6ea3e595450ae4afaecbfd171187fe654ce0bb8280dd2fd5fab3e9140c60221",
@@ -697,6 +751,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov3fashion2-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov3fashion2/index.json",
+      "previewCount": 22,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov3fashion2-1.0.0.snpack",
       "size": 186548585,
       "sha256": "ebc99f4ee2db86f26f64fdc8470ed73709d7b6914c462b6035c18eb17d9c2815",
@@ -722,6 +778,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov4-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov4/index.json",
+      "previewCount": 12,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov4-1.0.0.snpack",
       "size": 1215676,
       "sha256": "896b2a9d6fd6ea74354c4826a57715bbfaa00117a71efb6d7c34f45c93355dfe",
@@ -747,6 +805,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov5-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov5/index.json",
+      "previewCount": 30,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov5-1.0.0.snpack",
       "size": 44888447,
       "sha256": "d4bd27ee19e081316609f7e37cb8f74bb4c41311632ff185243508f319a8bba5",
@@ -772,6 +832,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov6-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov6/index.json",
+      "previewCount": 12,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov6-1.0.0.snpack",
       "size": 4463988,
       "sha256": "b8e99b3035f2c03feb7dd0a8398c4cdefc162160c888456d4c35b5bb16f9352e",
@@ -797,6 +859,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov7-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov7/index.json",
+      "previewCount": 12,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov7-1.0.0.snpack",
       "size": 945358,
       "sha256": "5be555039ec4840af18136dd778cc4803a220bef7163d3357a3fcb52df3ad657",
@@ -822,6 +886,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov8-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov8/index.json",
+      "previewCount": 18,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov8-1.0.0.snpack",
       "size": 1335992,
       "sha256": "5c82760ed717c94411440656063b3b2e2382c0458baa354bc636e936a95764e2",
@@ -847,6 +913,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov8korea-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov8korea/index.json",
+      "previewCount": 7,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov8korea-1.0.0.snpack",
       "size": 1592125,
       "sha256": "faeaa3626e11fd3b76e80e6895d9ee22de35b1cd47b94397a0d1d7b82cf9d3c8",
@@ -872,6 +940,8 @@
       "previewUrls": [
         "https://cdn.jsdelivr.net/gh/Anhmedia/snaply-online-packs@main/covers/typov9-v1.0.0.webp"
       ],
+      "previewIndexUrl": "https://raw.githubusercontent.com/acmong93/snaply-online-packs/main/previews/typov9/index.json",
+      "previewCount": 14,
       "downloadUrl": "https://github.com/acmong93/snaply-online-packs/releases/download/packs-v1/typov9-1.0.0.snpack",
       "size": 1877048,
       "sha256": "fffd2c514e1ecbec2d0ba33a0ed6e49c5fbfe7f6e4fc6d988e1ef55daa1e8e76",
