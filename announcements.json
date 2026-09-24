@@ -1,0 +1,4 @@
+{
+  "_huong_dan": "Kênh thông báo của Album Designer (Rosé Wedding). App đọc mảng notices; mỗi mục: id (không đổi, ≤100 ký tự), title (≤200), message (≤5000, xuống dòng bằng \\n), type: info | warning, createdAt ISO. Tối đa 50 mục. Xem server/SETUP.md Bước F.",
+  "notices": []
+}
