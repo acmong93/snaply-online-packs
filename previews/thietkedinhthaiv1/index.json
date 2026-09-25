@@ -2,7 +2,7 @@
  "packId": "thietkedinhthaiv1",
  "version": "1.0.0",
  "name": "Mẫu thiết kế Định Thái 1",
- "generatedAt": "2026-09-24T13:03:21.911Z",
+ "generatedAt": "2026-09-25T16:05:27.259Z",
  "concept": "c07-huong-lien",
  "items": [
   {
@@ -153,16 +153,17 @@
    "templateId": "thietkedinhthaiv1::01d0d07d-6a42-4144-ade2-a38121fadec9",
    "name": "newvdt82_67",
    "photoCount": 4,
-   "file": "01d0d07d-6a42-4144-ade2-a38121fadec9.webp",
+   "file": "01d0d07d-6a42-4144-ade2-a38121fadec9.a3380098.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::020ae1f6-9ee2-427b-ae10-dbf3eabc0f77",
    "name": "newvdt8_85",
    "photoCount": 8,
-   "file": "020ae1f6-9ee2-427b-ae10-dbf3eabc0f77.webp",
+   "file": "020ae1f6-9ee2-427b-ae10-dbf3eabc0f77.3da40dd6.webp",
    "w": 480,
    "h": 240,
    "kind": "design"
@@ -198,10 +199,11 @@
    "templateId": "thietkedinhthaiv1::0414bda7-bcc6-4373-9c37-5ccc727cd1f3",
    "name": "newt8_30",
    "photoCount": 4,
-   "file": "0414bda7-bcc6-4373-9c37-5ccc727cd1f3.webp",
+   "file": "0414bda7-bcc6-4373-9c37-5ccc727cd1f3.15c6b4ae.webp",
    "w": 480,
    "h": 336,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::042a573e-e0da-4f8f-a2a6-5bcd920978fd",
@@ -333,10 +335,11 @@
    "templateId": "thietkedinhthaiv1::06a119ae-819c-4dc8-9772-d6c212412b63",
    "name": "newvdt8_66",
    "photoCount": 4,
-   "file": "06a119ae-819c-4dc8-9772-d6c212412b63.webp",
+   "file": "06a119ae-819c-4dc8-9772-d6c212412b63.a4cb64dd.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::076d0e3b-e0a0-44a7-ba6e-5b96f4ba17dd",
@@ -747,10 +750,11 @@
    "templateId": "thietkedinhthaiv1::1649c5dc-2288-4bae-b8cc-1ae9f916d10b",
    "name": "newvdt8_140",
    "photoCount": 10,
-   "file": "1649c5dc-2288-4bae-b8cc-1ae9f916d10b.webp",
+   "file": "1649c5dc-2288-4bae-b8cc-1ae9f916d10b.50341da1.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::1654ee52-e541-4a43-828d-ed40aeb6e6b0",
@@ -945,10 +949,11 @@
    "templateId": "thietkedinhthaiv1::1b2cfc3a-5f77-4589-9543-b1514ed3fc85",
    "name": "newvdt8_93",
    "photoCount": 4,
-   "file": "1b2cfc3a-5f77-4589-9543-b1514ed3fc85.webp",
+   "file": "1b2cfc3a-5f77-4589-9543-b1514ed3fc85.a184aa0b.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::1bd912e0-ec69-4831-9b24-7c520c400edd",
@@ -972,10 +977,11 @@
    "templateId": "thietkedinhthaiv1::1d0b140d-849c-4406-8841-bcd9893c9f84",
    "name": "newvdt82_56",
    "photoCount": 11,
-   "file": "1d0b140d-849c-4406-8841-bcd9893c9f84.webp",
+   "file": "1d0b140d-849c-4406-8841-bcd9893c9f84.9716ffbd.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::1d44e476-052c-4f07-aab8-cec08b9f5410",
@@ -1125,10 +1131,11 @@
    "templateId": "thietkedinhthaiv1::213e3fa4-8219-4f46-8d16-b735de53da8b",
    "name": "newt8_49",
    "photoCount": 6,
-   "file": "213e3fa4-8219-4f46-8d16-b735de53da8b.webp",
+   "file": "213e3fa4-8219-4f46-8d16-b735de53da8b.40890944.webp",
    "w": 480,
    "h": 336,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::21484755-3d72-4d9d-ac7d-772a790fd656",
@@ -1215,7 +1222,7 @@
    "templateId": "thietkedinhthaiv1::22a7c98e-5c96-489c-96b1-f9bc2a3025e4",
    "name": "newt8doc_118",
    "photoCount": 8,
-   "file": "22a7c98e-5c96-489c-96b1-f9bc2a3025e4.webp",
+   "file": "22a7c98e-5c96-489c-96b1-f9bc2a3025e4.1d16f38a.webp",
    "w": 480,
    "h": 640,
    "kind": "design"
@@ -1305,7 +1312,7 @@
    "templateId": "thietkedinhthaiv1::2454eeb0-73c9-489e-981d-5a84625bd0e4",
    "name": "newt83_22",
    "photoCount": 11,
-   "file": "2454eeb0-73c9-489e-981d-5a84625bd0e4.webp",
+   "file": "2454eeb0-73c9-489e-981d-5a84625bd0e4.c48bae41.webp",
    "w": 480,
    "h": 336,
    "kind": "design"
@@ -1341,10 +1348,11 @@
    "templateId": "thietkedinhthaiv1::25ada5a5-9348-4454-8ce1-bc62578e537d",
    "name": "newt8_29",
    "photoCount": 7,
-   "file": "25ada5a5-9348-4454-8ce1-bc62578e537d.webp",
+   "file": "25ada5a5-9348-4454-8ce1-bc62578e537d.44aa516e.webp",
    "w": 480,
    "h": 336,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::260eef91-96e1-4c60-9ba5-f62772f61f7d",
@@ -1431,10 +1439,11 @@
    "templateId": "thietkedinhthaiv1::296dc660-67d2-4d6f-98a5-c38bbdbcebf7",
    "name": "newt83_57",
    "photoCount": 5,
-   "file": "296dc660-67d2-4d6f-98a5-c38bbdbcebf7.webp",
+   "file": "296dc660-67d2-4d6f-98a5-c38bbdbcebf7.a9d1dcf9.webp",
    "w": 480,
    "h": 336,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::29ba756a-04b4-40a2-a91a-36884ca7ddbc",
@@ -1539,10 +1548,11 @@
    "templateId": "thietkedinhthaiv1::2c2573fd-3bd1-4085-b0cd-8cfb0c9a6346",
    "name": "newt82_63",
    "photoCount": 4,
-   "file": "2c2573fd-3bd1-4085-b0cd-8cfb0c9a6346.webp",
+   "file": "2c2573fd-3bd1-4085-b0cd-8cfb0c9a6346.d76647f2.webp",
    "w": 480,
    "h": 336,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::2c68c5fd-1bd8-48fe-9fb3-9410801f8f08",
@@ -1557,7 +1567,7 @@
    "templateId": "thietkedinhthaiv1::2c99a941-8d75-4de2-96df-20fffb221e2c",
    "name": "newdonps_12",
    "photoCount": 9,
-   "file": "2c99a941-8d75-4de2-96df-20fffb221e2c.webp",
+   "file": "2c99a941-8d75-4de2-96df-20fffb221e2c.6271cce3.webp",
    "w": 480,
    "h": 640,
    "kind": "design"
@@ -1656,7 +1666,7 @@
    "templateId": "thietkedinhthaiv1::2f821370-0c82-4bc5-a83f-1b45940a7353",
    "name": "newt83_9",
    "photoCount": 7,
-   "file": "2f821370-0c82-4bc5-a83f-1b45940a7353.webp",
+   "file": "2f821370-0c82-4bc5-a83f-1b45940a7353.d0af0fd4.webp",
    "w": 480,
    "h": 336,
    "kind": "design"
@@ -1719,7 +1729,7 @@
    "templateId": "thietkedinhthaiv1::3151265e-51cb-4e36-b08f-4328e3141bb5",
    "name": "newt82_8",
    "photoCount": 5,
-   "file": "3151265e-51cb-4e36-b08f-4328e3141bb5.webp",
+   "file": "3151265e-51cb-4e36-b08f-4328e3141bb5.a1dbcda7.webp",
    "w": 480,
    "h": 336,
    "kind": "design"
@@ -1746,10 +1756,11 @@
    "templateId": "thietkedinhthaiv1::31f12b5d-e935-4c0e-9947-56b45f1df14f",
    "name": "newvdt8_44",
    "photoCount": 6,
-   "file": "31f12b5d-e935-4c0e-9947-56b45f1df14f.webp",
+   "file": "31f12b5d-e935-4c0e-9947-56b45f1df14f.e49a9935.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::3233c29f-7e7f-4983-9a22-56d52c72c018",
@@ -1764,10 +1775,11 @@
    "templateId": "thietkedinhthaiv1::32a9fd89-7906-4735-93a9-e0e887a91c22",
    "name": "newdonpsv_6",
    "photoCount": 7,
-   "file": "32a9fd89-7906-4735-93a9-e0e887a91c22.webp",
+   "file": "32a9fd89-7906-4735-93a9-e0e887a91c22.48dd5a1c.webp",
    "w": 480,
    "h": 480,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::331574d3-fb3d-48bc-9ce5-caa876a570d6",
@@ -1809,10 +1821,11 @@
    "templateId": "thietkedinhthaiv1::344878ff-c3e0-4b32-b25a-f06419d179b7",
    "name": "newvdt8_82",
    "photoCount": 5,
-   "file": "344878ff-c3e0-4b32-b25a-f06419d179b7.webp",
+   "file": "344878ff-c3e0-4b32-b25a-f06419d179b7.c1edda21.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::347a8d1d-9bea-4e13-b990-897e9bde7572",
@@ -1827,7 +1840,7 @@
    "templateId": "thietkedinhthaiv1::3483177d-b894-46c2-a4c9-8d81a30ac6d5",
    "name": "newt82_60",
    "photoCount": 7,
-   "file": "3483177d-b894-46c2-a4c9-8d81a30ac6d5.webp",
+   "file": "3483177d-b894-46c2-a4c9-8d81a30ac6d5.9f3532a3.webp",
    "w": 480,
    "h": 336,
    "kind": "design"
@@ -1899,7 +1912,7 @@
    "templateId": "thietkedinhthaiv1::365ea3c3-13fb-44ed-9fc2-96de37d06ab6",
    "name": "newt8_14",
    "photoCount": 8,
-   "file": "365ea3c3-13fb-44ed-9fc2-96de37d06ab6.webp",
+   "file": "365ea3c3-13fb-44ed-9fc2-96de37d06ab6.cf5a5b29.webp",
    "w": 480,
    "h": 336,
    "kind": "design"
@@ -1998,10 +2011,11 @@
    "templateId": "thietkedinhthaiv1::3eb3a251-237b-4ac7-a567-7091fdfb79d1",
    "name": "newt82_76",
    "photoCount": 4,
-   "file": "3eb3a251-237b-4ac7-a567-7091fdfb79d1.webp",
+   "file": "3eb3a251-237b-4ac7-a567-7091fdfb79d1.a1e6729e.webp",
    "w": 480,
    "h": 336,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::3f3cb343-716d-4866-ba62-25de80fc802d",
@@ -2034,10 +2048,11 @@
    "templateId": "thietkedinhthaiv1::405a0d7a-0757-4b87-bfff-5354c3f62c09",
    "name": "newvdt8_2",
    "photoCount": 4,
-   "file": "405a0d7a-0757-4b87-bfff-5354c3f62c09.webp",
+   "file": "405a0d7a-0757-4b87-bfff-5354c3f62c09.b0244801.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::405fccbb-4b1b-4120-96a6-b88827b53463",
@@ -2178,16 +2193,17 @@
    "templateId": "thietkedinhthaiv1::47da17a7-c7bc-4fcc-85c4-7c8c4fc0f687",
    "name": "newvdt82_133",
    "photoCount": 5,
-   "file": "47da17a7-c7bc-4fcc-85c4-7c8c4fc0f687.webp",
+   "file": "47da17a7-c7bc-4fcc-85c4-7c8c4fc0f687.1380b449.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::48dc0269-4878-45e5-8d20-c500bf412f7b",
    "name": "newvdt82_137",
    "photoCount": 8,
-   "file": "48dc0269-4878-45e5-8d20-c500bf412f7b.webp",
+   "file": "48dc0269-4878-45e5-8d20-c500bf412f7b.e082d35f.webp",
    "w": 480,
    "h": 240,
    "kind": "design"
@@ -2250,7 +2266,7 @@
    "templateId": "thietkedinhthaiv1::4b1069ea-2961-4612-a2b0-347706471794",
    "name": "newvdt82_76",
    "photoCount": 5,
-   "file": "4b1069ea-2961-4612-a2b0-347706471794.webp",
+   "file": "4b1069ea-2961-4612-a2b0-347706471794.655280a0.webp",
    "w": 480,
    "h": 240,
    "kind": "design"
@@ -2466,7 +2482,7 @@
    "templateId": "thietkedinhthaiv1::54b2d86b-4df6-4805-a6eb-fe5869aef360",
    "name": "newvdt8_72",
    "photoCount": 7,
-   "file": "54b2d86b-4df6-4805-a6eb-fe5869aef360.webp",
+   "file": "54b2d86b-4df6-4805-a6eb-fe5869aef360.af020b62.webp",
    "w": 480,
    "h": 240,
    "kind": "design"
@@ -2691,10 +2707,11 @@
    "templateId": "thietkedinhthaiv1::5de9d305-4c2f-4835-812d-54b44003824f",
    "name": "newvdt8_60",
    "photoCount": 5,
-   "file": "5de9d305-4c2f-4835-812d-54b44003824f.webp",
+   "file": "5de9d305-4c2f-4835-812d-54b44003824f.7115f1d3.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::5e7b7c82-3da2-4e5f-a560-28e1a95b34a7",
@@ -2763,7 +2780,7 @@
    "templateId": "thietkedinhthaiv1::613ba25f-10de-4b9d-9f2b-991e084e7fad",
    "name": "newvdt82_20",
    "photoCount": 5,
-   "file": "613ba25f-10de-4b9d-9f2b-991e084e7fad.webp",
+   "file": "613ba25f-10de-4b9d-9f2b-991e084e7fad.85de80f8.webp",
    "w": 480,
    "h": 240,
    "kind": "design"
@@ -2853,10 +2870,11 @@
    "templateId": "thietkedinhthaiv1::64fdde0c-f323-4095-8d46-6bffb4565948",
    "name": "newvdt8_23",
    "photoCount": 9,
-   "file": "64fdde0c-f323-4095-8d46-6bffb4565948.webp",
+   "file": "64fdde0c-f323-4095-8d46-6bffb4565948.669f258b.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::658661d9-1aec-48ab-bc10-a23eaaf4255e",
@@ -3051,10 +3069,11 @@
    "templateId": "thietkedinhthaiv1::6d026e9a-a7a9-49b7-98cd-ffbc0f71e116",
    "name": "newvdt82_104",
    "photoCount": 9,
-   "file": "6d026e9a-a7a9-49b7-98cd-ffbc0f71e116.webp",
+   "file": "6d026e9a-a7a9-49b7-98cd-ffbc0f71e116.c84d496a.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::6e1cd49f-a3bc-4cb5-a3af-56ef725accdc",
@@ -3141,7 +3160,7 @@
    "templateId": "thietkedinhthaiv1::70c008a9-4364-4947-a3b2-d8d092d6e731",
    "name": "newt82_6",
    "photoCount": 10,
-   "file": "70c008a9-4364-4947-a3b2-d8d092d6e731.webp",
+   "file": "70c008a9-4364-4947-a3b2-d8d092d6e731.8c63567f.webp",
    "w": 480,
    "h": 336,
    "kind": "design"
@@ -3177,10 +3196,11 @@
    "templateId": "thietkedinhthaiv1::71d81951-15ba-4e5e-84e2-6431a67be9f4",
    "name": "newt84_26",
    "photoCount": 5,
-   "file": "71d81951-15ba-4e5e-84e2-6431a67be9f4.webp",
+   "file": "71d81951-15ba-4e5e-84e2-6431a67be9f4.8cd994f3.webp",
    "w": 480,
    "h": 336,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::722b13f7-132b-4cfd-9c5c-cfb3418ddc00",
@@ -3222,10 +3242,11 @@
    "templateId": "thietkedinhthaiv1::7375659a-cb80-48bf-866c-9206dd6ca056",
    "name": "newdonpsv2_22",
    "photoCount": 6,
-   "file": "7375659a-cb80-48bf-866c-9206dd6ca056.webp",
+   "file": "7375659a-cb80-48bf-866c-9206dd6ca056.e0446615.webp",
    "w": 480,
    "h": 480,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::74eb8529-0416-4187-b19f-74905d9dd31c",
@@ -3258,10 +3279,11 @@
    "templateId": "thietkedinhthaiv1::756ec83e-ea50-4db3-971b-2dfb313f5215",
    "name": "newt83_71",
    "photoCount": 6,
-   "file": "756ec83e-ea50-4db3-971b-2dfb313f5215.webp",
+   "file": "756ec83e-ea50-4db3-971b-2dfb313f5215.8b842a97.webp",
    "w": 480,
    "h": 336,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::757f2426-7ed9-496e-b656-510685dbe703",
@@ -3366,10 +3388,11 @@
    "templateId": "thietkedinhthaiv1::77d77ba3-abad-40e2-968c-0e54eda0bc8c",
    "name": "newdonps_2",
    "photoCount": 4,
-   "file": "77d77ba3-abad-40e2-968c-0e54eda0bc8c.webp",
+   "file": "77d77ba3-abad-40e2-968c-0e54eda0bc8c.03737a11.webp",
    "w": 480,
    "h": 640,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::781820ce-f889-47dd-8e38-8205af8f08eb",
@@ -3384,19 +3407,21 @@
    "templateId": "thietkedinhthaiv1::78457d72-328f-485e-80d3-d6feef99dce9",
    "name": "newvdt82_23",
    "photoCount": 5,
-   "file": "78457d72-328f-485e-80d3-d6feef99dce9.webp",
+   "file": "78457d72-328f-485e-80d3-d6feef99dce9.9bbcea2f.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::79dbefe6-0c87-4062-8b7e-ffc829850f0e",
    "name": "newt8doc_82",
    "photoCount": 4,
-   "file": "79dbefe6-0c87-4062-8b7e-ffc829850f0e.webp",
+   "file": "79dbefe6-0c87-4062-8b7e-ffc829850f0e.56cab1e2.webp",
    "w": 480,
    "h": 640,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::79df41b4-951b-4d44-b340-0df7386982ec",
@@ -3429,7 +3454,7 @@
    "templateId": "thietkedinhthaiv1::7ae285b8-4166-487b-9ca6-66efb6a1c308",
    "name": "newvdt82_78",
    "photoCount": 7,
-   "file": "7ae285b8-4166-487b-9ca6-66efb6a1c308.webp",
+   "file": "7ae285b8-4166-487b-9ca6-66efb6a1c308.465d3940.webp",
    "w": 480,
    "h": 240,
    "kind": "design"
@@ -3456,10 +3481,11 @@
    "templateId": "thietkedinhthaiv1::7af7d401-24c2-457b-9fa6-dce6c236b198",
    "name": "newvdt82_139",
    "photoCount": 6,
-   "file": "7af7d401-24c2-457b-9fa6-dce6c236b198.webp",
+   "file": "7af7d401-24c2-457b-9fa6-dce6c236b198.399822e1.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::7b1ac7e5-6104-4c23-a1a0-99e1a7f93c64",
@@ -3618,10 +3644,11 @@
    "templateId": "thietkedinhthaiv1::7f1728e9-fa84-4d8c-a9d5-d017672a03b7",
    "name": "newvdt8_146",
    "photoCount": 6,
-   "file": "7f1728e9-fa84-4d8c-a9d5-d017672a03b7.webp",
+   "file": "7f1728e9-fa84-4d8c-a9d5-d017672a03b7.d4fd70c1.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::7fad2b9e-8b73-4094-894c-0539437bd26a",
@@ -3645,10 +3672,11 @@
    "templateId": "thietkedinhthaiv1::803087ac-1643-4c5f-971f-babbd854ac73",
    "name": "newvdt8_53",
    "photoCount": 11,
-   "file": "803087ac-1643-4c5f-971f-babbd854ac73.webp",
+   "file": "803087ac-1643-4c5f-971f-babbd854ac73.8df48f72.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::80494e02-afd4-478a-bb5e-22974da97631",
@@ -3681,10 +3709,11 @@
    "templateId": "thietkedinhthaiv1::81d58de4-1c67-4fa3-8f31-f26b5f0f6428",
    "name": "newt82_79",
    "photoCount": 5,
-   "file": "81d58de4-1c67-4fa3-8f31-f26b5f0f6428.webp",
+   "file": "81d58de4-1c67-4fa3-8f31-f26b5f0f6428.97011f5a.webp",
    "w": 480,
    "h": 336,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::8212a2d4-7a85-4a1c-962d-b5b67ba8e834",
@@ -3825,10 +3854,11 @@
    "templateId": "thietkedinhthaiv1::88bb7ea5-6764-4b3c-bf90-20beaf85e327",
    "name": "newvdt82_103",
    "photoCount": 4,
-   "file": "88bb7ea5-6764-4b3c-bf90-20beaf85e327.webp",
+   "file": "88bb7ea5-6764-4b3c-bf90-20beaf85e327.da08d9fd.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::88c958d5-d543-445e-b9fa-ee301fb9f7cb",
@@ -3843,10 +3873,11 @@
    "templateId": "thietkedinhthaiv1::88f0a43c-01cf-419f-b2b4-272e8a66d196",
    "name": "newdonpsv_2",
    "photoCount": 4,
-   "file": "88f0a43c-01cf-419f-b2b4-272e8a66d196.webp",
+   "file": "88f0a43c-01cf-419f-b2b4-272e8a66d196.428a96ab.webp",
    "w": 480,
    "h": 480,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::8937b7a7-dd25-49d6-92ed-661d958c59cf",
@@ -4014,10 +4045,11 @@
    "templateId": "thietkedinhthaiv1::8ce99963-e96d-4762-9524-2a16c18c5e07",
    "name": "newt8_40",
    "photoCount": 5,
-   "file": "8ce99963-e96d-4762-9524-2a16c18c5e07.webp",
+   "file": "8ce99963-e96d-4762-9524-2a16c18c5e07.6339bb9c.webp",
    "w": 480,
    "h": 336,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::8cea19b0-7e65-4930-abc4-e30996677cce",
@@ -4158,10 +4190,11 @@
    "templateId": "thietkedinhthaiv1::9054f9e3-f49c-4f75-aef4-1d134f69bc40",
    "name": "newvdt82_92",
    "photoCount": 5,
-   "file": "9054f9e3-f49c-4f75-aef4-1d134f69bc40.webp",
+   "file": "9054f9e3-f49c-4f75-aef4-1d134f69bc40.396f2315.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::914bd764-11a5-4b8b-9fc7-e8fd9a41eab8",
@@ -4257,10 +4290,11 @@
    "templateId": "thietkedinhthaiv1::950d8ba0-94e7-4615-8dcf-1beb009800de",
    "name": "newdonpsv_12",
    "photoCount": 9,
-   "file": "950d8ba0-94e7-4615-8dcf-1beb009800de.webp",
+   "file": "950d8ba0-94e7-4615-8dcf-1beb009800de.af0fe6aa.webp",
    "w": 480,
    "h": 480,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::951d43ce-7a15-486c-868f-383feb34b806",
@@ -4482,10 +4516,11 @@
    "templateId": "thietkedinhthaiv1::9d54cd5b-6c7d-41bd-800b-f135c6c7cded",
    "name": "newvdt8_142",
    "photoCount": 5,
-   "file": "9d54cd5b-6c7d-41bd-800b-f135c6c7cded.webp",
+   "file": "9d54cd5b-6c7d-41bd-800b-f135c6c7cded.1a043d82.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::9d7dfb27-7250-4c73-a0a3-3d074328a891",
@@ -4698,10 +4733,11 @@
    "templateId": "thietkedinhthaiv1::a5704390-cfce-4eb5-8ba3-22ce114b75ec",
    "name": "newvdt8_11",
    "photoCount": 4,
-   "file": "a5704390-cfce-4eb5-8ba3-22ce114b75ec.webp",
+   "file": "a5704390-cfce-4eb5-8ba3-22ce114b75ec.0414b529.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::a576a652-80f0-4e1f-a55e-1ba42de811f5",
@@ -4824,7 +4860,7 @@
    "templateId": "thietkedinhthaiv1::a98d1579-2664-451d-9355-bba92c629d45",
    "name": "newt83_15",
    "photoCount": 4,
-   "file": "a98d1579-2664-451d-9355-bba92c629d45.webp",
+   "file": "a98d1579-2664-451d-9355-bba92c629d45.881ac1b4.webp",
    "w": 480,
    "h": 336,
    "kind": "design"
@@ -4914,10 +4950,11 @@
    "templateId": "thietkedinhthaiv1::acedf555-40c4-495d-92e9-61de2cad5b34",
    "name": "newdonps_10",
    "photoCount": 6,
-   "file": "acedf555-40c4-495d-92e9-61de2cad5b34.webp",
+   "file": "acedf555-40c4-495d-92e9-61de2cad5b34.bdbe4823.webp",
    "w": 480,
    "h": 640,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::adc7887b-cd4a-4a98-b6bd-2fba7e9ad27d",
@@ -5301,7 +5338,7 @@
    "templateId": "thietkedinhthaiv1::bd0c39c2-090d-4764-a371-da8cbd9a24ea",
    "name": "newvdt8_81",
    "photoCount": 7,
-   "file": "bd0c39c2-090d-4764-a371-da8cbd9a24ea.webp",
+   "file": "bd0c39c2-090d-4764-a371-da8cbd9a24ea.39888a00.webp",
    "w": 480,
    "h": 240,
    "kind": "design"
@@ -5328,7 +5365,7 @@
    "templateId": "thietkedinhthaiv1::bd2d80da-5bf4-471a-9392-5bdcc1f298cb",
    "name": "newt82_45",
    "photoCount": 7,
-   "file": "bd2d80da-5bf4-471a-9392-5bdcc1f298cb.webp",
+   "file": "bd2d80da-5bf4-471a-9392-5bdcc1f298cb.a386eea4.webp",
    "w": 480,
    "h": 336,
    "kind": "design"
@@ -5634,10 +5671,11 @@
    "templateId": "thietkedinhthaiv1::c727ee89-4e01-421d-a820-003542731478",
    "name": "newvdt8_55",
    "photoCount": 7,
-   "file": "c727ee89-4e01-421d-a820-003542731478.webp",
+   "file": "c727ee89-4e01-421d-a820-003542731478.5f956173.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::c7484db1-1c01-4303-bfce-d6407c3b45b4",
@@ -5769,7 +5807,7 @@
    "templateId": "thietkedinhthaiv1::cb288ab2-1f67-4846-8290-c7c9ef94b57b",
    "name": "newt83_11",
    "photoCount": 5,
-   "file": "cb288ab2-1f67-4846-8290-c7c9ef94b57b.webp",
+   "file": "cb288ab2-1f67-4846-8290-c7c9ef94b57b.6368d898.webp",
    "w": 480,
    "h": 336,
    "kind": "design"
@@ -5841,10 +5879,11 @@
    "templateId": "thietkedinhthaiv1::cd6f095f-8284-4bb6-94f8-ee9fd3a8a5ae",
    "name": "newdonpsv_10",
    "photoCount": 6,
-   "file": "cd6f095f-8284-4bb6-94f8-ee9fd3a8a5ae.webp",
+   "file": "cd6f095f-8284-4bb6-94f8-ee9fd3a8a5ae.c0bc3098.webp",
    "w": 480,
    "h": 480,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::cde941c1-5d2b-488c-9e52-21bd01063d8b",
@@ -6228,10 +6267,11 @@
    "templateId": "thietkedinhthaiv1::dd59d24a-09f0-48c1-a8a8-b90cea41916f",
    "name": "newvdt82_145",
    "photoCount": 4,
-   "file": "dd59d24a-09f0-48c1-a8a8-b90cea41916f.webp",
+   "file": "dd59d24a-09f0-48c1-a8a8-b90cea41916f.1917d6f9.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::dd992a3c-006f-4267-9cbe-65ef77ed08fa",
@@ -6246,19 +6286,21 @@
    "templateId": "thietkedinhthaiv1::ddfd279a-8e9e-44cc-839c-67a54dd2a982",
    "name": "newvdt82_11",
    "photoCount": 5,
-   "file": "ddfd279a-8e9e-44cc-839c-67a54dd2a982.webp",
+   "file": "ddfd279a-8e9e-44cc-839c-67a54dd2a982.7d0b67e3.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::de1ae38d-5e16-4742-9d88-88cb79c828b8",
    "name": "newvdt8_10",
    "photoCount": 4,
-   "file": "de1ae38d-5e16-4742-9d88-88cb79c828b8.webp",
+   "file": "de1ae38d-5e16-4742-9d88-88cb79c828b8.e76545ae.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::de479b86-8cf4-4118-9cfc-8586123a8e8f",
@@ -6561,10 +6603,11 @@
    "templateId": "thietkedinhthaiv1::e5feb626-9b27-4980-ab08-d50d07d32116",
    "name": "newdonpsv_7",
    "photoCount": 7,
-   "file": "e5feb626-9b27-4980-ab08-d50d07d32116.webp",
+   "file": "e5feb626-9b27-4980-ab08-d50d07d32116.e7b571d1.webp",
    "w": 480,
    "h": 480,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::e62a461d-72a2-4980-8547-75fc70bd5e25",
@@ -6831,7 +6874,7 @@
    "templateId": "thietkedinhthaiv1::f0e243ed-d597-46c3-a8b2-efeadc328d43",
    "name": "newvdt8_17",
    "photoCount": 8,
-   "file": "f0e243ed-d597-46c3-a8b2-efeadc328d43.webp",
+   "file": "f0e243ed-d597-46c3-a8b2-efeadc328d43.3738b063.webp",
    "w": 480,
    "h": 240,
    "kind": "design"
@@ -6840,7 +6883,7 @@
    "templateId": "thietkedinhthaiv1::f0f1912d-93c5-4ce9-be31-5026157fa143",
    "name": "newt84_24",
    "photoCount": 5,
-   "file": "f0f1912d-93c5-4ce9-be31-5026157fa143.webp",
+   "file": "f0f1912d-93c5-4ce9-be31-5026157fa143.93421afe.webp",
    "w": 480,
    "h": 336,
    "kind": "design"
@@ -6885,7 +6928,7 @@
    "templateId": "thietkedinhthaiv1::f3ab2dd9-fa10-4d8a-9f70-19d1956c2be0",
    "name": "newt8_19",
    "photoCount": 8,
-   "file": "f3ab2dd9-fa10-4d8a-9f70-19d1956c2be0.webp",
+   "file": "f3ab2dd9-fa10-4d8a-9f70-19d1956c2be0.f53858ee.webp",
    "w": 480,
    "h": 336,
    "kind": "design"
@@ -6921,10 +6964,11 @@
    "templateId": "thietkedinhthaiv1::f46d90a1-d4e5-453d-9fba-947576ee17ab",
    "name": "_2",
    "photoCount": 6,
-   "file": "f46d90a1-d4e5-453d-9fba-947576ee17ab.webp",
+   "file": "f46d90a1-d4e5-453d-9fba-947576ee17ab.612db964.webp",
    "w": 480,
    "h": 336,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::f4b6d12e-8d99-4a64-89d5-0ac66a5bf45f",
@@ -6948,10 +6992,11 @@
    "templateId": "thietkedinhthaiv1::f60c303d-403e-4283-87d3-1a8b9df85d76",
    "name": "newvdt82_55",
    "photoCount": 5,
-   "file": "f60c303d-403e-4283-87d3-1a8b9df85d76.webp",
+   "file": "f60c303d-403e-4283-87d3-1a8b9df85d76.6559102a.webp",
    "w": 480,
    "h": 240,
-   "kind": "design"
+   "kind": "design",
+   "concept": "c10-kem-hoon"
   },
   {
    "templateId": "thietkedinhthaiv1::f6498794-0379-48c0-819c-086d514abde4",
